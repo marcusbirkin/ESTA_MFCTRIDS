@@ -1,0 +1,35 @@
+name: Run scraper scripts weekly and on push
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
+    
+jobs:
+  CPlusPlus:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: pip install BeautifulSoup4
+      
+      - name: Run scraper script
+        run: python scripts/generate_esta_mfctrids_hpp.py
+        
+      - name: Ignore changes only to the date comment in the header
+        shell: bash
+        run: git diff -I '\* @date' --quiet --exit-code && if [ $? -eq 0 ]; then git reset --hard; fi
+      
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9 
+        with:
+          default_author: github_actions
+          message: 'Github actions auto update of C++ header'
+          add: 'esta_mfcrids.hpp'

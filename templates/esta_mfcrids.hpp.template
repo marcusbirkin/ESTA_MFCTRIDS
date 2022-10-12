@@ -1,0 +1,44 @@
+﻿/**
+ * @file esta_mfcrids.hpp
+ * @brief ESTA ManufacturerIDs
+ * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
+ * @date $SCRAPEDATETIME
+ */
+
+#ifndef ESTA_MFCTRIDS_HPP
+#define ESTA_MFCTRIDS_HPP
+
+#include <map>
+#include <string>
+
+namespace ESTA {
+
+	/**
+	 * @details The Manufacturer ID Database is a public listing of 
+	 * (1) all the two-byte IDs assigned per clauses E4 and D5.12 of ANSI E1.11, Entertainment Technology - 
+	 * USITT DMX512-A - Asynchronous Serial Data Transmission Standard for Controlling Lighting Equipment and Accessories,
+	 * and (2) all the Textual Organization Identifiers assigned per clause 3.2 of ACN EPI 16.
+	 */
+	namespace ManufacturerIDs {
+		/**
+		 * @name Prototype Range
+		 * @details
+		 * Manufacturer IDs 7FF0h through 7FFFh are reserved for prototyping and experimental use
+		 * by a manufacturer while that manufacturer is waiting for an assigned Manufacturer ID.
+		 * They are not permitted to be used in product that is shipping.
+		 *@{*/
+		const uint16_t PROTOTYPE_BEGIN = 0x7FF0; /**< Prototyping range begin */
+		const uint16_t PROTOTYPE_END = 0x7FFF; /**< Prototyping range end */
+		/**@}*/
+
+		using namespace std::string_literals;
+		/**
+		 * @brief Manufacturer Company names
+		 * @details Indexed by Manufacturer ID
+		 */
+		const std::map<uint16_t, std::wstring> Manufacturers = {
+$SCRAPEMANUFACTURERS
+		}; // std::map
+	} // ManufacturerIDs
+} // ESTA
+#endif // ESTA_MFCTRIDS_HPP
