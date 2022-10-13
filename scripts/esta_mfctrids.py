@@ -1,13 +1,8 @@
 #!/usr/bin/env python3
 
 def getESTAmfctrIDs():
-    """Scrape the ESTA website and return a list of registered manufacturer IDs
-
-    Returns:
-        List of Dictionaries: List of Manufacturer details
-    """
-    import unicodedata
     import urllib.request
+    import string
     from bs4 import BeautifulSoup
 
     # Live copy of ESTA Control Protocols Working Group Manufacturer IDs
@@ -32,21 +27,21 @@ def getESTAmfctrIDs():
 
             # Manufacturer ID
             mfctrId = data[0].strip()
-            mfctrId = '0x' + mfctrId[:-1] # Remove trailing 'h', and prepend '0x'
-            manufacturer['Manufacturer ID'] = mfctrId
-
+            mfctrId = '0x' + mfctrId[:-1] # Remove trailing 'h', and prepend '0x' 
+            manufacturer['manufacturerID'] = int(mfctrId, base=16)
+            
             # Organization Name
             orgName = data[1].strip()
-            manufacturer['Organization Name'] = orgName
+            manufacturer['organizationName'] = orgName
 
             # Company
             company = data[2].strip()
             company = company.replace('"', '\'')
-            manufacturer['Company'] = company
+            manufacturer['company'] = company
 
             # Formally Registered
             registered = data[3].strip()
-            manufacturer['Registered'] = registered
+            manufacturer['registered'] = bool(registered.upper() == 'Y')
 
             manufacturers.append(manufacturer)
 

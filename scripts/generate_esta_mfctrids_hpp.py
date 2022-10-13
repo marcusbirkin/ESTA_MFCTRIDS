@@ -15,7 +15,12 @@ def main():
     # Scrape ESTA and create manufacturers string
     manufacturers = ''
     for item in getESTAmfctrIDs():
-        manufacturers += '\t\t\t' + '{' + item['Manufacturer ID'] + ', L"' + item['Company'] + '"s},' + '\n'
+        mfctrID = '0x' + (hex(item['manufacturerID'])[2:].zfill(4)).upper()
+        manufacturers += '\t\t\t' + \
+            '{' + \
+                mfctrID + ', ' + \
+                'L"' + item['company'] + '"s' + \
+            '},' + '\n'
 
     # Process template
     print('Reading template', inFilename)
@@ -27,7 +32,6 @@ def main():
             'SCRAPEDATETIME': datetime.now().astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
             # Scraped Manufacturers strings
 			'SCRAPEMANUFACTURERS': manufacturers
-        
         })
         with open(outFilename, 'w', encoding="utf-8-sig") as outputFile:
             print('Writing', outFilename)

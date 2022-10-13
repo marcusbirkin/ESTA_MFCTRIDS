@@ -16,8 +16,8 @@ def main():
 
     # Format dictionary to include datetime
     outputDict = {}
-    outputDict['Last Updated'] = datetime.now().astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
-    outputDict['Manufacturers'] = manufacturers
+    outputDict['lastUpdated'] = datetime.now().astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+    outputDict['manufacturers'] = manufacturers
 
     # Create JSON
     with open(outFilename, 'w', encoding='utf-8-sig') as outputFile:
