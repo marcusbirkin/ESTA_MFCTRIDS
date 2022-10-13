@@ -16,3 +16,11 @@ generate_esta_mfctrids_csv.py
 
 ### Importable item
 esta_mfcrids.csv
+
+## JSON
+
+### Script
+generate_esta_mfctrids_json.py
+
+### Importable item
+esta_mfcrids.json
