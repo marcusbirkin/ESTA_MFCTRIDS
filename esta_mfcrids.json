@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2022-10-13T12:02:35Z",
+  "lastUpdated": "2022-10-23T01:10:28Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3527,6 +3527,12 @@
       "manufacturerID": 2276,
       "organizationName": "",
       "company": "LMP Lichttechnik Vertriebsgesellschaft GmbH & Co KG",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2278,
+      "organizationName": "",
+      "company": "Shenzhen VisionMax Technology Co., Ltd",
       "registered": true
     },
     {
