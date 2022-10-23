@@ -14,6 +14,7 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+      - run: git checkout HEAD
         
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -43,6 +44,7 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+      - run: git checkout HEAD
         
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -68,6 +70,7 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+      - run: git checkout HEAD
         
       - name: Setup Python
         uses: actions/setup-python@v4
