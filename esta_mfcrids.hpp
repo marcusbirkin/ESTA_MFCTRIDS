@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2022-10-12T23:07:03Z
+ * @date 2022-10-23T09:25:28Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -625,6 +625,7 @@ namespace ESTA {
 			{0x08E1, L"Shenzhen CLT Electronics Co.,LTD"s},
 			{0x08E3, L"Guangzhou JinZhiHui Electronic Technology Co.,Ltd."s},
 			{0x08E4, L"LMP Lichttechnik Vertriebsgesellschaft GmbH & Co KG"s},
+			{0x08E6, L"Shenzhen VisionMax Technology Co., Ltd"s},
 			{0x08E7, L"3A Guangzhou Electronics Co., Ltd"s},
 			{0x08EA, L"Changchun Cedar Electronic Technology Co.,Ltd."s},
 			{0x08EC, L"Marvin Nadrowski"s},
@@ -698,6 +699,7 @@ namespace ESTA {
 			{0x0945, L"Guangzhou Lin Xiang Stage Lighting Equipment CO.,LTD"s},
 			{0x0946, L"TBE Srl"s},
 			{0x0948, L"Wisconsin Lighting Lab, Inc. (WiLL)"s},
+			{0x0949, L"Shenzhen Jiuzhou Optoelectronic Technology"s},
 			{0x094A, L"Funovation, Inc"s},
 			{0x094B, L"Invisua Lighting BV"s},
 			{0x0951, L"Guangzhou GTD Lighting Technology Co., Ltd"s},
