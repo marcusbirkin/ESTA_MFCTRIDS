@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2022-10-23T01:10:28Z",
+  "lastUpdated": "2022-10-23T10:57:20Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3971,6 +3971,12 @@
       "manufacturerID": 2376,
       "organizationName": "",
       "company": "Wisconsin Lighting Lab, Inc. (WiLL)",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2377,
+      "organizationName": "",
+      "company": "Shenzhen Jiuzhou Optoelectronic Technology",
       "registered": true
     },
     {
