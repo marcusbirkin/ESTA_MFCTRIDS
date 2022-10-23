@@ -38,6 +38,7 @@ jobs:
           add: 'esta_mfcrids.hpp'
 
   CSV:
+    needs: CPlusPlus
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -62,6 +63,7 @@ jobs:
           add: 'esta_mfcrids.csv'
 
   JSON:
+    needs: CSV
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
