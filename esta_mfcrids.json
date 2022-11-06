@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2022-10-23T10:57:20Z",
+  "lastUpdated": "2022-11-06T12:32:54Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4046,6 +4046,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2402,
+      "organizationName": "",
+      "company": "Finland Lighting Oy",
+      "registered": true
+    },
+    {
       "manufacturerID": 2405,
       "organizationName": "",
       "company": "Fontana Fountains",
@@ -4166,6 +4172,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2442,
+      "organizationName": "",
+      "company": "DongGuan JuYang Electric Co., Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2443,
       "organizationName": "",
       "company": "Glow Motion Technologies, LLC.",
@@ -4199,6 +4211,12 @@
       "manufacturerID": 2448,
       "organizationName": "",
       "company": "Stagelight Holding",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2449,
+      "organizationName": "",
+      "company": "Guangdong Pomelo Photoelectric Equipment Co., Ltd",
       "registered": true
     },
     {
