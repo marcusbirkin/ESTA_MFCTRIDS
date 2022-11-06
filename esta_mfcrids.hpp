@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2022-10-23T09:25:28Z
+ * @date 2022-11-06T00:59:28Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -711,6 +711,7 @@ namespace ESTA {
 			{0x095E, L"Hondel Lighting Limited"s},
 			{0x095F, L"Elaborated Networks GmbH"s},
 			{0x0960, L"Fineline Solutions Ltd."s},
+			{0x0962, L"Finland Lighting Oy"s},
 			{0x0965, L"Fontana Fountains"s},
 			{0x0967, L"Arcus Licht- und Praesentationstechnik GmbH"s},
 			{0x0968, L"Guangzhou Beyond Lighting Co., Limited."s},
@@ -731,12 +732,14 @@ namespace ESTA {
 			{0x0986, L"ROE Visual Co. Ltd."s},
 			{0x0987, L"mathertel.de"s},
 			{0x0989, L"YeGrin Liteworks"s},
+			{0x098A, L"DongGuan JuYang Electric Co., Ltd"s},
 			{0x098B, L"Glow Motion Technologies, LLC."s},
 			{0x098C, L"Shenzhen Longrich Energy Sources Technology Co., Ltd."s},
 			{0x098D, L"Batmink Ltd."s},
 			{0x098E, L"Ecosense Lighting Inc"s},
 			{0x098F, L"Digital Sputnik Lighting"s},
 			{0x0990, L"Stagelight Holding"s},
+			{0x0991, L"Guangdong Pomelo Photoelectric Equipment Co., Ltd"s},
 			{0x0993, L"Shenzhen Trigger digital Technology Co., LTD"s},
 			{0x0996, L"CCI Power Supplies, LLC"s},
 			{0x0997, L"Star Iluminacao Computadorizada LTDA"s},
