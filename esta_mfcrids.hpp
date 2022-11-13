@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2022-11-06T00:59:28Z
+ * @date 2022-11-13T00:56:56Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -437,6 +437,7 @@ namespace ESTA {
 			{0x06CE, L"American-Pro International"s},
 			{0x06D1, L"BIRUN ELECTRONIC INDUSTRIAL CO., LTD"s},
 			{0x06D2, L"LIGHTSTAR (BEIJING) ELECTRONIC CORPORATION"s},
+			{0x06D3, L"Boerner Distribution International GmbH"s},
 			{0x06E0, L"SHENZHEN LONGRUN OPTOELECTRONIC CO., LTD"s},
 			{0x06E1, L"Burck IT GmbH & Co. KG"s},
 			{0x06E4, L"Dydell B.V."s},
