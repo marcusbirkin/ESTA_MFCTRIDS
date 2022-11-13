@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2022-11-06T12:32:54Z",
+  "lastUpdated": "2022-11-13T00:57:59Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2399,6 +2399,12 @@
       "manufacturerID": 1746,
       "organizationName": "",
       "company": "LIGHTSTAR (BEIJING) ELECTRONIC CORPORATION",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1747,
+      "organizationName": "",
+      "company": "Boerner Distribution International GmbH",
       "registered": true
     },
     {
