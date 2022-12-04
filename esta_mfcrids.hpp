@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2022-11-20T00:59:06Z
+ * @date 2022-12-04T00:48:28Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -549,6 +549,7 @@ namespace ESTA {
 			{0x085E, L"MMS Distribution Ltd"s},
 			{0x085F, L"Media Visions, Inc."s},
 			{0x0863, L"XTEC Industries Pte Ltd"s},
+			{0x0864, L"Hangzhou Youte Power., Co. Ltd"s},
 			{0x0865, L"Contrade GmbH"s},
 			{0x0866, L"PAL Lighting"s},
 			{0x0868, L"Ushio America, Inc."s},
