@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2022-12-04T00:49:21Z",
+  "lastUpdated": "2022-12-11T00:53:37Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2252,6 +2252,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1643,
+      "organizationName": "",
+      "company": "AVANT-GARDE DE STUDIO FZ LLC",
+      "registered": true
+    },
+    {
       "manufacturerID": 1647,
       "organizationName": "",
       "company": "GUANGZHOU CY LIGHTING EQUIPMENT CO.,LTD",
@@ -4013,6 +4019,12 @@
       "manufacturerID": 2386,
       "organizationName": "",
       "company": "Guangzhou Sunway Entertainment Equipment Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2388,
+      "organizationName": "",
+      "company": "Ledtop Visual Ltd.",
       "registered": true
     },
     {
