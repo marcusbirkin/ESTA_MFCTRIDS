@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2022-12-04T00:48:28Z
+ * @date 2022-12-11T00:52:48Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -412,6 +412,7 @@ namespace ESTA {
 			{0x065E, L"OFilms"s},
 			{0x0660, L"QSTECH CO.,LTD"s},
 			{0x0668, L"Motion FX"s},
+			{0x066B, L"AVANT-GARDE DE STUDIO FZ LLC"s},
 			{0x066F, L"GUANGZHOU CY LIGHTING EQUIPMENT CO.,LTD"s},
 			{0x067A, L"Inster Co, Ltd"s},
 			{0x067C, L"LOTRONIC SA"s},
@@ -706,6 +707,7 @@ namespace ESTA {
 			{0x094B, L"Invisua Lighting BV"s},
 			{0x0951, L"Guangzhou GTD Lighting Technology Co., Ltd"s},
 			{0x0952, L"Guangzhou Sunway Entertainment Equipment Co., Ltd."s},
+			{0x0954, L"Ledtop Visual Ltd."s},
 			{0x0958, L"Illum Technology LLC (previously Verde Designs, Inc.)"s},
 			{0x0959, L"Urbs Lighting, LLC"s},
 			{0x095A, L"kLabs Research UK"s},
