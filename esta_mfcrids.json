@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2022-12-11T00:53:37Z",
+  "lastUpdated": "2022-12-18T00:45:21Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3437,6 +3437,12 @@
       "manufacturerID": 2243,
       "organizationName": "",
       "company": "Guangzhou Spark Stage Equipment Co. Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2244,
+      "organizationName": "",
+      "company": "Jacek Wagner",
       "registered": true
     },
     {
