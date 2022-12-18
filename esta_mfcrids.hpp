@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2022-12-11T00:52:48Z
+ * @date 2022-12-18T00:44:18Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -610,6 +610,7 @@ namespace ESTA {
 			{0x08BF, L"Times Square Stage Lighting Inc."s},
 			{0x08C1, L"Project SSSHH Incorporated"s},
 			{0x08C3, L"Guangzhou Spark Stage Equipment Co. Ltd"s},
+			{0x08C4, L"Jacek Wagner"s},
 			{0x08C5, L"EHRGEIZ Lichttechnik GmbH"s},
 			{0x08C6, L"Guangzhou Ever Famous Electronic Co.,Ltd"s},
 			{0x08C9, L"LEDitgo Videowall Germany GmbH"s},
