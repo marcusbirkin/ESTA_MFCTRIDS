@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2022-12-18T00:44:18Z
+ * @date 2022-12-25T00:48:04Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -564,6 +564,7 @@ namespace ESTA {
 			{0x0875, L"ARC Solid-State Lighting Corp."s},
 			{0x0876, L"Power Gems LTD"s},
 			{0x0878, L"OTTEC Technology GmbH"s},
+			{0x087A, L"Dextra Group Plc"s},
 			{0x087D, L"TPV Technology Group"s},
 			{0x0880, L"GuangZhou LiDang Technology Inc."s},
 			{0x0883, L"CEE Lighting Equipment Co.Ltd"s},
@@ -1065,6 +1066,7 @@ namespace ESTA {
 			{0x4466, L"DF elettronica s.r.l."s},
 			{0x4469, L"Diamante Lighting Srl"s},
 			{0x446C, L"Guangdong Delos Lighting Industrial Co.,Ltd."s},
+			{0x4533, L"LEDdynamics, Inc."s},
 			{0x453A, L"E:cue  Control GmbH"s},
 			{0x4541, L"Engineering Arts"s},
 			{0x4543, L"EC Elettronica Srl"s},
