@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2022-12-18T00:45:21Z",
+  "lastUpdated": "2022-12-25T00:48:54Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3164,6 +3164,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2170,
+      "organizationName": "",
+      "company": "Dextra Group Plc",
+      "registered": true
+    },
+    {
       "manufacturerID": 2173,
       "organizationName": "",
       "company": "TPV Technology Group",
@@ -6167,6 +6173,12 @@
       "manufacturerID": 17516,
       "organizationName": "",
       "company": "Guangdong Delos Lighting Industrial Co.,Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 17715,
+      "organizationName": "",
+      "company": "LEDdynamics, Inc.",
       "registered": true
     },
     {
