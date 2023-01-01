@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2022-12-25T00:48:54Z",
+  "lastUpdated": "2023-01-01T00:54:32Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2534,6 +2534,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1837,
+      "organizationName": "",
+      "company": "Sting Alleman",
+      "registered": true
+    },
+    {
       "manufacturerID": 1839,
       "organizationName": "",
       "company": "RayComposer - R. Adams",
@@ -3479,6 +3485,12 @@
       "manufacturerID": 2252,
       "organizationName": "",
       "company": "Guangzhou Santu Stage Lighting Equipment Co.Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2257,
+      "organizationName": "",
+      "company": "Shenzhen Leqi Network Technology Co., Ltd.",
       "registered": true
     },
     {
