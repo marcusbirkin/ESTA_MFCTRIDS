@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2022-12-25T00:48:04Z
+ * @date 2023-01-01T00:53:46Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -459,6 +459,7 @@ namespace ESTA {
 			{0x0724, L"PHC Lighting & BMS Sp. z o.o."s},
 			{0x072B, L"NEWSUBSTANCE Ltd."s},
 			{0x072C, L"SGM A/S"s},
+			{0x072D, L"Sting Alleman"s},
 			{0x072F, L"RayComposer - R. Adams"s},
 			{0x0732, L"Galaxia Electronics"s},
 			{0x0734, L"CPOINT"s},
@@ -617,6 +618,7 @@ namespace ESTA {
 			{0x08C9, L"LEDitgo Videowall Germany GmbH"s},
 			{0x08CA, L"Foshan City Xuandao Optoelectronics Equipment Co., Ltd"s},
 			{0x08CC, L"Guangzhou Santu Stage Lighting Equipment Co.Ltd"s},
+			{0x08D1, L"Shenzhen Leqi Network Technology Co., Ltd."s},
 			{0x08D3, L"SVI Public Company Limited"s},
 			{0x08D4, L"Sensa-Lite Ltd."s},
 			{0x08D5, L"Sense Effects"s},
