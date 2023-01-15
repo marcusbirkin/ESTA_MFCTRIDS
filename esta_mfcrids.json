@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-01-01T00:54:32Z",
+  "lastUpdated": "2023-01-15T00:51:59Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3077,6 +3077,12 @@
       "manufacturerID": 2143,
       "organizationName": "",
       "company": "Media Visions, Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2146,
+      "organizationName": "",
+      "company": "illuminous",
       "registered": true
     },
     {
@@ -8075,6 +8081,24 @@
       "manufacturerID": 29696,
       "organizationName": "",
       "company": "Danalux",
+      "registered": true
+    },
+    {
+      "manufacturerID": 29697,
+      "organizationName": "",
+      "company": "Harvatek Corporation",
+      "registered": true
+    },
+    {
+      "manufacturerID": 29698,
+      "organizationName": "",
+      "company": "Chris Kallas",
+      "registered": true
+    },
+    {
+      "manufacturerID": 29699,
+      "organizationName": "",
+      "company": "Yenrich Technology Corporation",
       "registered": true
     },
     {
