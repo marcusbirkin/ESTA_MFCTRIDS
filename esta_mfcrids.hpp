@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-01-01T00:53:46Z
+ * @date 2023-01-15T00:51:11Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -550,6 +550,7 @@ namespace ESTA {
 			{0x085B, L"Tolifo (Dongguan) Photographic Equipment Co. Ltd"s},
 			{0x085E, L"MMS Distribution Ltd"s},
 			{0x085F, L"Media Visions, Inc."s},
+			{0x0862, L"illuminous"s},
 			{0x0863, L"XTEC Industries Pte Ltd"s},
 			{0x0864, L"Hangzhou Youte Power., Co. Ltd"s},
 			{0x0865, L"Contrade GmbH"s},
@@ -1383,6 +1384,9 @@ namespace ESTA {
 			{0x7365, L"Ballantyne Strong Inc."s},
 			{0x736C, L"Strand Lighting Ltd."s},
 			{0x7400, L"Danalux"s},
+			{0x7401, L"Harvatek Corporation"s},
+			{0x7402, L"Chris Kallas"s},
+			{0x7403, L"Yenrich Technology Corporation"s},
 			{0x7764, L"WET"s},
 			{0x7765, L"MKT engineering GmbH & Co. KG"s},
 			{0x7777, L"Develtron A/S"s},
