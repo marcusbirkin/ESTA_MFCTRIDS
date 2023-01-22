@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-01-15T00:51:59Z",
+  "lastUpdated": "2023-01-22T00:52:24Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3137,6 +3137,12 @@
       "manufacturerID": 2158,
       "organizationName": "",
       "company": "Guangzhou Hi-LTTE Electronics Technology Co.,Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2159,
+      "organizationName": "",
+      "company": "MARTINI RUS LLC",
       "registered": true
     },
     {
@@ -7793,6 +7799,12 @@
       "manufacturerID": 25974,
       "organizationName": "",
       "company": "eventa Aktiengesellschaft",
+      "registered": true
+    },
+    {
+      "manufacturerID": 26112,
+      "organizationName": "",
+      "company": "WANTS Electronics Co. Ltd.",
       "registered": true
     },
     {
