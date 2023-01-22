@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-01-15T00:51:11Z
+ * @date 2023-01-22T00:51:27Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -560,6 +560,7 @@ namespace ESTA {
 			{0x086A, L"Shenzhen Chip Optech Co.,LTD"s},
 			{0x086C, L"Bafa Elektronik ve Işık Tasarımları Sanayii Ticaret LTD Sti."s},
 			{0x086E, L"Guangzhou Hi-LTTE Electronics Technology Co.,Ltd"s},
+			{0x086F, L"MARTINI RUS LLC"s},
 			{0x0870, L"Hunan YESTECH Optoelectronic Co., Ltd"s},
 			{0x0873, L"Guangzhou BKLite Stage Lighting Equipment Co.,LTD"s},
 			{0x0874, L"Snow Professional Lighting"s},
@@ -1336,6 +1337,7 @@ namespace ESTA {
 			{0x6573, L"Environmental Lighting Solutions"s},
 			{0x6574, L"Electronic Theatre Controls, Inc."s},
 			{0x6576, L"eventa Aktiengesellschaft"s},
+			{0x6600, L"WANTS Electronics Co. Ltd."s},
 			{0x6644, L"Sunlab Technologies S.L."s},
 			{0x666D, L"MAD-Effects"s},
 			{0x6673, L"Freescale Semiconductor U.K. Ltd."s},
