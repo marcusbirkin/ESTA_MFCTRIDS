@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-01-22T00:52:24Z",
+  "lastUpdated": "2023-01-29T00:53:42Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3809,6 +3809,12 @@
       "manufacturerID": 2326,
       "organizationName": "",
       "company": "ACTOR-MATE CO., LTD.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2327,
+      "organizationName": "",
+      "company": "Gavtronics",
       "registered": true
     },
     {
