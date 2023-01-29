@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-01-22T00:51:27Z
+ * @date 2023-01-29T00:52:58Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -672,6 +672,7 @@ namespace ESTA {
 			{0x0914, L"Xenio"s},
 			{0x0915, L"Guangzhou Chuangfeng Photoelectric Equipment Co., Ltd."s},
 			{0x0916, L"ACTOR-MATE CO., LTD."s},
+			{0x0917, L"Gavtronics"s},
 			{0x0918, L"David O Smith Design"s},
 			{0x0919, L"Foshan Leiyuan Photoelectric Co., LTD"s},
 			{0x091A, L"Celex LED Technology Ltd."s},
