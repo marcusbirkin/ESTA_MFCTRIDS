@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-01-29T00:53:42Z",
+  "lastUpdated": "2023-02-12T00:53:57Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3176,6 +3176,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2167,
+      "organizationName": "",
+      "company": "Skaff New Zealand Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2168,
       "organizationName": "",
       "company": "OTTEC Technology GmbH",
@@ -3401,6 +3407,12 @@
       "manufacturerID": 2227,
       "organizationName": "",
       "company": "Stealth Light srl",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2229,
+      "organizationName": "",
+      "company": "ShenZhen Sunny Xiao Technology Co., Ltd.",
       "registered": true
     },
     {
@@ -3647,6 +3659,12 @@
       "manufacturerID": 2292,
       "organizationName": "",
       "company": "MC Electronic Technology(GZ) Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2293,
+      "organizationName": "",
+      "company": "Fufeng lighting",
       "registered": true
     },
     {
