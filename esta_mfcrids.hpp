@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-01-29T00:52:58Z
+ * @date 2023-02-12T00:53:07Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -566,6 +566,7 @@ namespace ESTA {
 			{0x0874, L"Snow Professional Lighting"s},
 			{0x0875, L"ARC Solid-State Lighting Corp."s},
 			{0x0876, L"Power Gems LTD"s},
+			{0x0877, L"Skaff New Zealand Ltd"s},
 			{0x0878, L"OTTEC Technology GmbH"s},
 			{0x087A, L"Dextra Group Plc"s},
 			{0x087D, L"TPV Technology Group"s},
@@ -604,6 +605,7 @@ namespace ESTA {
 			{0x08B0, L"KIM Lighting"s},
 			{0x08B2, L"MCI Group"s},
 			{0x08B3, L"Stealth Light srl"s},
+			{0x08B5, L"ShenZhen Sunny Xiao Technology Co., Ltd."s},
 			{0x08B6, L"Graf Lichttechnik UG"s},
 			{0x08B9, L"Guangzhou Hua Rong Electronic Technology Co., Ltd."s},
 			{0x08BA, L"Meteor Lighting"s},
@@ -645,6 +647,7 @@ namespace ESTA {
 			{0x08F1, L"SanDevices, LLC"s},
 			{0x08F3, L"Outdoor Lasers Ltd."s},
 			{0x08F4, L"MC Electronic Technology(GZ) Co., Ltd."s},
+			{0x08F5, L"Fufeng lighting"s},
 			{0x08F6, L"Eulum Design, LLC"s},
 			{0x08F7, L"Neotek Lighting"s},
 			{0x08F8, L"Liberal Logic Inc."s},
