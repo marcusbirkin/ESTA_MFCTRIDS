@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-02-12T00:53:07Z
+ * @date 2023-02-26T00:55:59Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -400,6 +400,7 @@ namespace ESTA {
 			{0x0622, L"Lupo SRL"s},
 			{0x0623, L"JAS LIGHTING & SOUND CO., LTD."s},
 			{0x0624, L"S4 Lights"s},
+			{0x062A, L"LEDstructures"s},
 			{0x062B, L"CKC Lighting Co., Ltd."s},
 			{0x063A, L"AVM Belgium BVBA"s},
 			{0x063C, L"LaserNet"s},
@@ -471,6 +472,7 @@ namespace ESTA {
 			{0x0758, L"IMPOLUX GmbH"s},
 			{0x075F, L"LEDEngin Inc."s},
 			{0x076A, L"BeamZ  (Tronios B.V.)"s},
+			{0x076E, L"DecoLed, LLC"s},
 			{0x0776, L"lumenetix"s},
 			{0x077B, L"GENLED Brands"s},
 			{0x078A, L"FATEC sarl"s},
@@ -711,6 +713,7 @@ namespace ESTA {
 			{0x0941, L"Shenzen Zhuoyang Intelligent Technology Co., Ltd."s},
 			{0x0945, L"Guangzhou Lin Xiang Stage Lighting Equipment CO.,LTD"s},
 			{0x0946, L"TBE Srl"s},
+			{0x0947, L"Shenzhen MOSO Electronics Technology Co., Ltd"s},
 			{0x0948, L"Wisconsin Lighting Lab, Inc. (WiLL)"s},
 			{0x0949, L"Shenzhen Jiuzhou Optoelectronic Technology"s},
 			{0x094A, L"Funovation, Inc"s},
@@ -814,7 +817,7 @@ namespace ESTA {
 			{0x120B, L"Brilliant Stages Ltd."s},
 			{0x120C, L"Shanxi Tian Gong Sheng Optoelectronic Equipment Technology Co."s},
 			{0x1212, L"HPL Light Company"s},
-			{0x1221, L"SAGITTER  - Proel"s},
+			{0x1221, L"SAGITTER-SDJ-Proel"s},
 			{0x1222, L"SM International"s},
 			{0x1234, L"ESTA"s},
 			{0x12DA, L"Newlab S.r.l."s},
@@ -865,6 +868,7 @@ namespace ESTA {
 			{0x1888, L"GUANZHOU KAVON STAGE EQUIPMENT CO., LTD."s},
 			{0x18A6, L"Steadfast Technology"s},
 			{0x1900, L"ADJ Products LLC"s},
+			{0x1901, L"Zhongshan Hiline Electronics Co., Ltd."s},
 			{0x1938, L"Solid State Luminaires"s},
 			{0x1998, L"PLS Electronics Ltd."s},
 			{0x19B9, L"Duralamp S.p.A."s},
