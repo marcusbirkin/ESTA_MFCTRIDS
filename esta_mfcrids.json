@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-02-12T00:53:57Z",
+  "lastUpdated": "2023-02-26T00:57:00Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2180,6 +2180,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1578,
+      "organizationName": "",
+      "company": "LEDstructures",
+      "registered": true
+    },
+    {
       "manufacturerID": 1579,
       "organizationName": "",
       "company": "CKC Lighting Co., Ltd.",
@@ -2603,6 +2609,12 @@
       "manufacturerID": 1898,
       "organizationName": "",
       "company": "BeamZ  (Tronios B.V.)",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1902,
+      "organizationName": "",
+      "company": "DecoLed, LLC",
       "registered": true
     },
     {
@@ -4046,6 +4058,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2375,
+      "organizationName": "",
+      "company": "Shenzhen MOSO Electronics Technology Co., Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2376,
       "organizationName": "",
       "company": "Wisconsin Lighting Lab, Inc. (WiLL)",
@@ -4666,7 +4684,7 @@
     {
       "manufacturerID": 4641,
       "organizationName": "",
-      "company": "SAGITTER  - Proel",
+      "company": "SAGITTER-SDJ-Proel",
       "registered": true
     },
     {
@@ -4967,6 +4985,12 @@
       "manufacturerID": 6400,
       "organizationName": "",
       "company": "ADJ Products LLC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 6401,
+      "organizationName": "",
+      "company": "Zhongshan Hiline Electronics Co., Ltd.",
       "registered": true
     },
     {
