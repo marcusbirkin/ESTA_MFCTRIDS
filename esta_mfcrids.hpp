@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-02-26T00:55:59Z
+ * @date 2023-03-05T00:57:06Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -475,6 +475,7 @@ namespace ESTA {
 			{0x076E, L"DecoLed, LLC"s},
 			{0x0776, L"lumenetix"s},
 			{0x077B, L"GENLED Brands"s},
+			{0x0782, L"R9 Lighting"s},
 			{0x078A, L"FATEC sarl"s},
 			{0x078E, L"SHENZHEN BGLOPTO TECHNOLOGY Co., LTD."s},
 			{0x0792, L"MY-Semi Inc."s},
@@ -571,6 +572,7 @@ namespace ESTA {
 			{0x0877, L"Skaff New Zealand Ltd"s},
 			{0x0878, L"OTTEC Technology GmbH"s},
 			{0x087A, L"Dextra Group Plc"s},
+			{0x087C, L"Telectran International Pty Ltd."s},
 			{0x087D, L"TPV Technology Group"s},
 			{0x0880, L"GuangZhou LiDang Technology Inc."s},
 			{0x0883, L"CEE Lighting Equipment Co.Ltd"s},
