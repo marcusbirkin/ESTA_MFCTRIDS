@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-02-26T00:57:00Z",
+  "lastUpdated": "2023-03-05T00:57:50Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2630,6 +2630,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1922,
+      "organizationName": "",
+      "company": "R9 Lighting",
+      "registered": true
+    },
+    {
       "manufacturerID": 1930,
       "organizationName": "DMXTOOLBOX",
       "company": "FATEC sarl",
@@ -3203,6 +3209,12 @@
       "manufacturerID": 2170,
       "organizationName": "",
       "company": "Dextra Group Plc",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2172,
+      "organizationName": "",
+      "company": "Telectran International Pty Ltd.",
       "registered": true
     },
     {
