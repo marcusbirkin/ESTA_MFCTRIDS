@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-03-05T00:57:50Z",
+  "lastUpdated": "2023-03-12T00:53:20Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1013,6 +1013,12 @@
       "manufacturerID": 411,
       "organizationName": "",
       "company": "ElectroTAS Soluciones Profesionales",
+      "registered": true
+    },
+    {
+      "manufacturerID": 412,
+      "organizationName": "",
+      "company": "Ningbo Snappy Optoelectronics Co., Ltd.",
       "registered": true
     },
     {
