@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-03-05T00:57:06Z
+ * @date 2023-03-12T00:52:23Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -206,6 +206,7 @@ namespace ESTA {
 			{0x0199, L"Ocean LED Marine Ltd."s},
 			{0x019A, L"TwoGain Electronics"s},
 			{0x019B, L"ElectroTAS Soluciones Profesionales"s},
+			{0x019C, L"Ningbo Snappy Optoelectronics Co., Ltd."s},
 			{0x019F, L"DaisaLed Ltd."s},
 			{0x01A0, L"Light With LED"s},
 			{0x01A1, L"Yuesheng Stage Light Limited"s},
