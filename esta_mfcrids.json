@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-03-12T00:53:20Z",
+  "lastUpdated": "2023-03-19T00:54:28Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2666,6 +2666,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1947,
+      "organizationName": "",
+      "company": "Pro Church Lights",
+      "registered": true
+    },
+    {
       "manufacturerID": 1951,
       "organizationName": "",
       "company": "VPS Group, LLC",
@@ -4061,6 +4067,12 @@
       "manufacturerID": 2369,
       "organizationName": "",
       "company": "Shenzen Zhuoyang Intelligent Technology Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2371,
+      "organizationName": "",
+      "company": "Guangzhou Guangying Optoelectronics Co., Ltd",
       "registered": true
     },
     {
