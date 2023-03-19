@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-03-12T00:52:23Z
+ * @date 2023-03-19T00:53:30Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -481,6 +481,7 @@ namespace ESTA {
 			{0x078E, L"SHENZHEN BGLOPTO TECHNOLOGY Co., LTD."s},
 			{0x0792, L"MY-Semi Inc."s},
 			{0x0797, L"ARCPROLED Limited"s},
+			{0x079B, L"Pro Church Lights"s},
 			{0x079F, L"VPS Group, LLC"s},
 			{0x07A3, L"Guangzhou GBR PROLIGHT GROUP CO.,LTD (GBR PROLIGHT)"s},
 			{0x07A5, L"X LED Systems"s},
@@ -714,6 +715,7 @@ namespace ESTA {
 			{0x093F, L"Guangzhou Julong Platform Lighting Equipment Factory"s},
 			{0x0940, L"Shenzhen CreateLED Electronics Co., Ltd"s},
 			{0x0941, L"Shenzen Zhuoyang Intelligent Technology Co., Ltd."s},
+			{0x0943, L"Guangzhou Guangying Optoelectronics Co., Ltd"s},
 			{0x0945, L"Guangzhou Lin Xiang Stage Lighting Equipment CO.,LTD"s},
 			{0x0946, L"TBE Srl"s},
 			{0x0947, L"Shenzhen MOSO Electronics Technology Co., Ltd"s},
