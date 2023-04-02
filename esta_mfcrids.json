@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-03-19T00:54:28Z",
+  "lastUpdated": "2023-04-02T00:47:25Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2312,6 +2312,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1676,
+      "organizationName": "",
+      "company": "Hitmusic SAS",
+      "registered": true
+    },
+    {
       "manufacturerID": 1678,
       "organizationName": "",
       "company": "GUANGZHOU TEANMA STAGE LIGHTING FACTORY",
@@ -2471,6 +2477,12 @@
       "manufacturerID": 1784,
       "organizationName": "",
       "company": "CHONGQING XINYUANHUI OPTOELECTRONIC TECHNOLOGY CO.,LTD",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1792,
+      "organizationName": "",
+      "company": "OXYGEN SMD Ltd",
       "registered": true
     },
     {
@@ -5180,6 +5192,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 8363,
+      "organizationName": "",
+      "company": "IlluminaPi SAS",
+      "registered": true
+    },
+    {
       "manufacturerID": 8365,
       "organizationName": "",
       "company": "AZ e-lite Pte Ltd",
@@ -5381,6 +5399,18 @@
       "manufacturerID": 9015,
       "organizationName": "",
       "company": "Focon Showtechnic",
+      "registered": true
+    },
+    {
+      "manufacturerID": 9016,
+      "organizationName": "",
+      "company": "Humanlitech Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 9017,
+      "organizationName": "",
+      "company": "Sky-Skan Europe GmbH",
       "registered": true
     },
     {
