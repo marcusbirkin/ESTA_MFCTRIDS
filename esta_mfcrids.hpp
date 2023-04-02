@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-03-19T00:53:30Z
+ * @date 2023-04-02T00:46:41Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -422,6 +422,7 @@ namespace ESTA {
 			{0x0684, L"LEDART LLC"s},
 			{0x0685, L"IBL/ESD-Datentechnik GmbH"s},
 			{0x0687, L"INSMARINE LLC"s},
+			{0x068C, L"Hitmusic SAS"s},
 			{0x068E, L"GUANGZHOU TEANMA STAGE LIGHTING FACTORY"s},
 			{0x0696, L"SHENZHEN HOION LIGHTING CO.,LTD"s},
 			{0x0697, L"Shenzhen LED Innovator Technology Co., Ltd"s},
@@ -449,6 +450,7 @@ namespace ESTA {
 			{0x06F0, L"CTG sp. z o.o."s},
 			{0x06F1, L"Aqualux Lighting"s},
 			{0x06F8, L"CHONGQING XINYUANHUI OPTOELECTRONIC TECHNOLOGY CO.,LTD"s},
+			{0x0700, L"OXYGEN SMD Ltd"s},
 			{0x0702, L"Drinelec"s},
 			{0x0707, L"Conceptinetics Technologies and Consultancy Ltd."s},
 			{0x0708, L"AK-LIGHT"s},
@@ -900,6 +902,7 @@ namespace ESTA {
 			{0x2011, L"Gantom Lighting & Controls"s},
 			{0x207F, L"Padura Elektronik GmbH"s},
 			{0x20A6, L"ALADIN Architekturlicht GmbH"s},
+			{0x20AB, L"IlluminaPi SAS"s},
 			{0x20AD, L"AZ e-lite Pte Ltd"s},
 			{0x20B6, L"Alkalite LED Technology Corp"s},
 			{0x20B8, L"Electron SA"s},
@@ -934,6 +937,8 @@ namespace ESTA {
 			{0x22AB, L"EVC"s},
 			{0x22B9, L"Etherlight"s},
 			{0x2337, L"Focon Showtechnic"s},
+			{0x2338, L"Humanlitech Co., Ltd."s},
+			{0x2339, L"Sky-Skan Europe GmbH"s},
 			{0x23B2, L"Gekko Technology Ltd."s},
 			{0x2421, L"HB-Laserkomponenten GmbH"s},
 			{0x242A, L"Hungaroflash"s},
