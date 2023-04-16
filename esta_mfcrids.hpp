@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-04-02T00:46:41Z
+ * @date 2023-04-16T00:46:11Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -939,6 +939,7 @@ namespace ESTA {
 			{0x2337, L"Focon Showtechnic"s},
 			{0x2338, L"Humanlitech Co., Ltd."s},
 			{0x2339, L"Sky-Skan Europe GmbH"s},
+			{0x233A, L"4 Frames Lost UG"s},
 			{0x23B2, L"Gekko Technology Ltd."s},
 			{0x2421, L"HB-Laserkomponenten GmbH"s},
 			{0x242A, L"Hungaroflash"s},
