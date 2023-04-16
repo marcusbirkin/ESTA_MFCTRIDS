@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-04-02T00:47:25Z",
+  "lastUpdated": "2023-04-16T00:47:03Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -5411,6 +5411,12 @@
       "manufacturerID": 9017,
       "organizationName": "",
       "company": "Sky-Skan Europe GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 9018,
+      "organizationName": "",
+      "company": "4 Frames Lost UG",
       "registered": true
     },
     {
