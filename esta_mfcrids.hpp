@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-04-16T00:46:11Z
+ * @date 2023-04-23T00:49:37Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -217,7 +217,7 @@ namespace ESTA {
 			{0x01A6, L"Hengmei Lighting Technology Co., Ltd."s},
 			{0x01A8, L"ZongDa Photoelectricity Science and Technology Co., Ltd."s},
 			{0x01A9, L"Shenzhen Uniview LED Ltd. Co."s},
-			{0x01AA, L"Vitec Videocom Inc."s},
+			{0x01AA, L"Videndum Production Solutions Inc."s},
 			{0x01AB, L"Shanghai Euchips Industrial Co., Ltd."s},
 			{0x01AC, L"DongGuan  Phcistar Optoelectronics Technology Co., Ltd."s},
 			{0x01AF, L"Hunan Minghe Opto Tech Co., Ltd."s},
