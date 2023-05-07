@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-04-23T00:51:00Z",
+  "lastUpdated": "2023-05-07T00:47:44Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4196,6 +4196,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2404,
+      "organizationName": "",
+      "company": "Inventions Guit\u00e9 Inc.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2405,
       "organizationName": "",
       "company": "Fontana Fountains",
@@ -5867,6 +5873,12 @@
       "manufacturerID": 13623,
       "organizationName": "",
       "company": "Novacorp Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 13624,
+      "organizationName": "",
+      "company": "Lightnet sp. z o. o.",
       "registered": true
     },
     {
