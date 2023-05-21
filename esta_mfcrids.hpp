@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-05-07T00:46:51Z
+ * @date 2023-05-21T00:48:52Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -706,6 +706,7 @@ namespace ESTA {
 			{0x0931, L"Cristal Controles"s},
 			{0x0932, L"GUANGZHOU BORAY ELECTRON CO.,LTD"s},
 			{0x0933, L"Beyond Lighting WLL"s},
+			{0x0934, L"Zenopix Electronic Limited Company"s},
 			{0x0935, L"Guangzhou Huadu District Richa Lighting Equipment Factory"s},
 			{0x0936, L"AquaTronic"s},
 			{0x0937, L"Huizhou Zhonghan Electronic Technology Co., Ltd"s},
@@ -727,6 +728,7 @@ namespace ESTA {
 			{0x094B, L"Invisua Lighting BV"s},
 			{0x0951, L"Guangzhou GTD Lighting Technology Co., Ltd"s},
 			{0x0952, L"Guangzhou Sunway Entertainment Equipment Co., Ltd."s},
+			{0x0953, L"Boumakers Techniek"s},
 			{0x0954, L"Ledtop Visual Ltd."s},
 			{0x0958, L"Illum Technology LLC (previously Verde Designs, Inc.)"s},
 			{0x0959, L"Urbs Lighting, LLC"s},
