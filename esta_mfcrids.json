@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-05-07T00:47:44Z",
+  "lastUpdated": "2023-05-21T00:49:46Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4016,6 +4016,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2356,
+      "organizationName": "",
+      "company": "Zenopix Electronic Limited Company",
+      "registered": true
+    },
+    {
       "manufacturerID": 2357,
       "organizationName": "",
       "company": "Guangzhou Huadu District Richa Lighting Equipment Factory",
@@ -4139,6 +4145,12 @@
       "manufacturerID": 2386,
       "organizationName": "",
       "company": "Guangzhou Sunway Entertainment Equipment Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2387,
+      "organizationName": "",
+      "company": "Boumakers Techniek",
       "registered": true
     },
     {
