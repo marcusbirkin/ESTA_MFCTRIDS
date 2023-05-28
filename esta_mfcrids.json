@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-05-21T00:49:46Z",
+  "lastUpdated": "2023-05-28T00:52:02Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1922,6 +1922,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1262,
+      "organizationName": "",
+      "company": "Tivoli Lighting",
+      "registered": true
+    },
+    {
       "manufacturerID": 1264,
       "organizationName": "",
       "company": "SIGMA NET",
@@ -3443,6 +3449,12 @@
       "manufacturerID": 2224,
       "organizationName": "",
       "company": "KIM Lighting",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2225,
+      "organizationName": "",
+      "company": "Fujian Starnet Evideo Information System Co.,Ltd.",
       "registered": true
     },
     {
