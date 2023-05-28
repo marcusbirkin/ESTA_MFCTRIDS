@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-05-21T00:48:52Z
+ * @date 2023-05-28T00:51:00Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -357,6 +357,7 @@ namespace ESTA {
 			{0x04D7, L"Targetti Sankey Spa"s},
 			{0x04D8, L"Guangzhou Hong Yuan Electronic Technology Co., LTD."s},
 			{0x04DD, L"Topstriving Photoelectricity Technology Co., Ltd."s},
+			{0x04EE, L"Tivoli Lighting"s},
 			{0x04F0, L"SIGMA NET"s},
 			{0x04FC, L"Syncrolite LLC"s},
 			{0x050A, L"ChamSys Ltd."s},
@@ -611,6 +612,7 @@ namespace ESTA {
 			{0x08AE, L"Technical Audio Group Pty Ltd"s},
 			{0x08AF, L"AAdyn Technology"s},
 			{0x08B0, L"KIM Lighting"s},
+			{0x08B1, L"Fujian Starnet Evideo Information System Co.,Ltd."s},
 			{0x08B2, L"MCI Group"s},
 			{0x08B3, L"Stealth Light srl"s},
 			{0x08B5, L"ShenZhen Sunny Xiao Technology Co., Ltd."s},
