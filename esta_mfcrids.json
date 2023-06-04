@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-05-28T00:52:02Z",
+  "lastUpdated": "2023-06-04T01:00:35Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4457,6 +4457,12 @@
       "manufacturerID": 2474,
       "organizationName": "",
       "company": "Rushstage Show Lighting Limited",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2477,
+      "organizationName": "",
+      "company": "Dongguan Ensure Electronic Technology Co., LTD",
       "registered": true
     },
     {
