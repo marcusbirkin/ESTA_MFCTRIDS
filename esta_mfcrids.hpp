@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-05-28T00:51:00Z
+ * @date 2023-06-04T00:59:31Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -780,6 +780,7 @@ namespace ESTA {
 			{0x09A3, L"Shenzhen Lightlink Display Technology Co., Ltd"s},
 			{0x09A5, L"Prolight Concepts Ltd."s},
 			{0x09AA, L"Rushstage Show Lighting Limited"s},
+			{0x09AD, L"Dongguan Ensure Electronic Technology Co., LTD"s},
 			{0x09AE, L"Robert Juliat"s},
 			{0x09AF, L"Autotech Co."s},
 			{0x09B2, L"Guangzhou Hedong Electronics Co., LTD"s},
