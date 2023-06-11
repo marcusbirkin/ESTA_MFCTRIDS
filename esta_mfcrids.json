@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-06-04T01:00:35Z",
+  "lastUpdated": "2023-06-11T00:57:47Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2837,6 +2837,12 @@
       "manufacturerID": 2026,
       "organizationName": "",
       "company": "Le Maitre Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2031,
+      "organizationName": "",
+      "company": "Guangzhou V-Show Pro Lighting Co., Ltd.",
       "registered": true
     },
     {
