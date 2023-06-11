@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-06-04T00:59:31Z
+ * @date 2023-06-11T00:57:00Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -510,6 +510,7 @@ namespace ESTA {
 			{0x07E8, L"ROCKETSIGN Technology HK Ltd"s},
 			{0x07E9, L"TechLink Co., Ltd."s},
 			{0x07EA, L"Le Maitre Ltd"s},
+			{0x07EF, L"Guangzhou V-Show Pro Lighting Co., Ltd."s},
 			{0x07F3, L"Sam Light"s},
 			{0x07F4, L"LED Flex Ltd."s},
 			{0x07F5, L"Shenzhen ATENTI Technologies Co., Ltd"s},
