@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-06-11T00:57:00Z
+ * @date 2023-06-18T00:57:09Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -541,6 +541,7 @@ namespace ESTA {
 			{0x0827, L"PIXREAL"s},
 			{0x0832, L"Shenzhen EXC-LED Technology Co.,Ltd"s},
 			{0x083A, L"Bright Ideas Custom Electronics Inc."s},
+			{0x083C, L"TDT Productions"s},
 			{0x083E, L"Guangdong Hua Chen Film & Television Stage Project Co., Ltd."s},
 			{0x083F, L"Shenzhen LeiFei Lighting Technologies Co.,Ltd."s},
 			{0x0840, L"Shenzhen Zwich Science and Technology Co.Ltd."s},
