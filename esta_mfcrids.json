@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-06-11T00:57:47Z",
+  "lastUpdated": "2023-06-18T00:58:06Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3023,6 +3023,12 @@
       "manufacturerID": 2106,
       "organizationName": "",
       "company": "Bright Ideas Custom Electronics Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2108,
+      "organizationName": "",
+      "company": "TDT Productions",
       "registered": true
     },
     {
