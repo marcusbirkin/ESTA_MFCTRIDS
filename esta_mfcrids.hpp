@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-06-18T00:57:09Z
+ * @date 2023-06-25T01:02:03Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -345,10 +345,12 @@ namespace ESTA {
 			{0x044E, L"Ben Peoples Industries, LLC"s},
 			{0x044F, L"B2 Co., Ltd."s},
 			{0x0455, L"Lamp & Pencil"s},
+			{0x047C, L"LedsGo"s},
 			{0x048E, L"Krisledz Pte. Ltd."s},
 			{0x048F, L"Grand Canyon LED Lighting System (Suzhou) Co., Ltd."s},
 			{0x04A6, L"MEB Veranstaltungstechnik GmbH"s},
 			{0x04A9, L"Edward J. Keefe Jr."s},
+			{0x04B2, L"Shenzhen Meiyad Optoelectronics Co., Ltd"s},
 			{0x04B4, L"SKT Inc."s},
 			{0x04B5, L"Major"s},
 			{0x04B6, L"IntiLED"s},
@@ -536,6 +538,7 @@ namespace ESTA {
 			{0x0813, L"Shenzhen Scenico Optoelectronic Co., Ltd."s},
 			{0x0814, L"squareV"s},
 			{0x081C, L"MR Electronics Ltd."s},
+			{0x081E, L"LOBO Electronic GmbH"s},
 			{0x0823, L"Opito Labs GmbH"s},
 			{0x0824, L"Almotechnos CO.,LTD."s},
 			{0x0827, L"PIXREAL"s},
@@ -579,6 +582,7 @@ namespace ESTA {
 			{0x0877, L"Skaff New Zealand Ltd"s},
 			{0x0878, L"OTTEC Technology GmbH"s},
 			{0x087A, L"Dextra Group Plc"s},
+			{0x087B, L"About Time Technologies"s},
 			{0x087C, L"Telectran International Pty Ltd."s},
 			{0x087D, L"TPV Technology Group"s},
 			{0x0880, L"GuangZhou LiDang Technology Inc."s},
@@ -667,6 +671,7 @@ namespace ESTA {
 			{0x08FA, L"Phaton Lighting Co., Ltd."s},
 			{0x08FB, L"RPA Electronic Solutions Inc."s},
 			{0x08FC, L"Lights By Brian"s},
+			{0x08FD, L"Koto Electric Co., Ltd."s},
 			{0x08FE, L"Zhuhai Shengchang Electronics Co., Ltd."s},
 			{0x0900, L"nox multimedia GmbH"s},
 			{0x0901, L"GermTec GmbH & Co. KG"s},
