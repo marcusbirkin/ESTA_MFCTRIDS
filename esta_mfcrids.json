@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-06-25T01:02:43Z",
+  "lastUpdated": "2023-07-02T00:59:46Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4211,6 +4211,12 @@
       "manufacturerID": 2388,
       "organizationName": "",
       "company": "Ledtop Visual Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2391,
+      "organizationName": "",
+      "company": "White Light Ltd",
       "registered": true
     },
     {
