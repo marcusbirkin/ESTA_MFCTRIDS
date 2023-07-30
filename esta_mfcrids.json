@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-07-02T00:59:46Z",
+  "lastUpdated": "2023-07-30T00:48:55Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3743,6 +3743,12 @@
       "manufacturerID": 2289,
       "organizationName": "",
       "company": "SanDevices, LLC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2290,
+      "organizationName": "",
+      "company": "Virtualny Agronom Ltd.",
       "registered": true
     },
     {
