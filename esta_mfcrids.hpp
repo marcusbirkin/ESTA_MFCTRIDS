@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-07-02T00:59:05Z
+ * @date 2023-07-30T00:48:11Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -661,6 +661,7 @@ namespace ESTA {
 			{0x08EF, L"Guangzhou RuiYang lighting technology co. LTD."s},
 			{0x08F0, L"Guang Dong LMJ Lighting Co., Ltd"s},
 			{0x08F1, L"SanDevices, LLC"s},
+			{0x08F2, L"Virtualny Agronom Ltd."s},
 			{0x08F3, L"Outdoor Lasers Ltd."s},
 			{0x08F4, L"MC Electronic Technology(GZ) Co., Ltd."s},
 			{0x08F5, L"Fufeng lighting"s},
