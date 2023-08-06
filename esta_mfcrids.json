@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-07-30T00:48:55Z",
+  "lastUpdated": "2023-08-06T00:42:37Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4580,6 +4580,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2494,
+      "organizationName": "",
+      "company": "Arctos Showlasertechnik GmbH",
+      "registered": true
+    },
+    {
       "manufacturerID": 2496,
       "organizationName": "",
       "company": "Guangzhou Rainbow Lighting Equipment CO.,LTD",
@@ -8225,6 +8231,12 @@
       "manufacturerID": 28653,
       "organizationName": "",
       "company": "Explorentis",
+      "registered": true
+    },
+    {
+      "manufacturerID": 28654,
+      "organizationName": "",
+      "company": "fos design sp. z o.o.",
       "registered": true
     },
     {
