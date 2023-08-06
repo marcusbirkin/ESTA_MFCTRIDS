@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-07-30T00:48:11Z
+ * @date 2023-08-06T00:41:36Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -800,6 +800,7 @@ namespace ESTA {
 			{0x09B8, L"Prolites S.A.L."s},
 			{0x09BB, L"Guangzhou Yiyi Technology Co., Ltd."s},
 			{0x09BD, L"Shenzhen Zhongbo Photoelectric Co., Ltd"s},
+			{0x09BE, L"Arctos Showlasertechnik GmbH"s},
 			{0x09C0, L"Guangzhou Rainbow Lighting Equipment CO.,LTD"s},
 			{0x09C1, L"Argetron Elektrik Elektronik Organizasyon Gida San. ve Dis Tic. Ltd. Sti."s},
 			{0x09C3, L"Velleman nv"s},
@@ -1408,6 +1409,7 @@ namespace ESTA {
 			{0x6FEB, L"Insight Lighting"s},
 			{0x6FEC, L"Arc Lighting Co. Ltd."s},
 			{0x6FED, L"Explorentis"s},
+			{0x6FEE, L"fos design sp. z o.o."s},
 			{0x7000, L"Nippon Ceramic Co., Ltd."s},
 			{0x700A, L"Guangzhou Leemc Lighting Tech., Co., Ltd."s},
 			{0x700B, L"Vice Lighting DWC LLC"s},
