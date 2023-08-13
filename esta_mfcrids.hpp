@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-08-06T00:41:36Z
+ * @date 2023-08-13T00:39:03Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -334,6 +334,7 @@ namespace ESTA {
 			{0x03AA, L"AIGA Electronic (GuangZhou) Co., Ltd."s},
 			{0x03D5, L"eX Systems"s},
 			{0x03D6, L"i-Lumen"s},
+			{0x03DA, L"QST LED"s},
 			{0x03FA, L"ART-DMX"s},
 			{0x0402, L"Exato"s},
 			{0x0404, L"Luminxa"s},
@@ -472,6 +473,7 @@ namespace ESTA {
 			{0x0734, L"CPOINT"s},
 			{0x073B, L"Corsair Technology Ltd."s},
 			{0x0740, L"Arkalumen"s},
+			{0x0744, L"DMX Pro Sales, LLC"s},
 			{0x0745, L"Guangzhou Wingo Stage Light Co., Ltd"s},
 			{0x074F, L"Panasonic Corporation"s},
 			{0x0753, L"F&V Europe B.V."s},
@@ -526,6 +528,7 @@ namespace ESTA {
 			{0x0800, L"Hongyeah Light"s},
 			{0x0801, L"Guangzhou Favolite Stage Lighting Co., Ltd."s},
 			{0x0802, L"AstralPool"s},
+			{0x0806, L"Air Giants Limited"s},
 			{0x0807, L"Event Lighting Pty, Ltd."s},
 			{0x0808, L"Cooper Lighting - Zero 88"s},
 			{0x0809, L"mumoco GmbH"s},
