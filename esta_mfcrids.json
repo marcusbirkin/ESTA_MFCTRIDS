@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-08-06T00:42:37Z",
+  "lastUpdated": "2023-08-13T00:39:45Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1784,6 +1784,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 986,
+      "organizationName": "",
+      "company": "QST LED",
+      "registered": true
+    },
+    {
       "manufacturerID": 1018,
       "organizationName": "",
       "company": "ART-DMX",
@@ -2612,6 +2618,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1860,
+      "organizationName": "",
+      "company": "DMX Pro Sales, LLC",
+      "registered": true
+    },
+    {
       "manufacturerID": 1861,
       "organizationName": "",
       "company": "Guangzhou Wingo Stage Light Co., Ltd",
@@ -2933,6 +2945,12 @@
       "manufacturerID": 2050,
       "organizationName": "",
       "company": "AstralPool",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2054,
+      "organizationName": "",
+      "company": "Air Giants Limited",
       "registered": true
     },
     {
