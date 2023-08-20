@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-08-13T00:39:03Z
+ * @date 2023-08-20T00:38:55Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -379,6 +379,7 @@ namespace ESTA {
 			{0x0586, L"K 5600, Inc."s},
 			{0x0588, L"GuangZhou XiangMing Light Limited"s},
 			{0x0592, L"MIRAGE B.V."s},
+			{0x0596, L"ReveLux"s},
 			{0x05A0, L"Stage Smarts AB"s},
 			{0x05A4, L"IMMOLAS"s},
 			{0x05AB, L"Shenzhen Lesan Lighting Co., Ltd."s},
