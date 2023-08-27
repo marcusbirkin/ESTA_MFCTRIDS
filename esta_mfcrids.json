@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-08-20T00:39:51Z",
+  "lastUpdated": "2023-08-27T00:40:42Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2564,6 +2564,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1818,
+      "organizationName": "",
+      "company": "YHX Visual",
+      "registered": true
+    },
+    {
       "manufacturerID": 1823,
       "organizationName": "",
       "company": "Moss LED Inc",
@@ -2873,6 +2879,12 @@
       "manufacturerID": 2031,
       "organizationName": "",
       "company": "Guangzhou V-Show Pro Lighting Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2034,
+      "organizationName": "",
+      "company": "CB Electronics",
       "registered": true
     },
     {
@@ -3632,6 +3644,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2256,
+      "organizationName": "",
+      "company": "Image Engineering",
+      "registered": true
+    },
+    {
       "manufacturerID": 2257,
       "organizationName": "",
       "company": "Shenzhen Leqi Network Technology Co., Ltd.",
@@ -3731,6 +3749,12 @@
       "manufacturerID": 2282,
       "organizationName": "",
       "company": "Changchun Cedar Electronic Technology Co.,Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2283,
+      "organizationName": "",
+      "company": "Guangzhou Lixin Lighting Co., Ltd.",
       "registered": true
     },
     {
