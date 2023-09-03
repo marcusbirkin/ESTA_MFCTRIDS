@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-08-27T00:40:42Z",
+  "lastUpdated": "2023-09-03T00:40:58Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2342,6 +2342,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1673,
+      "organizationName": "",
+      "company": "GUANGDONG DONE POWER TECHNOLOGY CO",
+      "registered": true
+    },
+    {
       "manufacturerID": 1676,
       "organizationName": "",
       "company": "Hitmusic SAS",
@@ -2543,6 +2549,12 @@
       "manufacturerID": 1805,
       "organizationName": "",
       "company": "Lumenwerx ULC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1806,
+      "organizationName": "",
+      "company": "PragmaLab",
       "registered": true
     },
     {
@@ -2963,6 +2975,12 @@
       "manufacturerID": 2050,
       "organizationName": "",
       "company": "AstralPool",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2052,
+      "organizationName": "",
+      "company": "K&G Visual Technology",
       "registered": true
     },
     {
@@ -4979,6 +4997,12 @@
       "manufacturerID": 5292,
       "organizationName": "",
       "company": "Zaklad Elektroniczny AGAT s.c.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 5377,
+      "organizationName": "",
+      "company": "Artixium France SAS",
       "registered": true
     },
     {
