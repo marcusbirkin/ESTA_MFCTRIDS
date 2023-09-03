@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-08-27T00:39:54Z
+ * @date 2023-09-03T00:40:10Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -427,6 +427,7 @@ namespace ESTA {
 			{0x0684, L"LEDART LLC"s},
 			{0x0685, L"IBL/ESD-Datentechnik GmbH"s},
 			{0x0687, L"INSMARINE LLC"s},
+			{0x0689, L"GUANGDONG DONE POWER TECHNOLOGY CO"s},
 			{0x068C, L"Hitmusic SAS"s},
 			{0x068E, L"GUANGZHOU TEANMA STAGE LIGHTING FACTORY"s},
 			{0x0696, L"SHENZHEN HOION LIGHTING CO.,LTD"s},
@@ -461,6 +462,7 @@ namespace ESTA {
 			{0x0708, L"AK-LIGHT"s},
 			{0x070C, L"Pixout SIA"s},
 			{0x070D, L"Lumenwerx ULC"s},
+			{0x070E, L"PragmaLab"s},
 			{0x070F, L"Theatrelight New Zealand"s},
 			{0x0710, L"D.T.S. Illuminazione srl"s},
 			{0x0712, L"Laser Imagineering GmbH"s},
@@ -531,6 +533,7 @@ namespace ESTA {
 			{0x0800, L"Hongyeah Light"s},
 			{0x0801, L"Guangzhou Favolite Stage Lighting Co., Ltd."s},
 			{0x0802, L"AstralPool"s},
+			{0x0804, L"K&G Visual Technology"s},
 			{0x0806, L"Air Giants Limited"s},
 			{0x0807, L"Event Lighting Pty, Ltd."s},
 			{0x0808, L"Cooper Lighting - Zero 88"s},
@@ -867,6 +870,7 @@ namespace ESTA {
 			{0x1490, L"Grid Show Systems Inc."s},
 			{0x14A0, L"Intense Lighting, LLC"s},
 			{0x14AC, L"Zaklad Elektroniczny AGAT s.c."s},
+			{0x1501, L"Artixium France SAS"s},
 			{0x1506, L"v2 Lighting Group, Inc."s},
 			{0x1507, L"LC Handels GmbH"s},
 			{0x1508, L"TommyDMX"s},
