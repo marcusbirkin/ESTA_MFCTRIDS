@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-09-03T00:40:10Z
+ * @date 2023-09-17T00:40:59Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -332,6 +332,7 @@ namespace ESTA {
 			{0x03A2, L"licht.team"s},
 			{0x03A8, L"ARTFOX"s},
 			{0x03AA, L"AIGA Electronic (GuangZhou) Co., Ltd."s},
+			{0x03AB, L"ABMICROLONDON"s},
 			{0x03D5, L"eX Systems"s},
 			{0x03D6, L"i-Lumen"s},
 			{0x03DA, L"QST LED"s},
@@ -796,6 +797,7 @@ namespace ESTA {
 			{0x099A, L"Aixz International (S)"s},
 			{0x099E, L"LLC Lighting Technologies production"s},
 			{0x09A0, L"Rnet Lighting Technology Limited"s},
+			{0x09A1, L"Veranstaltungstechnik König"s},
 			{0x09A2, L"Fountain People"s},
 			{0x09A3, L"Shenzhen Lightlink Display Technology Co., Ltd"s},
 			{0x09A5, L"Prolight Concepts Ltd."s},
