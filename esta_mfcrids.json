@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-09-03T00:40:58Z",
+  "lastUpdated": "2023-09-17T00:42:04Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1769,6 +1769,12 @@
       "manufacturerID": 938,
       "organizationName": "",
       "company": "AIGA Electronic (GuangZhou) Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 939,
+      "organizationName": "",
+      "company": "ABMICROLONDON",
       "registered": true
     },
     {
@@ -4553,6 +4559,12 @@
       "manufacturerID": 2464,
       "organizationName": "Rnet",
       "company": "Rnet Lighting Technology Limited",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2465,
+      "organizationName": "",
+      "company": "Veranstaltungstechnik K\u00f6nig",
       "registered": true
     },
     {
