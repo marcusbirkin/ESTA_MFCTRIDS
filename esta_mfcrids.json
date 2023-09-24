@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-09-17T00:42:04Z",
+  "lastUpdated": "2023-09-24T00:41:57Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1955,6 +1955,12 @@
       "manufacturerID": 1264,
       "organizationName": "",
       "company": "SIGMA NET",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1268,
+      "organizationName": "",
+      "company": "Zeraus",
       "registered": true
     },
     {
