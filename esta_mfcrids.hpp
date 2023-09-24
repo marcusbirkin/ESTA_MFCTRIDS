@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-09-17T00:40:59Z
+ * @date 2023-09-24T00:41:04Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -363,6 +363,7 @@ namespace ESTA {
 			{0x04DD, L"Topstriving Photoelectricity Technology Co., Ltd."s},
 			{0x04EE, L"Tivoli Lighting"s},
 			{0x04F0, L"SIGMA NET"s},
+			{0x04F4, L"Zeraus"s},
 			{0x04FC, L"Syncrolite LLC"s},
 			{0x050A, L"ChamSys Ltd."s},
 			{0x051C, L"Ambitsel, Inc."s},
