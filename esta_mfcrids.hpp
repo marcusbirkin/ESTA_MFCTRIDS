@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-09-24T00:41:04Z
+ * @date 2023-10-01T00:44:30Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -622,6 +622,7 @@ namespace ESTA {
 			{0x08A4, L"Adam Hall GmbH"s},
 			{0x08A6, L"impulswerk.de"s},
 			{0x08A7, L"GuangZhou Deliya Opto-electronic Tech Co., Ltd"s},
+			{0x08A8, L"Guangzhou Yunpeng Lighting Equipment Co. Ltd."s},
 			{0x08AA, L"PiXL Factory"s},
 			{0x08AB, L"Qdot Lighting Limited"s},
 			{0x08AC, L"Bushveld Labs"s},
@@ -947,6 +948,7 @@ namespace ESTA {
 			{0x20C0, L"KappaStyle Productions."s},
 			{0x20C1, L"BrightBeats, LLC"s},
 			{0x20C2, L"Demilight"s},
+			{0x20C3, L"PIXILAB Technologies AB"s},
 			{0x2121, L"Brother,Brother & Sons Aps"s},
 			{0x2122, L"BEGLEC NV"s},
 			{0x2130, L"Bart van Stiphout Electronics & Software"s},
