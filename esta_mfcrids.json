@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-09-24T00:41:57Z",
+  "lastUpdated": "2023-10-01T00:45:22Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3512,6 +3512,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2216,
+      "organizationName": "",
+      "company": "Guangzhou Yunpeng Lighting Equipment Co. Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2218,
       "organizationName": "",
       "company": "PiXL Factory",
@@ -5459,6 +5465,12 @@
       "manufacturerID": 8386,
       "organizationName": "",
       "company": "Demilight",
+      "registered": true
+    },
+    {
+      "manufacturerID": 8387,
+      "organizationName": "",
+      "company": "PIXILAB Technologies AB",
       "registered": true
     },
     {
