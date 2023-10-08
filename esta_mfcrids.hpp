@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-10-01T00:44:30Z
+ * @date 2023-10-08T00:42:03Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -348,6 +348,7 @@ namespace ESTA {
 			{0x044F, L"B2 Co., Ltd."s},
 			{0x0455, L"Lamp & Pencil"s},
 			{0x047C, L"LedsGo"s},
+			{0x0480, L"ASUSTeK Computer Inc."s},
 			{0x048E, L"Krisledz Pte. Ltd."s},
 			{0x048F, L"Grand Canyon LED Lighting System (Suzhou) Co., Ltd."s},
 			{0x04A6, L"MEB Veranstaltungstechnik GmbH"s},
@@ -807,6 +808,7 @@ namespace ESTA {
 			{0x09AD, L"Dongguan Ensure Electronic Technology Co., LTD"s},
 			{0x09AE, L"Robert Juliat"s},
 			{0x09AF, L"Autotech Co."s},
+			{0x09B0, L"Luminii"s},
 			{0x09B2, L"Guangzhou Hedong Electronics Co., LTD"s},
 			{0x09B3, L"Aquatique Show Int."s},
 			{0x09B4, L"Brompton Technology Ltd."s},
@@ -831,6 +833,7 @@ namespace ESTA {
 			{0x09D6, L"Mittomakers"s},
 			{0x09D7, L"Unilumin Group"s},
 			{0x09D8, L"Pioneer Lighting Solutions India Pvt Ltd"s},
+			{0x09DD, L"Planet Innovation Products Inc"s},
 			{0x09DE, L"Matthias Bauch Software"s},
 			{0x09E9, L"Starway"s},
 			{0x09EE, L"Suzhou Pinzong Electronic Technology, CO.,Ltd"s},
