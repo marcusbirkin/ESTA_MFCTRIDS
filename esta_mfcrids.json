@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-10-01T00:45:22Z",
+  "lastUpdated": "2023-10-08T00:43:06Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1865,6 +1865,12 @@
       "manufacturerID": 1148,
       "organizationName": "",
       "company": "LedsGo",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1152,
+      "organizationName": "",
+      "company": "ASUSTeK Computer Inc.",
       "registered": true
     },
     {
@@ -4622,6 +4628,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2480,
+      "organizationName": "",
+      "company": "Luminii",
+      "registered": true
+    },
+    {
       "manufacturerID": 2482,
       "organizationName": "",
       "company": "Guangzhou Hedong Electronics Co., LTD",
@@ -4763,6 +4775,12 @@
       "manufacturerID": 2520,
       "organizationName": "",
       "company": "Pioneer Lighting Solutions India Pvt Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2525,
+      "organizationName": "",
+      "company": "Planet Innovation Products Inc",
       "registered": true
     },
     {
