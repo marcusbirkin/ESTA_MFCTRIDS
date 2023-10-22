@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-10-08T00:42:03Z
+ * @date 2023-10-22T00:42:04Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -1057,6 +1057,8 @@ namespace ESTA {
 			{0x37D0, L"Boogy Brothers Showequipment"s},
 			{0x37D7, L"Lichttechnik & Sonderbau"s},
 			{0x37DD, L"Sehr gute GmbH"s},
+			{0x3800, L"OndeLight LTD"s},
+			{0x3801, L"SFX Controllers Sweden AB"s},
 			{0x3805, L"Yifeng Lighting Co., Ltd."s},
 			{0x3806, L"ACME EFFECTS LTD."s},
 			{0x3868, L"LanBolight Technology Co., LTD."s},
@@ -1144,6 +1146,7 @@ namespace ESTA {
 			{0x464C, L"Flashlight/Ampco Holding"s},
 			{0x4653, L"IT & Eventtechnik Fabian Stumpf"s},
 			{0x4656, L"Flexvisual"s},
+			{0x4657, L"The Fountain Workshop Ltd."s},
 			{0x4658, L"MAGIC FX B.V."s},
 			{0x4678, L"Global Special Effects"s},
 			{0x4744, L"Goddard Design Co."s},
