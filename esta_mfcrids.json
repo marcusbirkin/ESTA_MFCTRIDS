@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-10-08T00:43:06Z",
+  "lastUpdated": "2023-10-22T00:43:02Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -6122,6 +6122,18 @@
       "registered": true
     },
     {
+      "manufacturerID": 14336,
+      "organizationName": "",
+      "company": "OndeLight LTD",
+      "registered": true
+    },
+    {
+      "manufacturerID": 14337,
+      "organizationName": "",
+      "company": "SFX Controllers Sweden AB",
+      "registered": true
+    },
+    {
       "manufacturerID": 14341,
       "organizationName": "",
       "company": "Yifeng Lighting Co., Ltd.",
@@ -6641,6 +6653,12 @@
       "manufacturerID": 18006,
       "organizationName": "",
       "company": "Flexvisual",
+      "registered": true
+    },
+    {
+      "manufacturerID": 18007,
+      "organizationName": "",
+      "company": "The Fountain Workshop Ltd.",
       "registered": true
     },
     {
