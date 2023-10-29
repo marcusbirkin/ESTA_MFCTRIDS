@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-10-22T00:42:04Z
+ * @date 2023-10-29T00:41:33Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -643,6 +643,7 @@ namespace ESTA {
 			{0x08BD, L"Lug Light Factory Sp. z o. o."s},
 			{0x08BE, L"Shenzhen FloatStone Technology Co., Ltd."s},
 			{0x08BF, L"Times Square Stage Lighting Inc."s},
+			{0x08C0, L"Real Tech International LTD."s},
 			{0x08C1, L"Project SSSHH Incorporated"s},
 			{0x08C3, L"Guangzhou Spark Stage Equipment Co. Ltd"s},
 			{0x08C4, L"Jacek Wagner"s},
