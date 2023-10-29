@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-10-22T00:43:02Z",
+  "lastUpdated": "2023-10-29T00:42:18Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3635,6 +3635,12 @@
       "manufacturerID": 2239,
       "organizationName": "",
       "company": "Times Square Stage Lighting Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2240,
+      "organizationName": "",
+      "company": "Real Tech International LTD.",
       "registered": true
     },
     {
