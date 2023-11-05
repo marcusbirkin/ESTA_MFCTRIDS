@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-10-29T00:41:33Z
+ * @date 2023-11-05T00:42:29Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -278,6 +278,7 @@ namespace ESTA {
 			{0x025B, L"Imlight-Showtechnic"s},
 			{0x026F, L"Acuity Brands Lighting Inc."s},
 			{0x0280, L"Arrigo Lighting"s},
+			{0x0286, L"RMLX"s},
 			{0x028F, L"GRE Alpha Electronics Ltd."s},
 			{0x02A0, L"LLC Likhoslavl Plant of Lighting Engineering (Svetotehnika)"s},
 			{0x02A1, L"LLC Moscow Experimental Lighting Plant (TeleMechanic)"s},
