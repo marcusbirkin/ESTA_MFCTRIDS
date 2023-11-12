@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-11-05T00:42:29Z
+ * @date 2023-11-12T00:42:51Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -434,6 +434,7 @@ namespace ESTA {
 			{0x0689, L"GUANGDONG DONE POWER TECHNOLOGY CO"s},
 			{0x068C, L"Hitmusic SAS"s},
 			{0x068E, L"GUANGZHOU TEANMA STAGE LIGHTING FACTORY"s},
+			{0x068F, L"LEDEC GROUP LIMITED"s},
 			{0x0696, L"SHENZHEN HOION LIGHTING CO.,LTD"s},
 			{0x0697, L"Shenzhen LED Innovator Technology Co., Ltd"s},
 			{0x0698, L"Techni-Lux"s},
@@ -462,6 +463,7 @@ namespace ESTA {
 			{0x06F8, L"CHONGQING XINYUANHUI OPTOELECTRONIC TECHNOLOGY CO.,LTD"s},
 			{0x0700, L"OXYGEN SMD Ltd"s},
 			{0x0702, L"Drinelec"s},
+			{0x0706, L"LINEAR TECHNOLOGIE"s},
 			{0x0707, L"Conceptinetics Technologies and Consultancy Ltd."s},
 			{0x0708, L"AK-LIGHT"s},
 			{0x070C, L"Pixout SIA"s},
@@ -571,6 +573,7 @@ namespace ESTA {
 			{0x0854, L"NEC Display Solutions, Ltd."s},
 			{0x0854, L"Sharp NEC Display Solutions, Ltd."s},
 			{0x0855, L"GODOX Photo Equipment Co., Ltd."s},
+			{0x0856, L"Ctrl Element ehf"s},
 			{0x0858, L"Juno Lighting Group"s},
 			{0x085A, L"Guangzhou Ming Jing Stage Light Equipment Co., Ltd."s},
 			{0x085B, L"Tolifo (Dongguan) Photographic Equipment Co. Ltd"s},
@@ -622,6 +625,7 @@ namespace ESTA {
 			{0x08A2, L"Guangzhou Gesida Light Equipment Co., Ltd."s},
 			{0x08A3, L"Redot Visual Effect Technologies (Shenzhen) Co., Ltd"s},
 			{0x08A4, L"Adam Hall GmbH"s},
+			{0x08A5, L"White Wing Logic"s},
 			{0x08A6, L"impulswerk.de"s},
 			{0x08A7, L"GuangZhou Deliya Opto-electronic Tech Co., Ltd"s},
 			{0x08A8, L"Guangzhou Yunpeng Lighting Equipment Co. Ltd."s},
