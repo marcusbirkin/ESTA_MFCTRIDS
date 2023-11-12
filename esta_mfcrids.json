@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-11-05T00:43:27Z",
+  "lastUpdated": "2023-11-12T00:43:33Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2384,6 +2384,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1679,
+      "organizationName": "",
+      "company": "LEDEC GROUP LIMITED",
+      "registered": true
+    },
+    {
       "manufacturerID": 1686,
       "organizationName": "",
       "company": "SHENZHEN HOION LIGHTING CO.,LTD",
@@ -2549,6 +2555,12 @@
       "manufacturerID": 1794,
       "organizationName": "",
       "company": "Drinelec",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1798,
+      "organizationName": "",
+      "company": "LINEAR TECHNOLOGIE",
       "registered": true
     },
     {
@@ -3206,6 +3218,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2134,
+      "organizationName": "",
+      "company": "Ctrl Element ehf",
+      "registered": true
+    },
+    {
       "manufacturerID": 2136,
       "organizationName": "",
       "company": "Juno Lighting Group",
@@ -3509,6 +3527,12 @@
       "manufacturerID": 2212,
       "organizationName": "",
       "company": "Adam Hall GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2213,
+      "organizationName": "",
+      "company": "White Wing Logic",
       "registered": true
     },
     {
