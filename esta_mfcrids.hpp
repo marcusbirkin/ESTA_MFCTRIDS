@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-11-12T00:42:51Z
+ * @date 2023-11-19T00:44:11Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -416,6 +416,7 @@ namespace ESTA {
 			{0x063C, L"LaserNet"s},
 			{0x0644, L"COLEDER DISPLAY CO., LTD."s},
 			{0x0645, L"MATSUMURA ELECTRIC MFG. CO. , LTD."s},
+			{0x064D, L"KXD LIGHTING CO., LIMITED"s},
 			{0x0650, L"RDC, Inc. d.b.a. LynTec"s},
 			{0x0653, L"USAI, LLC"s},
 			{0x0654, L"HUNAN XIANG CAIXU FILM AND TELEVISION CULTURE CO.LTD"s},
@@ -525,6 +526,7 @@ namespace ESTA {
 			{0x07E9, L"TechLink Co., Ltd."s},
 			{0x07EA, L"Le Maitre Ltd"s},
 			{0x07EF, L"Guangzhou V-Show Pro Lighting Co., Ltd."s},
+			{0x07F0, L"Lifud Technology Co., Ltd"s},
 			{0x07F2, L"CB Electronics"s},
 			{0x07F3, L"Sam Light"s},
 			{0x07F4, L"LED Flex Ltd."s},
@@ -833,6 +835,7 @@ namespace ESTA {
 			{0x09C8, L"Crystal Fountains Inc."s},
 			{0x09CC, L"Motomuto Aps"s},
 			{0x09D1, L"Environmental Lights"s},
+			{0x09D2, L"Shenzhen Siwelo Technology Co., LTD"s},
 			{0x09D3, L"WLPS Wodielite Production Services"s},
 			{0x09D4, L"Guangzhou Yilaiming Photoelectric Technology Co., Ltd"s},
 			{0x09D5, L"Shenzhen ImagineVision Technology Limited"s},
