@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-11-12T00:43:33Z",
+  "lastUpdated": "2023-11-19T00:44:52Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2276,6 +2276,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1613,
+      "organizationName": "",
+      "company": "KXD LIGHTING CO., LIMITED",
+      "registered": true
+    },
+    {
       "manufacturerID": 1616,
       "organizationName": "",
       "company": "RDC, Inc. d.b.a. LynTec",
@@ -2927,6 +2933,12 @@
       "manufacturerID": 2031,
       "organizationName": "",
       "company": "Guangzhou V-Show Pro Lighting Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2032,
+      "organizationName": "",
+      "company": "Lifud Technology Co., Ltd",
       "registered": true
     },
     {
@@ -4775,6 +4787,12 @@
       "manufacturerID": 2513,
       "organizationName": "",
       "company": "Environmental Lights",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2514,
+      "organizationName": "",
+      "company": "Shenzhen Siwelo Technology Co., LTD",
       "registered": true
     },
     {
