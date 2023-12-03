@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-11-19T00:44:11Z
+ * @date 2023-12-03T00:44:00Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -542,6 +542,7 @@ namespace ESTA {
 			{0x0801, L"Guangzhou Favolite Stage Lighting Co., Ltd."s},
 			{0x0802, L"AstralPool"s},
 			{0x0804, L"K&G Visual Technology"s},
+			{0x0805, L"T.C.M. Light-Solutions"s},
 			{0x0806, L"Air Giants Limited"s},
 			{0x0807, L"Event Lighting Pty, Ltd."s},
 			{0x0808, L"Cooper Lighting - Zero 88"s},
