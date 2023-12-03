@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-11-19T00:44:52Z",
+  "lastUpdated": "2023-12-03T00:44:49Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3029,6 +3029,12 @@
       "manufacturerID": 2052,
       "organizationName": "",
       "company": "K&G Visual Technology",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2053,
+      "organizationName": "",
+      "company": "T.C.M. Light-Solutions",
       "registered": true
     },
     {
