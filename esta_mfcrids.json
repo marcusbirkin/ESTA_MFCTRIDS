@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-12-03T00:44:49Z",
+  "lastUpdated": "2023-12-10T00:45:46Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1802,6 +1802,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1008,
+      "organizationName": "",
+      "company": "jpbaye.de",
+      "registered": true
+    },
+    {
       "manufacturerID": 1018,
       "organizationName": "",
       "company": "ART-DMX",
@@ -2834,6 +2840,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1974,
+      "organizationName": "",
+      "company": "Minleon USA",
+      "registered": true
+    },
+    {
       "manufacturerID": 1979,
       "organizationName": "",
       "company": "Shenzhen SOSEN Electronics Co., Ltd.",
@@ -3344,6 +3356,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2161,
+      "organizationName": "",
+      "company": "Changsha Maya Special Effects Equipment Co., Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2163,
       "organizationName": "",
       "company": "Guangzhou BKLite Stage Lighting Equipment Co.,LTD",
@@ -3839,6 +3857,12 @@
       "manufacturerID": 2279,
       "organizationName": "",
       "company": "3A Guangzhou Electronics Co., Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2280,
+      "organizationName": "",
+      "company": "North Engineering",
       "registered": true
     },
     {
@@ -6761,6 +6785,12 @@
       "manufacturerID": 18256,
       "organizationName": "",
       "company": "DES",
+      "registered": true
+    },
+    {
+      "manufacturerID": 18258,
+      "organizationName": "",
+      "company": "Greenlite",
       "registered": true
     },
     {
