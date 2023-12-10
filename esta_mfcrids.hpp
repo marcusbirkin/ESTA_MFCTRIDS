@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-12-03T00:44:00Z
+ * @date 2023-12-10T00:44:52Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -337,6 +337,7 @@ namespace ESTA {
 			{0x03D5, L"eX Systems"s},
 			{0x03D6, L"i-Lumen"s},
 			{0x03DA, L"QST LED"s},
+			{0x03F0, L"jpbaye.de"s},
 			{0x03FA, L"ART-DMX"s},
 			{0x0402, L"Exato"s},
 			{0x0404, L"Luminxa"s},
@@ -509,6 +510,7 @@ namespace ESTA {
 			{0x07B1, L"TBF-PyroTec GmbH"s},
 			{0x07B3, L"Shenzhen Fabulux Technology Co., Ltd"s},
 			{0x07B5, L"ARM Automation, Inc"s},
+			{0x07B6, L"Minleon USA"s},
 			{0x07BB, L"Shenzhen SOSEN Electronics Co., Ltd."s},
 			{0x07BE, L"Sanko Device Co.Ltd."s},
 			{0x07C0, L"Code Mercenaries GmbH"s},
@@ -594,6 +596,7 @@ namespace ESTA {
 			{0x086E, L"Guangzhou Hi-LTTE Electronics Technology Co.,Ltd"s},
 			{0x086F, L"MARTINI RUS LLC"s},
 			{0x0870, L"Hunan YESTECH Optoelectronic Co., Ltd"s},
+			{0x0871, L"Changsha Maya Special Effects Equipment Co., Ltd"s},
 			{0x0873, L"Guangzhou BKLite Stage Lighting Equipment Co.,LTD"s},
 			{0x0874, L"Snow Professional Lighting"s},
 			{0x0875, L"ARC Solid-State Lighting Corp."s},
@@ -677,6 +680,7 @@ namespace ESTA {
 			{0x08E4, L"LMP Lichttechnik Vertriebsgesellschaft GmbH & Co KG"s},
 			{0x08E6, L"Shenzhen VisionMax Technology Co., Ltd"s},
 			{0x08E7, L"3A Guangzhou Electronics Co., Ltd"s},
+			{0x08E8, L"North Engineering"s},
 			{0x08EA, L"Changchun Cedar Electronic Technology Co.,Ltd."s},
 			{0x08EB, L"Guangzhou Lixin Lighting Co., Ltd."s},
 			{0x08EC, L"Marvin Nadrowski"s},
@@ -1164,6 +1168,7 @@ namespace ESTA {
 			{0x4747, L"G&G LED Lighting"s},
 			{0x474C, L"G-LEC Europe GmbH"s},
 			{0x4750, L"DES"s},
+			{0x4752, L"Greenlite"s},
 			{0x4753, L"Guangzhou Haoyang Electronic Co., Ltd."s},
 			{0x476C, L"General Luminaire (Shanghai) Ltd."s},
 			{0x4800, L"VOD VISUAL.CO. (UK) Ltd."s},
