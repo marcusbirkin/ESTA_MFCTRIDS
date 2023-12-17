@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-12-10T00:45:46Z",
+  "lastUpdated": "2023-12-17T00:45:53Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2102,6 +2102,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1448,
+      "organizationName": "",
+      "company": "Owl Labs",
+      "registered": true
+    },
+    {
       "manufacturerID": 1451,
       "organizationName": "",
       "company": "Shenzhen Lesan Lighting Co., Ltd.",
@@ -2846,6 +2852,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1976,
+      "organizationName": "",
+      "company": "Zhuhai Demi Technology Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 1979,
       "organizationName": "",
       "company": "Shenzhen SOSEN Electronics Co., Ltd.",
@@ -3038,6 +3050,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2051,
+      "organizationName": "",
+      "company": "Guangzhou FutureColor Electronic Technology Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2052,
       "organizationName": "",
       "company": "K&G Visual Technology",
@@ -3158,6 +3176,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2104,
+      "organizationName": "",
+      "company": "LaserAV",
+      "registered": true
+    },
+    {
       "manufacturerID": 2106,
       "organizationName": "",
       "company": "Bright Ideas Custom Electronics Inc.",
@@ -3185,6 +3209,12 @@
       "manufacturerID": 2112,
       "organizationName": "",
       "company": "Shenzhen Zwich Science and Technology Co.Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2113,
+      "organizationName": "",
+      "company": "Guangzhou ICON Lighting Co.,Ltd",
       "registered": true
     },
     {
@@ -4415,6 +4445,12 @@
       "manufacturerID": 2395,
       "organizationName": "",
       "company": "Wuhan Zhongtian Jiaye Mechanical and Electrical Engineering Co. LTD",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2396,
+      "organizationName": "",
+      "company": "Thomas Neumann Licht und Tontechnik",
       "registered": true
     },
     {
