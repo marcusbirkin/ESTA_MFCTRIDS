@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-12-10T00:44:52Z
+ * @date 2023-12-17T00:44:57Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -387,6 +387,7 @@ namespace ESTA {
 			{0x0596, L"ReveLux"s},
 			{0x05A0, L"Stage Smarts AB"s},
 			{0x05A4, L"IMMOLAS"s},
+			{0x05A8, L"Owl Labs"s},
 			{0x05AB, L"Shenzhen Lesan Lighting Co., Ltd."s},
 			{0x05B5, L"Turkowski GmbH"s},
 			{0x05BC, L"CantoUSA"s},
@@ -511,6 +512,7 @@ namespace ESTA {
 			{0x07B3, L"Shenzhen Fabulux Technology Co., Ltd"s},
 			{0x07B5, L"ARM Automation, Inc"s},
 			{0x07B6, L"Minleon USA"s},
+			{0x07B8, L"Zhuhai Demi Technology Co., Ltd."s},
 			{0x07BB, L"Shenzhen SOSEN Electronics Co., Ltd."s},
 			{0x07BE, L"Sanko Device Co.Ltd."s},
 			{0x07C0, L"Code Mercenaries GmbH"s},
@@ -543,6 +545,7 @@ namespace ESTA {
 			{0x0800, L"Hongyeah Light"s},
 			{0x0801, L"Guangzhou Favolite Stage Lighting Co., Ltd."s},
 			{0x0802, L"AstralPool"s},
+			{0x0803, L"Guangzhou FutureColor Electronic Technology Co., Ltd."s},
 			{0x0804, L"K&G Visual Technology"s},
 			{0x0805, L"T.C.M. Light-Solutions"s},
 			{0x0806, L"Air Giants Limited"s},
@@ -563,11 +566,13 @@ namespace ESTA {
 			{0x0824, L"Almotechnos CO.,LTD."s},
 			{0x0827, L"PIXREAL"s},
 			{0x0832, L"Shenzhen EXC-LED Technology Co.,Ltd"s},
+			{0x0838, L"LaserAV"s},
 			{0x083A, L"Bright Ideas Custom Electronics Inc."s},
 			{0x083C, L"TDT Productions"s},
 			{0x083E, L"Guangdong Hua Chen Film & Television Stage Project Co., Ltd."s},
 			{0x083F, L"Shenzhen LeiFei Lighting Technologies Co.,Ltd."s},
 			{0x0840, L"Shenzhen Zwich Science and Technology Co.Ltd."s},
+			{0x0841, L"Guangzhou ICON Lighting Co.,Ltd"s},
 			{0x0845, L"Cush Light LLC"s},
 			{0x0846, L"LDR - Luci della Ribalta Srl"s},
 			{0x084B, L"Neon Circus Ltd"s},
@@ -773,6 +778,7 @@ namespace ESTA {
 			{0x0959, L"Urbs Lighting, LLC"s},
 			{0x095A, L"kLabs Research UK"s},
 			{0x095B, L"Wuhan Zhongtian Jiaye Mechanical and Electrical Engineering Co. LTD"s},
+			{0x095C, L"Thomas Neumann Licht und Tontechnik"s},
 			{0x095E, L"Hondel Lighting Limited"s},
 			{0x095F, L"Elaborated Networks GmbH"s},
 			{0x0960, L"Fineline Solutions Ltd."s},
