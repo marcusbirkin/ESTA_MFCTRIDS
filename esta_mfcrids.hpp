@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-12-17T00:44:57Z
+ * @date 2023-12-24T00:43:57Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -450,6 +450,7 @@ namespace ESTA {
 			{0x06B3, L"NANOLUMENS, INC."s},
 			{0x06B6, L"GUANGDONG VSHINE LIGHTING TECHNOLOGY CO.,LTD"s},
 			{0x06B9, L"GUANGZHOU DASEN LIGHTING CORPORATION LIMITED"s},
+			{0x06BB, L"IQ COMPANY Ltd."s},
 			{0x06C4, L"RHENAC Systems GmbH"s},
 			{0x06C7, L"L&L Luce&Light"s},
 			{0x06CE, L"American-Pro International"s},
@@ -539,6 +540,7 @@ namespace ESTA {
 			{0x07F7, L"Dakco Technologies Co., Ltd."s},
 			{0x07F8, L"Ultimate Technology Solutions GmbH"s},
 			{0x07F9, L"Bion Technologies GmbH"s},
+			{0x07FA, L"Shenzhen Pony Systems Tech Co., Ltd."s},
 			{0x07FD, L"THELIGHT Luminary for Cine and TV S.L."s},
 			{0x07FE, L"Shenzhen Apexls Optoelectronic Co., Ltd."s},
 			{0x07FF, L"Guangzhou HOMEI LIGHT Manufacturer"s},
