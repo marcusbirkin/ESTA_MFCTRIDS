@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-12-17T00:45:53Z",
+  "lastUpdated": "2023-12-24T00:44:52Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2480,6 +2480,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1723,
+      "organizationName": "",
+      "company": "IQ COMPANY Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 1732,
       "organizationName": "",
       "company": "RHENAC Systems GmbH",
@@ -3011,6 +3017,12 @@
       "manufacturerID": 2041,
       "organizationName": "",
       "company": "Bion Technologies GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2042,
+      "organizationName": "",
+      "company": "Shenzhen Pony Systems Tech Co., Ltd.",
       "registered": true
     },
     {
