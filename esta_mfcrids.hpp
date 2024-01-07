@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2023-12-24T00:43:57Z
+ * @date 2024-01-07T00:45:56Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -368,6 +368,7 @@ namespace ESTA {
 			{0x04F0, L"SIGMA NET"s},
 			{0x04F4, L"Zeraus"s},
 			{0x04FC, L"Syncrolite LLC"s},
+			{0x0504, L"MYHP Limited"s},
 			{0x050A, L"ChamSys Ltd."s},
 			{0x051C, L"Ambitsel, Inc."s},
 			{0x0520, L"ANLC Ltd"s},
