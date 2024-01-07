@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2023-12-24T00:44:52Z",
+  "lastUpdated": "2024-01-07T00:46:51Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1985,6 +1985,12 @@
       "manufacturerID": 1276,
       "organizationName": "",
       "company": "Syncrolite LLC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1284,
+      "organizationName": "",
+      "company": "MYHP Limited",
       "registered": true
     },
     {
