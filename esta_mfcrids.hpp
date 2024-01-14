@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-01-07T00:45:56Z
+ * @date 2024-01-14T00:46:12Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -446,6 +446,7 @@ namespace ESTA {
 			{0x06A1, L"ProTec GmbH"s},
 			{0x06A3, L"RODLIGHT ALBRECHT SILBERBERGER"s},
 			{0x06AC, L"GOLVER PROJECTS S.L."s},
+			{0x06AD, L"LEDMAN OPTOELECTRONIC CO.,LTD."s},
 			{0x06AE, L"CANARA LIGHTING INDUSTRIES PVT LTD"s},
 			{0x06AF, L"ZHEJIANG JINGRI TECHNOLOGY CO.,LTD"s},
 			{0x06B3, L"NANOLUMENS, INC."s},
@@ -670,6 +671,7 @@ namespace ESTA {
 			{0x08C6, L"Guangzhou Ever Famous Electronic Co.,Ltd"s},
 			{0x08C9, L"LEDitgo Videowall Germany GmbH"s},
 			{0x08CA, L"Foshan City Xuandao Optoelectronics Equipment Co., Ltd"s},
+			{0x08CB, L"Practical LEDs.com"s},
 			{0x08CC, L"Guangzhou Santu Stage Lighting Equipment Co.Ltd"s},
 			{0x08D0, L"Image Engineering"s},
 			{0x08D1, L"Shenzhen Leqi Network Technology Co., Ltd."s},
@@ -722,6 +724,7 @@ namespace ESTA {
 			{0x090B, L"StarLighting"s},
 			{0x090C, L"GRE Alpha"s},
 			{0x090E, L"Sichuan esRadio Technology Co., Ltd"s},
+			{0x090F, L"Shenzhen Dingli Display Technology Co., Ltd"s},
 			{0x0910, L"Shenzhen Tecnon EXCO-Vision Technology Co., Ltd."s},
 			{0x0911, L"Guangzhou Aceda Professional  Lighting  Co., Ltd."s},
 			{0x0912, L"ags - Wissenschaftliche Arbeitsgemeinschaft fur Studio- und Senderfragen"s},
