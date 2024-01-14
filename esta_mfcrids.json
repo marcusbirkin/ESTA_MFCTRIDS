@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-01-07T00:46:51Z",
+  "lastUpdated": "2024-01-14T00:46:54Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2456,6 +2456,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1709,
+      "organizationName": "",
+      "company": "LEDMAN OPTOELECTRONIC CO.,LTD.",
+      "registered": true
+    },
+    {
       "manufacturerID": 1710,
       "organizationName": "",
       "company": "CANARA LIGHTING INDUSTRIES PVT LTD",
@@ -3800,6 +3806,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2251,
+      "organizationName": "",
+      "company": "Practical LEDs.com",
+      "registered": true
+    },
+    {
       "manufacturerID": 2252,
       "organizationName": "",
       "company": "Guangzhou Santu Stage Lighting Equipment Co.Ltd",
@@ -4109,6 +4121,12 @@
       "manufacturerID": 2318,
       "organizationName": "",
       "company": "Sichuan esRadio Technology Co., Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2319,
+      "organizationName": "",
+      "company": "Shenzhen Dingli Display Technology Co., Ltd",
       "registered": true
     },
     {
