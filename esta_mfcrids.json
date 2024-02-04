@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-01-14T00:46:54Z",
+  "lastUpdated": "2024-02-04T00:43:30Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3584,6 +3584,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2198,
+      "organizationName": "",
+      "company": "CSD Design and Fabrication",
+      "registered": true
+    },
+    {
       "manufacturerID": 2202,
       "organizationName": "",
       "company": "ADL Electronics Ltd.",
@@ -5075,6 +5081,12 @@
       "manufacturerID": 4620,
       "organizationName": "",
       "company": "Shanxi Tian Gong Sheng Optoelectronic Equipment Technology Co.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 4625,
+      "organizationName": "",
+      "company": "Recrealab",
       "registered": true
     },
     {
