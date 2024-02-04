@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-01-14T00:46:12Z
+ * @date 2024-02-04T00:42:44Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -634,6 +634,7 @@ namespace ESTA {
 			{0x0892, L"DongGuan Ruishen Technology Co.,Ltd"s},
 			{0x0893, L"Brighten LED Lighting Limited"s},
 			{0x0894, L"Dongguan HCP Technology Co., Ltd."s},
+			{0x0896, L"CSD Design and Fabrication"s},
 			{0x089A, L"ADL Electronics Ltd."s},
 			{0x089D, L"gobo.ws"s},
 			{0x08A1, L"Shenzhen Gloshine Technology Co., Ltd"s},
@@ -883,6 +884,7 @@ namespace ESTA {
 			{0x120A, L"Bulldog Lighting and Events, Inc."s},
 			{0x120B, L"Brilliant Stages Ltd."s},
 			{0x120C, L"Shanxi Tian Gong Sheng Optoelectronic Equipment Technology Co."s},
+			{0x1211, L"Recrealab"s},
 			{0x1212, L"HPL Light Company"s},
 			{0x1221, L"SAGITTER-SDJ-Proel"s},
 			{0x1222, L"SM International"s},
