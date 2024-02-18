@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-02-04T00:43:30Z",
+  "lastUpdated": "2024-02-18T00:43:05Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4940,6 +4940,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2524,
+      "organizationName": "",
+      "company": "Froggys Fog",
+      "registered": true
+    },
+    {
       "manufacturerID": 2525,
       "organizationName": "",
       "company": "Planet Innovation Products Inc",
@@ -8264,6 +8270,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 25714,
+      "organizationName": "",
+      "company": "Ingenieurburo Steffens",
+      "registered": true
+    },
+    {
       "manufacturerID": 25785,
       "organizationName": "FINELITE",
       "company": "Finelite, Inc.",
@@ -8662,7 +8674,7 @@
     {
       "manufacturerID": 30583,
       "organizationName": "",
-      "company": "Develtron A/S",
+      "company": "DVT Light",
       "registered": true
     },
     {
