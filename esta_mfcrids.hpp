@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-02-04T00:42:44Z
+ * @date 2024-02-18T00:42:11Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -860,6 +860,7 @@ namespace ESTA {
 			{0x09D6, L"Mittomakers"s},
 			{0x09D7, L"Unilumin Group"s},
 			{0x09D8, L"Pioneer Lighting Solutions India Pvt Ltd"s},
+			{0x09DC, L"Froggys Fog"s},
 			{0x09DD, L"Planet Innovation Products Inc"s},
 			{0x09DE, L"Matthias Bauch Software"s},
 			{0x09E9, L"Starway"s},
@@ -1414,6 +1415,7 @@ namespace ESTA {
 			{0x6464, L"Dangeross Design"s},
 			{0x646C, L"dilitronics GmbH"s},
 			{0x646F, L"eldoLED BV"s},
+			{0x6472, L"Ingenieurburo Steffens"s},
 			{0x64B9, L"Finelite, Inc."s},
 			{0x6542, L"eBrain GmbH"s},
 			{0x6543, L"LES-TV Ltd."s},
@@ -1480,7 +1482,7 @@ namespace ESTA {
 			{0x7403, L"Yenrich Technology Corporation"s},
 			{0x7764, L"WET"s},
 			{0x7765, L"MKT engineering GmbH & Co. KG"s},
-			{0x7777, L"Develtron A/S"s},
+			{0x7777, L"DVT Light"s},
 			{0x7788, L"DigitaLicht AG"s},
 			{0x780E, L"Mole-Richardson Co."s},
 			{0x783A, L"Audiolux Devices LLC"s},
