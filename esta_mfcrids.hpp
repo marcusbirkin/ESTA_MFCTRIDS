@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-02-18T00:42:11Z
+ * @date 2024-03-10T00:42:23Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -345,6 +345,7 @@ namespace ESTA {
 			{0x0412, L"D's DMX"s},
 			{0x041C, L"IMLIGHT"s},
 			{0x0424, L"FLUX ECLAIRAGE"s},
+			{0x0430, L"BOE MLED Technology Co., Ltd"s},
 			{0x0440, L"Guangzhou VAS Lighting Co., Ltd."s},
 			{0x044E, L"Ben Peoples Industries, LLC"s},
 			{0x044F, L"B2 Co., Ltd."s},
