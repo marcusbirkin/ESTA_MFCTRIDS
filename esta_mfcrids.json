@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-03-10T00:43:27Z",
+  "lastUpdated": "2024-03-17T00:43:42Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3203,6 +3203,12 @@
       "manufacturerID": 2098,
       "organizationName": "",
       "company": "Shenzhen EXC-LED Technology Co.,Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2102,
+      "organizationName": "",
+      "company": "Nyvoll Lys",
       "registered": true
     },
     {
