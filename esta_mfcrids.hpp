@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-03-10T00:42:23Z
+ * @date 2024-03-17T00:42:35Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -571,6 +571,7 @@ namespace ESTA {
 			{0x0824, L"Almotechnos CO.,LTD."s},
 			{0x0827, L"PIXREAL"s},
 			{0x0832, L"Shenzhen EXC-LED Technology Co.,Ltd"s},
+			{0x0836, L"Nyvoll Lys"s},
 			{0x0838, L"LaserAV"s},
 			{0x083A, L"Bright Ideas Custom Electronics Inc."s},
 			{0x083C, L"TDT Productions"s},
