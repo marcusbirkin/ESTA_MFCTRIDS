@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-03-17T00:43:42Z",
+  "lastUpdated": "2024-03-24T00:44:54Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1781,6 +1781,12 @@
       "manufacturerID": 939,
       "organizationName": "",
       "company": "ABMICROLONDON",
+      "registered": true
+    },
+    {
+      "manufacturerID": 966,
+      "organizationName": "",
+      "company": "NYSOFT",
       "registered": true
     },
     {
@@ -6245,6 +6251,12 @@
       "manufacturerID": 13364,
       "organizationName": "",
       "company": "Global Design Solutions, Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 13619,
+      "organizationName": "",
+      "company": "Figure 53, LLC",
       "registered": true
     },
     {
