@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-03-17T00:42:35Z
+ * @date 2024-03-24T00:44:11Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -334,6 +334,7 @@ namespace ESTA {
 			{0x03A8, L"ARTFOX"s},
 			{0x03AA, L"AIGA Electronic (GuangZhou) Co., Ltd."s},
 			{0x03AB, L"ABMICROLONDON"s},
+			{0x03C6, L"NYSOFT"s},
 			{0x03D5, L"eX Systems"s},
 			{0x03D6, L"i-Lumen"s},
 			{0x03DA, L"QST LED"s},
@@ -1078,6 +1079,7 @@ namespace ESTA {
 			{0x3333, L"NightStarry Electronics Co., LTD."s},
 			{0x3388, L"Macostar International Ltd."s},
 			{0x3434, L"Global Design Solutions, Ltd."s},
+			{0x3533, L"Figure 53, LLC"s},
 			{0x3534, L"Five4, LLC"s},
 			{0x3535, L"Changsha Spark Technology Electronics Ltd."s},
 			{0x3536, L"Cindy Professional Lighting Co., Ltd."s},
