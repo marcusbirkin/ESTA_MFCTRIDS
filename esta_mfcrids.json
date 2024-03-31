@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-03-24T00:44:54Z",
+  "lastUpdated": "2024-03-31T00:44:58Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2159,6 +2159,12 @@
       "manufacturerID": 1491,
       "organizationName": "",
       "company": "D-LED Illumination Technologies Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1498,
+      "organizationName": "",
+      "company": "Spacyal",
       "registered": true
     },
     {
@@ -4454,6 +4460,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2381,
+      "organizationName": "",
+      "company": "Quantum Theory",
+      "registered": true
+    },
+    {
       "manufacturerID": 2385,
       "organizationName": "",
       "company": "Guangzhou GTD Lighting Technology Co., Ltd",
@@ -4511,6 +4523,12 @@
       "manufacturerID": 2396,
       "organizationName": "",
       "company": "Thomas Neumann Licht und Tontechnik",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2397,
+      "organizationName": "",
+      "company": "Silver Curve Ltd",
       "registered": true
     },
     {
@@ -4829,6 +4847,12 @@
       "manufacturerID": 2485,
       "organizationName": "",
       "company": "XBlack Visual Products",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2486,
+      "organizationName": "",
+      "company": "Second String Studios",
       "registered": true
     },
     {
