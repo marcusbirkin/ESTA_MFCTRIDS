@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-03-24T00:44:11Z
+ * @date 2024-03-31T00:44:05Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -397,6 +397,7 @@ namespace ESTA {
 			{0x05C0, L"Vertigo"s},
 			{0x05CF, L"Brighten Technology Development Co., Ltd."s},
 			{0x05D3, L"D-LED Illumination Technologies Ltd."s},
+			{0x05DA, L"Spacyal"s},
 			{0x05E0, L"esp_dmx"s},
 			{0x05E2, L"KORRO PLUS"s},
 			{0x05E8, L"Snap One"s},
@@ -779,6 +780,7 @@ namespace ESTA {
 			{0x0949, L"Shenzhen Jiuzhou Optoelectronic Technology"s},
 			{0x094A, L"Funovation, Inc"s},
 			{0x094B, L"Invisua Lighting BV"s},
+			{0x094D, L"Quantum Theory"s},
 			{0x0951, L"Guangzhou GTD Lighting Technology Co., Ltd"s},
 			{0x0952, L"Guangzhou Sunway Entertainment Equipment Co., Ltd."s},
 			{0x0953, L"Boumakers Techniek"s},
@@ -789,6 +791,7 @@ namespace ESTA {
 			{0x095A, L"kLabs Research UK"s},
 			{0x095B, L"Wuhan Zhongtian Jiaye Mechanical and Electrical Engineering Co. LTD"s},
 			{0x095C, L"Thomas Neumann Licht und Tontechnik"s},
+			{0x095D, L"Silver Curve Ltd"s},
 			{0x095E, L"Hondel Lighting Limited"s},
 			{0x095F, L"Elaborated Networks GmbH"s},
 			{0x0960, L"Fineline Solutions Ltd."s},
@@ -842,6 +845,7 @@ namespace ESTA {
 			{0x09B3, L"Aquatique Show Int."s},
 			{0x09B4, L"Brompton Technology Ltd."s},
 			{0x09B5, L"XBlack Visual Products"s},
+			{0x09B6, L"Second String Studios"s},
 			{0x09B7, L"inCon-trol water systems"s},
 			{0x09B8, L"Prolites S.A.L."s},
 			{0x09BB, L"Guangzhou Yiyi Technology Co., Ltd."s},
