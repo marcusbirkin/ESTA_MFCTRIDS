@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-03-31T00:44:05Z
+ * @date 2024-04-07T00:44:20Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -346,6 +346,7 @@ namespace ESTA {
 			{0x0412, L"D's DMX"s},
 			{0x041C, L"IMLIGHT"s},
 			{0x0424, L"FLUX ECLAIRAGE"s},
+			{0x0428, L"ITSTECH"s},
 			{0x0430, L"BOE MLED Technology Co., Ltd"s},
 			{0x0440, L"Guangzhou VAS Lighting Co., Ltd."s},
 			{0x044E, L"Ben Peoples Industries, LLC"s},
@@ -785,6 +786,7 @@ namespace ESTA {
 			{0x0952, L"Guangzhou Sunway Entertainment Equipment Co., Ltd."s},
 			{0x0953, L"Boumakers Techniek"s},
 			{0x0954, L"Ledtop Visual Ltd."s},
+			{0x0956, L"Expromo Europe A/S"s},
 			{0x0957, L"White Light Ltd"s},
 			{0x0958, L"Illum Technology LLC (previously Verde Designs, Inc.)"s},
 			{0x0959, L"Urbs Lighting, LLC"s},
@@ -1399,6 +1401,7 @@ namespace ESTA {
 			{0x5DAC, L"Mediatec Group"s},
 			{0x5E5D, L"Multisenses GmbH"s},
 			{0x5E5E, L"Converging Systems Inc."s},
+			{0x6019, L"Artifice Industries Ltd."s},
 			{0x6100, L"Krobox Sdn Bhd"s},
 			{0x610A, L"Visenge Pty. Ltd"s},
 			{0x6123, L"CMYLight (S) Pte. Ltd."s},
