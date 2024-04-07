@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-03-31T00:44:58Z",
+  "lastUpdated": "2024-04-07T00:45:16Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1853,6 +1853,12 @@
       "manufacturerID": 1060,
       "organizationName": "",
       "company": "FLUX ECLAIRAGE",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1064,
+      "organizationName": "",
+      "company": "ITSTECH",
       "registered": true
     },
     {
@@ -4487,6 +4493,12 @@
       "manufacturerID": 2388,
       "organizationName": "",
       "company": "Ledtop Visual Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2390,
+      "organizationName": "",
+      "company": "Expromo Europe A/S",
       "registered": true
     },
     {
@@ -8171,6 +8183,12 @@
       "manufacturerID": 24158,
       "organizationName": "",
       "company": "Converging Systems Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 24601,
+      "organizationName": "",
+      "company": "Artifice Industries Ltd.",
       "registered": true
     },
     {
