@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-04-07T00:45:16Z",
+  "lastUpdated": "2024-04-21T00:44:52Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1982,6 +1982,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1254,
+      "organizationName": "",
+      "company": "Kelvix",
+      "registered": true
+    },
+    {
       "manufacturerID": 1262,
       "organizationName": "",
       "company": "Tivoli Lighting",
@@ -2033,6 +2039,12 @@
       "manufacturerID": 1321,
       "organizationName": "",
       "company": "OSRAM",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1334,
+      "organizationName": "",
+      "company": "tarm AG",
       "registered": true
     },
     {
@@ -2531,6 +2543,12 @@
       "manufacturerID": 1735,
       "organizationName": "",
       "company": "L&L Luce&Light",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1738,
+      "organizationName": "",
+      "company": "Leding",
       "registered": true
     },
     {
@@ -4676,6 +4694,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2436,
+      "organizationName": "",
+      "company": "Laserworld AG",
+      "registered": true
+    },
+    {
       "manufacturerID": 2438,
       "organizationName": "",
       "company": "ROE Visual Co. Ltd.",
@@ -4769,6 +4793,12 @@
       "manufacturerID": 2458,
       "organizationName": "",
       "company": "Aixz International (S)",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2461,
+      "organizationName": "",
+      "company": "Frenexport SPA",
       "registered": true
     },
     {
@@ -6011,6 +6041,12 @@
       "manufacturerID": 10020,
       "organizationName": "",
       "company": "Nila Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 10023,
+      "organizationName": "",
+      "company": "Lumikit",
       "registered": true
     },
     {
