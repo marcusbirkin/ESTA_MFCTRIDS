@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-04-07T00:44:20Z
+ * @date 2024-04-21T00:44:04Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -367,6 +367,7 @@ namespace ESTA {
 			{0x04D7, L"Targetti Sankey Spa"s},
 			{0x04D8, L"Guangzhou Hong Yuan Electronic Technology Co., LTD."s},
 			{0x04DD, L"Topstriving Photoelectricity Technology Co., Ltd."s},
+			{0x04E6, L"Kelvix"s},
 			{0x04EE, L"Tivoli Lighting"s},
 			{0x04F0, L"SIGMA NET"s},
 			{0x04F4, L"Zeraus"s},
@@ -376,6 +377,7 @@ namespace ESTA {
 			{0x051C, L"Ambitsel, Inc."s},
 			{0x0520, L"ANLC Ltd"s},
 			{0x0529, L"OSRAM"s},
+			{0x0536, L"tarm AG"s},
 			{0x0537, L"TERMINAL-COM"s},
 			{0x0540, L"EverBrighten Co., Ltd."s},
 			{0x0555, L"Maresch Electronics"s},
@@ -459,6 +461,7 @@ namespace ESTA {
 			{0x06BB, L"IQ COMPANY Ltd."s},
 			{0x06C4, L"RHENAC Systems GmbH"s},
 			{0x06C7, L"L&L Luce&Light"s},
+			{0x06CA, L"Leding"s},
 			{0x06CE, L"American-Pro International"s},
 			{0x06D1, L"BIRUN ELECTRONIC INDUSTRIAL CO., LTD"s},
 			{0x06D2, L"LIGHTSTAR (BEIJING) ELECTRONIC CORPORATION"s},
@@ -816,6 +819,7 @@ namespace ESTA {
 			{0x0980, L"Moog Animatics"s},
 			{0x0981, L"Luxam, Ltd."s},
 			{0x0982, L"AC Entertainment Products Ltd."s},
+			{0x0984, L"Laserworld AG"s},
 			{0x0986, L"ROE Visual Co. Ltd."s},
 			{0x0987, L"mathertel.de"s},
 			{0x0989, L"YeGrin Liteworks"s},
@@ -832,6 +836,7 @@ namespace ESTA {
 			{0x0997, L"Star Iluminacao Computadorizada LTDA"s},
 			{0x0999, L"Concept Smoke Systems Ltd."s},
 			{0x099A, L"Aixz International (S)"s},
+			{0x099D, L"Frenexport SPA"s},
 			{0x099E, L"LLC Lighting Technologies production"s},
 			{0x09A0, L"Rnet Lighting Technology Limited"s},
 			{0x09A1, L"Veranstaltungstechnik König"s},
@@ -1039,6 +1044,7 @@ namespace ESTA {
 			{0x26A2, L"MEGATECHNICS Ltd."s},
 			{0x26B4, L"Milford Instruments Ltd."s},
 			{0x2724, L"Nila Inc."s},
+			{0x2727, L"Lumikit"s},
 			{0x2734, L"Nixer Ltd."s},
 			{0x27A8, L"Callegenix LLC"s},
 			{0x2821, L"Pioneer Corporation"s},
