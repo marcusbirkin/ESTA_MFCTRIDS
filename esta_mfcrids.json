@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-04-21T00:44:52Z",
+  "lastUpdated": "2024-04-28T00:45:31Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -995,6 +995,18 @@
       "manufacturerID": 401,
       "organizationName": "",
       "company": "Sycra Technologies",
+      "registered": true
+    },
+    {
+      "manufacturerID": 402,
+      "organizationName": "",
+      "company": "Metro Marine LLC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 403,
+      "organizationName": "",
+      "company": "DMF Lighting",
       "registered": true
     },
     {
