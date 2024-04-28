@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-04-21T00:44:04Z
+ * @date 2024-04-28T00:44:45Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -203,6 +203,8 @@ namespace ESTA {
 			{0x018F, L"Guangzhou YiCheng Light Industry Ltd."s},
 			{0x0190, L"Wizlogics Co., Ltd."s},
 			{0x0191, L"Sycra Technologies"s},
+			{0x0192, L"Metro Marine LLC"s},
+			{0x0193, L"DMF Lighting"s},
 			{0x0199, L"Ocean LED Marine Ltd."s},
 			{0x019A, L"TwoGain Electronics"s},
 			{0x019B, L"ElectroTAS Soluciones Profesionales"s},
