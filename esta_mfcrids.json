@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-04-28T00:45:31Z",
+  "lastUpdated": "2024-05-05T00:45:12Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1520,15 +1520,51 @@
       "registered": true
     },
     {
+      "manufacturerID": 685,
+      "organizationName": "",
+      "company": "SAVI Controls LLC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 686,
+      "organizationName": "",
+      "company": "Tea Engineering Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 687,
+      "organizationName": "",
+      "company": "JMAZ Group, Inc.",
+      "registered": true
+    },
+    {
       "manufacturerID": 688,
       "organizationName": "",
       "company": "DMXControl-Projects e.V.",
       "registered": true
     },
     {
+      "manufacturerID": 689,
+      "organizationName": "",
+      "company": "Global Design Solutions Korea",
+      "registered": true
+    },
+    {
+      "manufacturerID": 690,
+      "organizationName": "",
+      "company": "Guangzhou Harbinger Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 698,
       "organizationName": "",
       "company": "Chainzone Technology (Foshan) Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 700,
+      "organizationName": "",
+      "company": "PXP Technology",
       "registered": true
     },
     {
