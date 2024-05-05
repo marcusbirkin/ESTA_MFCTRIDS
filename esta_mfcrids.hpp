@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-04-28T00:44:45Z
+ * @date 2024-05-05T00:44:16Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -290,8 +290,14 @@ namespace ESTA {
 			{0x02AA, L"Jinnax Opto Technology Co., Ltd."s},
 			{0x02AB, L"Rift Labs"s},
 			{0x02AC, L"PSL Electronik Sanayi ve Ticaret A.S."s},
+			{0x02AD, L"SAVI Controls LLC"s},
+			{0x02AE, L"Tea Engineering Ltd."s},
+			{0x02AF, L"JMAZ Group, Inc."s},
 			{0x02B0, L"DMXControl-Projects e.V."s},
+			{0x02B1, L"Global Design Solutions Korea"s},
+			{0x02B2, L"Guangzhou Harbinger Co., Ltd."s},
 			{0x02BA, L"Chainzone Technology (Foshan) Co., Ltd."s},
+			{0x02BC, L"PXP Technology"s},
 			{0x02BD, L"RE-Engineering"s},
 			{0x02C8, L"Growflux LLC"s},
 			{0x02C9, L"Theatrixx Technologies"s},
