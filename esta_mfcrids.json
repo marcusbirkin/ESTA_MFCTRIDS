@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-05-05T00:45:12Z",
+  "lastUpdated": "2024-05-12T00:46:54Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2012,6 +2012,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1226,
+      "organizationName": "",
+      "company": "RT-DMX",
+      "registered": true
+    },
+    {
       "manufacturerID": 1239,
       "organizationName": "",
       "company": "Targetti Sankey Spa",
@@ -3350,6 +3356,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2120,
+      "organizationName": "",
+      "company": "SLC - Static Light Company Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2123,
       "organizationName": "",
       "company": "Neon Circus Ltd",
@@ -4193,6 +4205,12 @@
       "manufacturerID": 2310,
       "organizationName": "",
       "company": "Crystal Technica Limited",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2311,
+      "organizationName": "",
+      "company": "Shenzhen GCL Electronics Co., Ltd",
       "registered": true
     },
     {
