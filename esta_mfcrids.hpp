@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-05-05T00:44:16Z
+ * @date 2024-05-12T00:45:56Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -372,6 +372,7 @@ namespace ESTA {
 			{0x04B6, L"IntiLED"s},
 			{0x04B8, L"Guangzhou Hongcai Stage Equipment Co., Ltd."s},
 			{0x04C4, L"Ephesus Lighting, Inc."s},
+			{0x04CA, L"RT-DMX"s},
 			{0x04D7, L"Targetti Sankey Spa"s},
 			{0x04D8, L"Guangzhou Hong Yuan Electronic Technology Co., LTD."s},
 			{0x04DD, L"Topstriving Photoelectricity Technology Co., Ltd."s},
@@ -595,6 +596,7 @@ namespace ESTA {
 			{0x0841, L"Guangzhou ICON Lighting Co.,Ltd"s},
 			{0x0845, L"Cush Light LLC"s},
 			{0x0846, L"LDR - Luci della Ribalta Srl"s},
+			{0x0848, L"SLC - Static Light Company Ltd"s},
 			{0x084B, L"Neon Circus Ltd"s},
 			{0x084C, L"Guangzhou Ba Lin Electronic Technology Co., Ltd."s},
 			{0x084D, L"Guangzhou NECO Stage Lighting Factory"s},
@@ -736,6 +738,7 @@ namespace ESTA {
 			{0x0904, L"Bigbear Co., Ltd."s},
 			{0x0905, L"Locimation Pty Ltd"s},
 			{0x0906, L"Crystal Technica Limited"s},
+			{0x0907, L"Shenzhen GCL Electronics Co., Ltd"s},
 			{0x0908, L"Guangzhou DeLong Stage Equipment Co., Ltd."s},
 			{0x0909, L"Beijing Starlight Electronics Co., Ltd."s},
 			{0x090B, L"StarLighting"s},
