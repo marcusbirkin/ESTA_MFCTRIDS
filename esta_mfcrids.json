@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-05-12T00:46:54Z",
+  "lastUpdated": "2024-05-19T00:46:54Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2444,6 +2444,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1652,
+      "organizationName": "",
+      "company": "Raylogic Control systems Pvt Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 1658,
       "organizationName": "",
       "company": "Inster Co, Ltd",
@@ -3830,6 +3836,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2232,
+      "organizationName": "",
+      "company": "LEDScape Lighting",
+      "registered": true
+    },
+    {
       "manufacturerID": 2233,
       "organizationName": "",
       "company": "Guangzhou Hua Rong Electronic Technology Co., Ltd.",
@@ -4007,6 +4019,12 @@
       "manufacturerID": 2273,
       "organizationName": "",
       "company": "Shenzhen CLT Electronics Co.,LTD",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2274,
+      "organizationName": "",
+      "company": "Particle Studio Ltd.",
       "registered": true
     },
     {
