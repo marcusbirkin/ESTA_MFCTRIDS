@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-05-12T00:45:56Z
+ * @date 2024-05-19T00:45:59Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -444,6 +444,7 @@ namespace ESTA {
 			{0x0668, L"Motion FX"s},
 			{0x066B, L"AVANT-GARDE DE STUDIO FZ LLC"s},
 			{0x066F, L"GUANGZHOU CY LIGHTING EQUIPMENT CO.,LTD"s},
+			{0x0674, L"Raylogic Control systems Pvt Ltd."s},
 			{0x067A, L"Inster Co, Ltd"s},
 			{0x067C, L"LOTRONIC SA"s},
 			{0x0682, L"Beijing Ming Rui Lighting Technology Co., Ltd."s},
@@ -675,6 +676,7 @@ namespace ESTA {
 			{0x08B3, L"Stealth Light srl"s},
 			{0x08B5, L"ShenZhen Sunny Xiao Technology Co., Ltd."s},
 			{0x08B6, L"Graf Lichttechnik UG"s},
+			{0x08B8, L"LEDScape Lighting"s},
 			{0x08B9, L"Guangzhou Hua Rong Electronic Technology Co., Ltd."s},
 			{0x08BA, L"Meteor Lighting"s},
 			{0x08BB, L"Guangzhou CHEN Electronic Technology Co., Ltd."s},
@@ -705,6 +707,7 @@ namespace ESTA {
 			{0x08DD, L"Matthew Tong"s},
 			{0x08E0, L"Red Arrow Controls"s},
 			{0x08E1, L"Shenzhen CLT Electronics Co.,LTD"s},
+			{0x08E2, L"Particle Studio Ltd."s},
 			{0x08E3, L"Guangzhou JinZhiHui Electronic Technology Co.,Ltd."s},
 			{0x08E4, L"LMP Lichttechnik Vertriebsgesellschaft GmbH & Co KG"s},
 			{0x08E6, L"Shenzhen VisionMax Technology Co., Ltd"s},
