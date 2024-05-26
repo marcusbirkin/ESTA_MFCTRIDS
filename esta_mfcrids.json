@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-05-19T00:46:54Z",
+  "lastUpdated": "2024-05-26T00:47:22Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2978,6 +2978,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1978,
+      "organizationName": "",
+      "company": "Tradia Co., LTD",
+      "registered": true
+    },
+    {
       "manufacturerID": 1979,
       "organizationName": "",
       "company": "Shenzhen SOSEN Electronics Co., Ltd.",
@@ -3383,6 +3389,12 @@
       "manufacturerID": 2125,
       "organizationName": "",
       "company": "Guangzhou NECO Stage Lighting Factory",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2126,
+      "organizationName": "",
+      "company": "RGBshine Technology Co. Ltd.",
       "registered": true
     },
     {
@@ -4568,6 +4580,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2380,
+      "organizationName": "",
+      "company": "Shenzhen Xiezhen Electronics Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2381,
       "organizationName": "",
       "company": "Quantum Theory",
@@ -5159,6 +5177,12 @@
       "manufacturerID": 2730,
       "organizationName": "",
       "company": "AAA-LUX",
+      "registered": true
+    },
+    {
+      "manufacturerID": 3340,
+      "organizationName": "",
+      "company": "SmartDC Inc.",
       "registered": true
     },
     {
