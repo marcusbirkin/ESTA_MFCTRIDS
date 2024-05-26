@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-05-19T00:45:59Z
+ * @date 2024-05-26T00:46:48Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -533,6 +533,7 @@ namespace ESTA {
 			{0x07B5, L"ARM Automation, Inc"s},
 			{0x07B6, L"Minleon USA"s},
 			{0x07B8, L"Zhuhai Demi Technology Co., Ltd."s},
+			{0x07BA, L"Tradia Co., LTD"s},
 			{0x07BB, L"Shenzhen SOSEN Electronics Co., Ltd."s},
 			{0x07BE, L"Sanko Device Co.Ltd."s},
 			{0x07C0, L"Code Mercenaries GmbH"s},
@@ -601,6 +602,7 @@ namespace ESTA {
 			{0x084B, L"Neon Circus Ltd"s},
 			{0x084C, L"Guangzhou Ba Lin Electronic Technology Co., Ltd."s},
 			{0x084D, L"Guangzhou NECO Stage Lighting Factory"s},
+			{0x084E, L"RGBshine Technology Co. Ltd."s},
 			{0x0850, L"Proland Group, LLC"s},
 			{0x0851, L"Junction Inc. Ltd"s},
 			{0x0854, L"NEC Display Solutions, Ltd."s},
@@ -798,6 +800,7 @@ namespace ESTA {
 			{0x0949, L"Shenzhen Jiuzhou Optoelectronic Technology"s},
 			{0x094A, L"Funovation, Inc"s},
 			{0x094B, L"Invisua Lighting BV"s},
+			{0x094C, L"Shenzhen Xiezhen Electronics Co., Ltd."s},
 			{0x094D, L"Quantum Theory"s},
 			{0x0951, L"Guangzhou GTD Lighting Technology Co., Ltd"s},
 			{0x0952, L"Guangzhou Sunway Entertainment Equipment Co., Ltd."s},
@@ -897,6 +900,7 @@ namespace ESTA {
 			{0x09FC, L"deskontrol electronics"s},
 			{0x0A01, L"Star-Reach Corporation"s},
 			{0x0AAA, L"AAA-LUX"s},
+			{0x0D0C, L"SmartDC Inc."s},
 			{0x0D0E, L"DMX Engineering LLC"s},
 			{0x1112, L"Zhuhai Bincolor Electronic Technology Co., Ltd."s},
 			{0x1113, L"SiliconCore Technology, Inc."s},
