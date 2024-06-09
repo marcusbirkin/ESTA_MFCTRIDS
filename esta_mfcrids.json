@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-05-26T00:47:22Z",
+  "lastUpdated": "2024-06-09T00:50:19Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4709,6 +4709,12 @@
       "manufacturerID": 2408,
       "organizationName": "",
       "company": "Guangzhou Beyond Lighting Co., Limited.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2412,
+      "organizationName": "",
+      "company": "Guangzhou Nebula Stage Lighting Equipment Co., Ltd",
       "registered": true
     },
     {
