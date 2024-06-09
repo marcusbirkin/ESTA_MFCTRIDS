@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-05-26T00:46:48Z
+ * @date 2024-06-09T00:49:20Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -822,6 +822,7 @@ namespace ESTA {
 			{0x0965, L"Fontana Fountains"s},
 			{0x0967, L"Arcus Licht- und Praesentationstechnik GmbH"s},
 			{0x0968, L"Guangzhou Beyond Lighting Co., Limited."s},
+			{0x096C, L"Guangzhou Nebula Stage Lighting Equipment Co., Ltd"s},
 			{0x096D, L"Guangzhou Xin Yilong Stage Lighting Equipment Co., Limited"s},
 			{0x096F, L"Shenzhen showho technolgy co.,ltd"s},
 			{0x0972, L"Holochrom GmbH"s},
