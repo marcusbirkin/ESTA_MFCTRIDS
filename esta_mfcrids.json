@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-06-09T00:50:19Z",
+  "lastUpdated": "2024-06-16T00:49:36Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2744,6 +2744,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1809,
+      "organizationName": "",
+      "company": "Halonix Technologies Pvt Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 1810,
       "organizationName": "",
       "company": "Laser Imagineering GmbH",
@@ -3299,6 +3305,12 @@
       "manufacturerID": 2087,
       "organizationName": "",
       "company": "PIXREAL",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2089,
+      "organizationName": "",
+      "company": "CR-TEC Photoelectric",
       "registered": true
     },
     {
