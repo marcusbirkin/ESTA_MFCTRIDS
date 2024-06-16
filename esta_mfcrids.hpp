@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-06-09T00:49:20Z
+ * @date 2024-06-16T00:48:56Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -494,6 +494,7 @@ namespace ESTA {
 			{0x070E, L"PragmaLab"s},
 			{0x070F, L"Theatrelight New Zealand"s},
 			{0x0710, L"D.T.S. Illuminazione srl"s},
+			{0x0711, L"Halonix Technologies Pvt Ltd."s},
 			{0x0712, L"Laser Imagineering GmbH"s},
 			{0x071A, L"YHX Visual"s},
 			{0x071F, L"Moss LED Inc"s},
@@ -587,6 +588,7 @@ namespace ESTA {
 			{0x0823, L"Opito Labs GmbH"s},
 			{0x0824, L"Almotechnos CO.,LTD."s},
 			{0x0827, L"PIXREAL"s},
+			{0x0829, L"CR-TEC Photoelectric"s},
 			{0x0832, L"Shenzhen EXC-LED Technology Co.,Ltd"s},
 			{0x0836, L"Nyvoll Lys"s},
 			{0x0838, L"LaserAV"s},
