@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-06-16T00:48:56Z
+ * @date 2024-06-23T00:48:12Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -346,6 +346,7 @@ namespace ESTA {
 			{0x03D5, L"eX Systems"s},
 			{0x03D6, L"i-Lumen"s},
 			{0x03DA, L"QST LED"s},
+			{0x03E8, L"Acson"s},
 			{0x03F0, L"jpbaye.de"s},
 			{0x03FA, L"ART-DMX"s},
 			{0x0402, L"Exato"s},
@@ -478,6 +479,7 @@ namespace ESTA {
 			{0x06D3, L"Boerner Distribution International GmbH"s},
 			{0x06E0, L"SHENZHEN LONGRUN OPTOELECTRONIC CO., LTD"s},
 			{0x06E1, L"Burck IT GmbH & Co. KG"s},
+			{0x06E2, L"ScreenCo"s},
 			{0x06E4, L"Dydell B.V."s},
 			{0x06E6, L"Equipson S.A."s},
 			{0x06EC, L"SISTEMA Jsc"s},
