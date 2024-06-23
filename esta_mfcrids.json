@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-06-16T00:49:36Z",
+  "lastUpdated": "2024-06-23T00:48:58Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1856,6 +1856,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1000,
+      "organizationName": "",
+      "company": "Acson",
+      "registered": true
+    },
+    {
       "manufacturerID": 1008,
       "organizationName": "",
       "company": "jpbaye.de",
@@ -2645,6 +2651,12 @@
       "manufacturerID": 1761,
       "organizationName": "",
       "company": "Burck IT GmbH & Co. KG",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1762,
+      "organizationName": "",
+      "company": "ScreenCo",
       "registered": true
     },
     {
