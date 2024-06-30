@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-06-23T00:48:12Z
+ * @date 2024-06-30T00:50:03Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -387,6 +387,7 @@ namespace ESTA {
 			{0x051C, L"Ambitsel, Inc."s},
 			{0x0520, L"ANLC Ltd"s},
 			{0x0529, L"OSRAM"s},
+			{0x052A, L"DELTACAST"s},
 			{0x0536, L"tarm AG"s},
 			{0x0537, L"TERMINAL-COM"s},
 			{0x0540, L"EverBrighten Co., Ltd."s},
@@ -767,6 +768,7 @@ namespace ESTA {
 			{0x091A, L"Celex LED Technology Ltd."s},
 			{0x091B, L"Krislite Pte. Ltd."s},
 			{0x091D, L"TouchPlate Technologies Inc."s},
+			{0x091E, L"Vanilla Internet Ltd"s},
 			{0x091F, L"Yaham Recience Technology Co,. ltd."s},
 			{0x0920, L"Vexica Technology Limited"s},
 			{0x0921, L"Guangzhou mengyi stage lighting equipment co., LTD."s},
