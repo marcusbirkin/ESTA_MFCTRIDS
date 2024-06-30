@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-06-23T00:48:58Z",
+  "lastUpdated": "2024-06-30T00:50:40Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2099,6 +2099,12 @@
       "manufacturerID": 1321,
       "organizationName": "",
       "company": "OSRAM",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1322,
+      "organizationName": "",
+      "company": "DELTACAST",
       "registered": true
     },
     {
@@ -4379,6 +4385,12 @@
       "manufacturerID": 2333,
       "organizationName": "",
       "company": "TouchPlate Technologies Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2334,
+      "organizationName": "",
+      "company": "Vanilla Internet Ltd",
       "registered": true
     },
     {
