@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-06-30T00:50:03Z
+ * @date 2024-07-07T00:50:34Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -277,6 +277,7 @@ namespace ESTA {
 			{0x0225, L"Northern Lights Electronic Design, LLC"s},
 			{0x0235, L"Company 235, LLC"s},
 			{0x0242, L"ABLELITE INTERNATIONAL"s},
+			{0x024C, L"FBFX Ltd"s},
 			{0x025B, L"Imlight-Showtechnic"s},
 			{0x026F, L"Acuity Brands Lighting Inc."s},
 			{0x0280, L"Arrigo Lighting"s},
@@ -351,6 +352,7 @@ namespace ESTA {
 			{0x03FA, L"ART-DMX"s},
 			{0x0402, L"Exato"s},
 			{0x0404, L"Luminxa"s},
+			{0x040E, L"Optoma Corporation"s},
 			{0x0411, L"SoundSwitch"s},
 			{0x0412, L"D's DMX"s},
 			{0x041C, L"IMLIGHT"s},
@@ -430,6 +432,7 @@ namespace ESTA {
 			{0x0622, L"Lupo SRL"s},
 			{0x0623, L"JAS LIGHTING & SOUND CO., LTD."s},
 			{0x0624, L"S4 Lights"s},
+			{0x0628, L"ERP Power"s},
 			{0x062A, L"LEDstructures"s},
 			{0x062B, L"CKC Lighting Co., Ltd."s},
 			{0x063A, L"AVM Belgium BVBA"s},
