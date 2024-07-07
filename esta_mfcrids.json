@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-06-30T00:50:40Z",
+  "lastUpdated": "2024-07-07T00:51:13Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1442,6 +1442,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 588,
+      "organizationName": "",
+      "company": "FBFX Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 603,
       "organizationName": "",
       "company": "Imlight-Showtechnic",
@@ -1883,6 +1889,12 @@
       "manufacturerID": 1028,
       "organizationName": "",
       "company": "Luminxa",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1038,
+      "organizationName": "",
+      "company": "Optoma Corporation",
       "registered": true
     },
     {
@@ -2357,6 +2369,12 @@
       "manufacturerID": 1572,
       "organizationName": "",
       "company": "S4 Lights",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1576,
+      "organizationName": "",
+      "company": "ERP Power",
       "registered": true
     },
     {
