@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-07-07T00:50:34Z
+ * @date 2024-07-14T00:51:25Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -400,6 +400,7 @@ namespace ESTA {
 			{0x056C, L"Lumascape Lighting Industries"s},
 			{0x0573, L"JIAXING XINHUALI LIGHTING & SOUNDING CO., LTD."s},
 			{0x0580, L"Innovation LED  Limited"s},
+			{0x0582, L"Jack LINE"s},
 			{0x0586, L"K 5600, Inc."s},
 			{0x0588, L"GuangZhou XiangMing Light Limited"s},
 			{0x0592, L"MIRAGE B.V."s},
@@ -646,6 +647,7 @@ namespace ESTA {
 			{0x087C, L"Telectran International Pty Ltd."s},
 			{0x087D, L"TPV Technology Group"s},
 			{0x0880, L"GuangZhou LiDang Technology Inc."s},
+			{0x0881, L"Shenzhen Genesis-Systech Co., Ltd."s},
 			{0x0883, L"CEE Lighting Equipment Co.Ltd"s},
 			{0x0884, L"Bright Group"s},
 			{0x0885, L"SIRS-E"s},
@@ -963,6 +965,7 @@ namespace ESTA {
 			{0x1627, L"Dynamic Visual Solutions LLC"s},
 			{0x162A, L"Nerd's Meter"s},
 			{0x1690, L"awaptec GmbH"s},
+			{0x16A0, L"Audio Effetti Srl"s},
 			{0x16AE, L"Electrone Americas Ltd. Co."s},
 			{0x16DC, L"Traxon Technologies Ltd."s},
 			{0x16E4, L"Aboutshow Color Light Co., LTD"s},
@@ -1454,6 +1457,7 @@ namespace ESTA {
 			{0x6273, L"B&S Elektronische Geräte GmbH"s},
 			{0x6342, L"Mega Systems Inc."s},
 			{0x6364, L"CDS advanced technology bv"s},
+			{0x636D, L"Cambridge Micro Engineering Limited"s},
 			{0x641A, L"Heliospectra AB"s},
 			{0x644C, L"bdL KG"s},
 			{0x6461, L"Digilin Australia"s},
