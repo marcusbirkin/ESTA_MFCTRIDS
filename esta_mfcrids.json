@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-07-07T00:51:13Z",
+  "lastUpdated": "2024-07-14T00:52:03Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2180,6 +2180,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1410,
+      "organizationName": "",
+      "company": "Jack LINE",
+      "registered": true
+    },
+    {
       "manufacturerID": 1414,
       "organizationName": "",
       "company": "K 5600, Inc.",
@@ -3653,6 +3659,12 @@
       "manufacturerID": 2176,
       "organizationName": "",
       "company": "GuangZhou LiDang Technology Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2177,
+      "organizationName": "",
+      "company": "Shenzhen Genesis-Systech Co., Ltd.",
       "registered": true
     },
     {
@@ -5555,6 +5567,12 @@
       "manufacturerID": 5776,
       "organizationName": "",
       "company": "awaptec GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 5792,
+      "organizationName": "",
+      "company": "Audio Effetti Srl",
       "registered": true
     },
     {
@@ -8501,6 +8519,12 @@
       "manufacturerID": 25444,
       "organizationName": "",
       "company": "CDS advanced technology bv",
+      "registered": true
+    },
+    {
+      "manufacturerID": 25453,
+      "organizationName": "",
+      "company": "Cambridge Micro Engineering Limited",
       "registered": true
     },
     {
