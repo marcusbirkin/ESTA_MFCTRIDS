@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-07-14T00:52:03Z",
+  "lastUpdated": "2024-07-21T00:51:50Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3776,6 +3776,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2201,
+      "organizationName": "",
+      "company": "Shenzhen Huimont Technology Co., Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2202,
       "organizationName": "",
       "company": "ADL Electronics Ltd.",
@@ -4820,6 +4826,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2422,
+      "organizationName": "",
+      "company": "Axion Lighting LLC",
+      "registered": true
+    },
+    {
       "manufacturerID": 2423,
       "organizationName": "",
       "company": "Guangzhou HuaYong Intelligent Technology Co., Ltd.",
@@ -5147,6 +5159,12 @@
       "manufacturerID": 2508,
       "organizationName": "",
       "company": "Motomuto Aps",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2512,
+      "organizationName": "",
+      "company": "Luminar Enterprises",
       "registered": true
     },
     {
