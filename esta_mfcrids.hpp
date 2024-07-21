@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-07-14T00:51:25Z
+ * @date 2024-07-21T00:51:01Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -666,6 +666,7 @@ namespace ESTA {
 			{0x0893, L"Brighten LED Lighting Limited"s},
 			{0x0894, L"Dongguan HCP Technology Co., Ltd."s},
 			{0x0896, L"CSD Design and Fabrication"s},
+			{0x0899, L"Shenzhen Huimont Technology Co., Ltd"s},
 			{0x089A, L"ADL Electronics Ltd."s},
 			{0x089D, L"gobo.ws"s},
 			{0x08A1, L"Shenzhen Gloshine Technology Co., Ltd"s},
@@ -840,6 +841,7 @@ namespace ESTA {
 			{0x0973, L"Guangzhou Eagle Wei Photoelectric Technology Co., Ltd."s},
 			{0x0974, L"Marumo Electric Co., Ltd."s},
 			{0x0975, L"KB Design"s},
+			{0x0976, L"Axion Lighting LLC"s},
 			{0x0977, L"Guangzhou HuaYong Intelligent Technology Co., Ltd."s},
 			{0x097A, L"Teamboyce Limited"s},
 			{0x097D, L"Brink Electronics"s},
@@ -895,6 +897,7 @@ namespace ESTA {
 			{0x09C7, L"ShoCobra"s},
 			{0x09C8, L"Crystal Fountains Inc."s},
 			{0x09CC, L"Motomuto Aps"s},
+			{0x09D0, L"Luminar Enterprises"s},
 			{0x09D1, L"Environmental Lights"s},
 			{0x09D2, L"Shenzhen Siwelo Technology Co., LTD"s},
 			{0x09D3, L"WLPS Wodielite Production Services"s},
