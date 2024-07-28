@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-07-21T00:51:50Z",
+  "lastUpdated": "2024-07-28T00:52:22Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2048,6 +2048,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1244,
+      "organizationName": "SUNLIGHT",
+      "company": "Modern Stage Service Projects",
+      "registered": true
+    },
+    {
       "manufacturerID": 1245,
       "organizationName": "",
       "company": "Topstriving Photoelectricity Technology Co., Ltd.",
@@ -2636,6 +2642,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1733,
+      "organizationName": "",
+      "company": "ZHIYUN INFORMATION (INTERNATIONAL) TECHNOLOGY CO., LIMITED",
+      "registered": true
+    },
+    {
       "manufacturerID": 1735,
       "organizationName": "",
       "company": "L&L Luce&Light",
@@ -3191,6 +3203,12 @@
       "manufacturerID": 2042,
       "organizationName": "",
       "company": "Shenzhen Pony Systems Tech Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2044,
+      "organizationName": "",
+      "company": "Electro Mind Co., Ltd.",
       "registered": true
     },
     {
