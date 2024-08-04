@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-07-28T00:51:28Z
+ * @date 2024-08-04T00:51:47Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -442,6 +442,7 @@ namespace ESTA {
 			{0x0644, L"COLEDER DISPLAY CO., LTD."s},
 			{0x0645, L"MATSUMURA ELECTRIC MFG. CO. , LTD."s},
 			{0x064D, L"KXD LIGHTING CO., LIMITED"s},
+			{0x064E, L"My Method"s},
 			{0x0650, L"RDC, Inc. d.b.a. LynTec"s},
 			{0x0653, L"USAI, LLC"s},
 			{0x0654, L"HUNAN XIANG CAIXU FILM AND TELEVISION CULTURE CO.LTD"s},
@@ -635,6 +636,7 @@ namespace ESTA {
 			{0x0869, L"Club Cannon LLC"s},
 			{0x086A, L"Shenzhen Chip Optech Co.,LTD"s},
 			{0x086C, L"Bafa Elektronik ve Işık Tasarımları Sanayii Ticaret LTD Sti."s},
+			{0x086D, L"Velaflame, LLC"s},
 			{0x086E, L"Guangzhou Hi-LTTE Electronics Technology Co.,Ltd"s},
 			{0x086F, L"MARTINI RUS LLC"s},
 			{0x0870, L"Hunan YESTECH Optoelectronic Co., Ltd"s},
