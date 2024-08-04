@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-07-28T00:52:22Z",
+  "lastUpdated": "2024-08-04T00:52:25Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2432,6 +2432,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1614,
+      "organizationName": "",
+      "company": "My Method",
+      "registered": true
+    },
+    {
       "manufacturerID": 1616,
       "organizationName": "",
       "company": "RDC, Inc. d.b.a. LynTec",
@@ -3587,6 +3593,12 @@
       "manufacturerID": 2156,
       "organizationName": "",
       "company": "Bafa Elektronik ve I\u015f\u0131k Tasar\u0131mlar\u0131 Sanayii Ticaret LTD Sti.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2157,
+      "organizationName": "",
+      "company": "Velaflame, LLC",
       "registered": true
     },
     {
