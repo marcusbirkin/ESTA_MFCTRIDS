@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-08-04T00:52:25Z",
+  "lastUpdated": "2024-08-11T00:53:09Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2534,6 +2534,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1672,
+      "organizationName": "",
+      "company": "LUCIDISCENA",
+      "registered": true
+    },
+    {
       "manufacturerID": 1673,
       "organizationName": "",
       "company": "GUANGDONG DONE POWER TECHNOLOGY CO",
@@ -5045,6 +5051,12 @@
       "manufacturerID": 2467,
       "organizationName": "",
       "company": "Shenzhen Lightlink Display Technology Co., Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2468,
+      "organizationName": "",
+      "company": "Brighter Lighting Sp. z.o.o.",
       "registered": true
     },
     {
