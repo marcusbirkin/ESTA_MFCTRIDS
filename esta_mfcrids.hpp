@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-08-04T00:51:47Z
+ * @date 2024-08-11T00:52:15Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -459,6 +459,7 @@ namespace ESTA {
 			{0x0684, L"LEDART LLC"s},
 			{0x0685, L"IBL/ESD-Datentechnik GmbH"s},
 			{0x0687, L"INSMARINE LLC"s},
+			{0x0688, L"LUCIDISCENA"s},
 			{0x0689, L"GUANGDONG DONE POWER TECHNOLOGY CO"s},
 			{0x068C, L"Hitmusic SAS"s},
 			{0x068E, L"GUANGZHOU TEANMA STAGE LIGHTING FACTORY"s},
@@ -878,6 +879,7 @@ namespace ESTA {
 			{0x09A1, L"Veranstaltungstechnik König"s},
 			{0x09A2, L"Fountain People"s},
 			{0x09A3, L"Shenzhen Lightlink Display Technology Co., Ltd"s},
+			{0x09A4, L"Brighter Lighting Sp. z.o.o."s},
 			{0x09A5, L"Prolight Concepts Ltd."s},
 			{0x09AA, L"Rushstage Show Lighting Limited"s},
 			{0x09AD, L"Dongguan Ensure Electronic Technology Co., LTD"s},
