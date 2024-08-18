@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-08-11T00:53:09Z",
+  "lastUpdated": "2024-08-18T00:52:34Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1841,6 +1841,12 @@
       "manufacturerID": 966,
       "organizationName": "",
       "company": "NYSOFT",
+      "registered": true
+    },
+    {
+      "manufacturerID": 974,
+      "organizationName": "",
+      "company": "MVI LLC",
       "registered": true
     },
     {
@@ -4484,6 +4490,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2338,
+      "organizationName": "",
+      "company": "von Gaisberg Engineering",
+      "registered": true
+    },
+    {
       "manufacturerID": 2339,
       "organizationName": "",
       "company": "Hangzhou Roleds Lighting System Co., Ltd.",
@@ -4835,6 +4847,12 @@
       "manufacturerID": 2415,
       "organizationName": "",
       "company": "Shenzhen showho technolgy co.,ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2417,
+      "organizationName": "",
+      "company": "Plura Europe GmbH",
       "registered": true
     },
     {
