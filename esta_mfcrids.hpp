@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-08-11T00:52:15Z
+ * @date 2024-08-18T00:51:53Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -344,6 +344,7 @@ namespace ESTA {
 			{0x03AA, L"AIGA Electronic (GuangZhou) Co., Ltd."s},
 			{0x03AB, L"ABMICROLONDON"s},
 			{0x03C6, L"NYSOFT"s},
+			{0x03CE, L"MVI LLC"s},
 			{0x03D5, L"eX Systems"s},
 			{0x03D6, L"i-Lumen"s},
 			{0x03DA, L"QST LED"s},
@@ -784,6 +785,7 @@ namespace ESTA {
 			{0x091F, L"Yaham Recience Technology Co,. ltd."s},
 			{0x0920, L"Vexica Technology Limited"s},
 			{0x0921, L"Guangzhou mengyi stage lighting equipment co., LTD."s},
+			{0x0922, L"von Gaisberg Engineering"s},
 			{0x0923, L"Hangzhou Roleds Lighting System Co., Ltd."s},
 			{0x0925, L"Guangzhou Aiweidy Lighting Acoustics Equipment Co.,Ltd."s},
 			{0x0926, L"Elumeros Lighting Limited"s},
@@ -843,6 +845,7 @@ namespace ESTA {
 			{0x096C, L"Guangzhou Nebula Stage Lighting Equipment Co., Ltd"s},
 			{0x096D, L"Guangzhou Xin Yilong Stage Lighting Equipment Co., Limited"s},
 			{0x096F, L"Shenzhen showho technolgy co.,ltd"s},
+			{0x0971, L"Plura Europe GmbH"s},
 			{0x0972, L"Holochrom GmbH"s},
 			{0x0973, L"Guangzhou Eagle Wei Photoelectric Technology Co., Ltd."s},
 			{0x0974, L"Marumo Electric Co., Ltd."s},
