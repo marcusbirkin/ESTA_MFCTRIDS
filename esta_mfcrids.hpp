@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-08-18T00:51:53Z
+ * @date 2024-08-25T00:52:42Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -521,6 +521,7 @@ namespace ESTA {
 			{0x0740, L"Arkalumen"s},
 			{0x0744, L"DMX Pro Sales, LLC"s},
 			{0x0745, L"Guangzhou Wingo Stage Light Co., Ltd"s},
+			{0x0748, L"Chromateq"s},
 			{0x074F, L"Panasonic Corporation"s},
 			{0x0753, L"F&V Europe B.V."s},
 			{0x0758, L"IMPOLUX GmbH"s},
@@ -921,6 +922,7 @@ namespace ESTA {
 			{0x09DE, L"Matthias Bauch Software"s},
 			{0x09E9, L"Starway"s},
 			{0x09EE, L"Suzhou Pinzong Electronic Technology, CO.,Ltd"s},
+			{0x09EF, L"Andrea Croce"s},
 			{0x09F8, L"UberDisplays"s},
 			{0x09FC, L"deskontrol electronics"s},
 			{0x0A01, L"Star-Reach Corporation"s},
