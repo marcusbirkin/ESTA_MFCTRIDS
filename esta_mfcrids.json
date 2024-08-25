@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-08-18T00:52:34Z",
+  "lastUpdated": "2024-08-25T00:53:28Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2906,6 +2906,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1864,
+      "organizationName": "",
+      "company": "Chromateq",
+      "registered": true
+    },
+    {
       "manufacturerID": 1871,
       "organizationName": "",
       "company": "Panasonic Corporation",
@@ -5303,6 +5309,12 @@
       "manufacturerID": 2542,
       "organizationName": "",
       "company": "Suzhou Pinzong Electronic Technology, CO.,Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2543,
+      "organizationName": "",
+      "company": "Andrea Croce",
       "registered": true
     },
     {
