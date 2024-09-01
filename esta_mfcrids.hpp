@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-08-25T00:52:42Z
+ * @date 2024-09-01T00:58:54Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -839,6 +839,7 @@ namespace ESTA {
 			{0x095F, L"Elaborated Networks GmbH"s},
 			{0x0960, L"Fineline Solutions Ltd."s},
 			{0x0962, L"Finland Lighting Oy"s},
+			{0x0963, L"Foshan Sololighting Technology Co., Ltd"s},
 			{0x0964, L"Inventions Guité Inc."s},
 			{0x0965, L"Fontana Fountains"s},
 			{0x0967, L"Arcus Licht- und Praesentationstechnik GmbH"s},
