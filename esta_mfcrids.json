@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-08-25T00:53:28Z",
+  "lastUpdated": "2024-09-01T00:59:32Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4811,6 +4811,12 @@
       "manufacturerID": 2402,
       "organizationName": "",
       "company": "Finland Lighting Oy",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2403,
+      "organizationName": "",
+      "company": "Foshan Sololighting Technology Co., Ltd",
       "registered": true
     },
     {
