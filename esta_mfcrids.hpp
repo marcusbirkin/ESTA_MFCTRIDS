@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-09-01T00:58:54Z
+ * @date 2024-09-15T00:57:19Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -377,6 +377,7 @@ namespace ESTA {
 			{0x04B8, L"Guangzhou Hongcai Stage Equipment Co., Ltd."s},
 			{0x04C4, L"Ephesus Lighting, Inc."s},
 			{0x04CA, L"RT-DMX"s},
+			{0x04D6, L"Kessil"s},
 			{0x04D7, L"Targetti Sankey Spa"s},
 			{0x04D8, L"Guangzhou Hong Yuan Electronic Technology Co., LTD."s},
 			{0x04DC, L"Modern Stage Service Projects"s},
@@ -599,6 +600,7 @@ namespace ESTA {
 			{0x0814, L"squareV"s},
 			{0x081C, L"MR Electronics Ltd."s},
 			{0x081E, L"LOBO Electronic GmbH"s},
+			{0x0822, L"Hangzhou YD Illumination Co., Ltd"s},
 			{0x0823, L"Opito Labs GmbH"s},
 			{0x0824, L"Almotechnos CO.,LTD."s},
 			{0x0827, L"PIXREAL"s},
@@ -619,6 +621,7 @@ namespace ESTA {
 			{0x084C, L"Guangzhou Ba Lin Electronic Technology Co., Ltd."s},
 			{0x084D, L"Guangzhou NECO Stage Lighting Factory"s},
 			{0x084E, L"RGBshine Technology Co. Ltd."s},
+			{0x084F, L"Mantic Lighting Co.,Ltd"s},
 			{0x0850, L"Proland Group, LLC"s},
 			{0x0851, L"Junction Inc. Ltd"s},
 			{0x0854, L"NEC Display Solutions, Ltd."s},
@@ -707,6 +710,7 @@ namespace ESTA {
 			{0x08BF, L"Times Square Stage Lighting Inc."s},
 			{0x08C0, L"Real Tech International LTD."s},
 			{0x08C1, L"Project SSSHH Incorporated"s},
+			{0x08C2, L"Guangzhou Huipu Stage Effect Equipment Co., Ltd"s},
 			{0x08C3, L"Guangzhou Spark Stage Equipment Co. Ltd"s},
 			{0x08C4, L"Jacek Wagner"s},
 			{0x08C5, L"EHRGEIZ Lichttechnik GmbH"s},
