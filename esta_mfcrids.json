@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-09-01T00:59:32Z",
+  "lastUpdated": "2024-09-15T00:57:57Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2042,6 +2042,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1238,
+      "organizationName": "",
+      "company": "Kessil",
+      "registered": true
+    },
+    {
       "manufacturerID": 1239,
       "organizationName": "",
       "company": "Targetti Sankey Spa",
@@ -3374,6 +3380,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2082,
+      "organizationName": "",
+      "company": "Hangzhou YD Illumination Co., Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2083,
       "organizationName": "",
       "company": "Opito Labs GmbH",
@@ -3491,6 +3503,12 @@
       "manufacturerID": 2126,
       "organizationName": "",
       "company": "RGBshine Technology Co. Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2127,
+      "organizationName": "",
+      "company": "Mantic Lighting Co.,Ltd",
       "registered": true
     },
     {
@@ -4019,6 +4037,12 @@
       "manufacturerID": 2241,
       "organizationName": "",
       "company": "Project SSSHH Incorporated",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2242,
+      "organizationName": "",
+      "company": "Guangzhou Huipu Stage Effect Equipment Co., Ltd",
       "registered": true
     },
     {
