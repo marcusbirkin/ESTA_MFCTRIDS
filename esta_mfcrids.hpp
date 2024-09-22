@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-09-15T00:57:19Z
+ * @date 2024-09-22T00:57:32Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -196,6 +196,7 @@ namespace ESTA {
 			{0x011D, L"Yangzhou Zhituo Lighting Vision Technology Co., Ltd."s},
 			{0x011E, L"Master LED"s},
 			{0x011F, L"STF s.r.l."s},
+			{0x0144, L"KW-Veranstaltungstechnik"s},
 			{0x016C, L"LGR"s},
 			{0x016D, L"Hive Lighting"s},
 			{0x016E, L"Artled Technology Corp."s},
@@ -366,6 +367,7 @@ namespace ESTA {
 			{0x0455, L"Lamp & Pencil"s},
 			{0x047C, L"LedsGo"s},
 			{0x0480, L"ASUSTeK Computer Inc."s},
+			{0x0486, L"LANZ (CZ) Lighting Ltd"s},
 			{0x048E, L"Krisledz Pte. Ltd."s},
 			{0x048F, L"Grand Canyon LED Lighting System (Suzhou) Co., Ltd."s},
 			{0x04A6, L"MEB Veranstaltungstechnik GmbH"s},
@@ -614,6 +616,7 @@ namespace ESTA {
 			{0x083F, L"Shenzhen LeiFei Lighting Technologies Co.,Ltd."s},
 			{0x0840, L"Shenzhen Zwich Science and Technology Co.Ltd."s},
 			{0x0841, L"Guangzhou ICON Lighting Co.,Ltd"s},
+			{0x0843, L"BHL Lichttechniek"s},
 			{0x0845, L"Cush Light LLC"s},
 			{0x0846, L"LDR - Luci della Ribalta Srl"s},
 			{0x0848, L"SLC - Static Light Company Ltd"s},
