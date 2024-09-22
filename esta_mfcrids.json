@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-09-15T00:57:57Z",
+  "lastUpdated": "2024-09-22T00:58:20Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -953,6 +953,12 @@
       "manufacturerID": 287,
       "organizationName": "",
       "company": "STF s.r.l.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 324,
+      "organizationName": "",
+      "company": "KW-Veranstaltungstechnik",
       "registered": true
     },
     {
@@ -1973,6 +1979,12 @@
       "manufacturerID": 1152,
       "organizationName": "",
       "company": "ASUSTeK Computer Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1158,
+      "organizationName": "",
+      "company": "LANZ (CZ) Lighting Ltd",
       "registered": true
     },
     {
@@ -3461,6 +3473,12 @@
       "manufacturerID": 2113,
       "organizationName": "",
       "company": "Guangzhou ICON Lighting Co.,Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2115,
+      "organizationName": "",
+      "company": "BHL Lichttechniek",
       "registered": true
     },
     {
