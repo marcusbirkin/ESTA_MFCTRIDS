@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-09-22T00:57:32Z
+ * @date 2024-09-29T00:58:12Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -379,6 +379,7 @@ namespace ESTA {
 			{0x04B8, L"Guangzhou Hongcai Stage Equipment Co., Ltd."s},
 			{0x04C4, L"Ephesus Lighting, Inc."s},
 			{0x04CA, L"RT-DMX"s},
+			{0x04CE, L"Quisda"s},
 			{0x04D6, L"Kessil"s},
 			{0x04D7, L"Targetti Sankey Spa"s},
 			{0x04D8, L"Guangzhou Hong Yuan Electronic Technology Co., LTD."s},
@@ -404,6 +405,7 @@ namespace ESTA {
 			{0x056B, L"COSMOLIGHT SRL"s},
 			{0x056C, L"Lumascape Lighting Industries"s},
 			{0x0573, L"JIAXING XINHUALI LIGHTING & SOUNDING CO., LTD."s},
+			{0x057A, L"RVE S.A.S."s},
 			{0x0580, L"Innovation LED  Limited"s},
 			{0x0582, L"Jack LINE"s},
 			{0x0586, L"K 5600, Inc."s},
@@ -490,6 +492,7 @@ namespace ESTA {
 			{0x06D1, L"BIRUN ELECTRONIC INDUSTRIAL CO., LTD"s},
 			{0x06D2, L"LIGHTSTAR (BEIJING) ELECTRONIC CORPORATION"s},
 			{0x06D3, L"Boerner Distribution International GmbH"s},
+			{0x06DD, L"GRUPPO SIGI SRLS"s},
 			{0x06E0, L"SHENZHEN LONGRUN OPTOELECTRONIC CO., LTD"s},
 			{0x06E1, L"Burck IT GmbH & Co. KG"s},
 			{0x06E2, L"ScreenCo"s},
@@ -772,6 +775,7 @@ namespace ESTA {
 			{0x0907, L"Shenzhen GCL Electronics Co., Ltd"s},
 			{0x0908, L"Guangzhou DeLong Stage Equipment Co., Ltd."s},
 			{0x0909, L"Beijing Starlight Electronics Co., Ltd."s},
+			{0x090A, L"Jiangmen Seekway Technology Limited"s},
 			{0x090B, L"StarLighting"s},
 			{0x090C, L"GRE Alpha"s},
 			{0x090E, L"Sichuan esRadio Technology Co., Ltd"s},
@@ -868,6 +872,7 @@ namespace ESTA {
 			{0x0980, L"Moog Animatics"s},
 			{0x0981, L"Luxam, Ltd."s},
 			{0x0982, L"AC Entertainment Products Ltd."s},
+			{0x0983, L"S Squared Innovations Inc."s},
 			{0x0984, L"Laserworld AG"s},
 			{0x0986, L"ROE Visual Co. Ltd."s},
 			{0x0987, L"mathertel.de"s},
