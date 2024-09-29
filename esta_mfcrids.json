@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-09-22T00:58:20Z",
+  "lastUpdated": "2024-09-29T00:58:49Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2054,6 +2054,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1230,
+      "organizationName": "",
+      "company": "Quisda",
+      "registered": true
+    },
+    {
       "manufacturerID": 1238,
       "organizationName": "",
       "company": "Kessil",
@@ -2201,6 +2207,12 @@
       "manufacturerID": 1395,
       "organizationName": "",
       "company": "JIAXING XINHUALI LIGHTING & SOUNDING CO., LTD.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1402,
+      "organizationName": "",
+      "company": "RVE S.A.S.",
       "registered": true
     },
     {
@@ -2717,6 +2729,12 @@
       "manufacturerID": 1747,
       "organizationName": "",
       "company": "Boerner Distribution International GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1757,
+      "organizationName": "",
+      "company": "GRUPPO SIGI SRLS",
       "registered": true
     },
     {
@@ -4412,6 +4430,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2314,
+      "organizationName": "",
+      "company": "Jiangmen Seekway Technology Limited",
+      "registered": true
+    },
+    {
       "manufacturerID": 2315,
       "organizationName": "",
       "company": "StarLighting",
@@ -4985,6 +5009,12 @@
       "manufacturerID": 2434,
       "organizationName": "",
       "company": "AC Entertainment Products Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2435,
+      "organizationName": "",
+      "company": "S Squared Innovations Inc.",
       "registered": true
     },
     {
