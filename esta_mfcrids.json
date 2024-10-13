@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-09-29T00:58:49Z",
+  "lastUpdated": "2024-10-13T00:58:21Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3791,6 +3791,12 @@
       "manufacturerID": 2182,
       "organizationName": "",
       "company": "KLIK Systems",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2183,
+      "organizationName": "",
+      "company": "PrimOtek s.r.l.s.",
       "registered": true
     },
     {
