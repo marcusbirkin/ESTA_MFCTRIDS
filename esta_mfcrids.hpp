@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-09-29T00:58:12Z
+ * @date 2024-10-13T00:57:34Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -669,6 +669,7 @@ namespace ESTA {
 			{0x0884, L"Bright Group"s},
 			{0x0885, L"SIRS-E"s},
 			{0x0886, L"KLIK Systems"s},
+			{0x0887, L"PrimOtek s.r.l.s."s},
 			{0x0888, L"Banglux Lighting Technology Co., Ltd."s},
 			{0x0889, L"Guangzhou Shenghui Electronic Technology Co., Ltd"s},
 			{0x088A, L"Highendled Electronics Company Limited"s},
