@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-10-13T00:58:21Z",
+  "lastUpdated": "2024-10-20T00:59:23Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1744,7 +1744,7 @@
     {
       "manufacturerID": 783,
       "organizationName": "",
-      "company": "Guangzhou Litewise Lighting Equipments Co., Ltd. dba 'EK Lights'",
+      "company": "EK INC (formerly Guangzhou Litewise Lighting Equipments Co., Ltd.)",
       "registered": true
     },
     {
@@ -1943,6 +1943,12 @@
       "manufacturerID": 1072,
       "organizationName": "",
       "company": "BOE MLED Technology Co., Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1084,
+      "organizationName": "",
+      "company": "Volux Lighting",
       "registered": true
     },
     {
@@ -3644,6 +3650,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2151,
+      "organizationName": "",
+      "company": "Huizhou LATU Film Equipment Co., Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2152,
       "organizationName": "",
       "company": "Ushio America, Inc.",
@@ -4010,6 +4022,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2228,
+      "organizationName": "",
+      "company": "Ledera Technology Co.,Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2229,
       "organizationName": "",
       "company": "ShenZhen Sunny Xiao Technology Co., Ltd.",
@@ -4136,6 +4154,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2254,
+      "organizationName": "",
+      "company": "Zhejiang DGX Electronic Technology Co.,Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2256,
       "organizationName": "",
       "company": "Image Engineering",
@@ -4199,6 +4223,12 @@
       "manufacturerID": 2269,
       "organizationName": "",
       "company": "Matthew Tong",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2271,
+      "organizationName": "",
+      "company": "DetaiLED Solutions",
       "registered": true
     },
     {
@@ -5963,6 +5993,12 @@
       "manufacturerID": 7296,
       "organizationName": "Vehtec",
       "company": "Vehtec Tecnologia Ltda",
+      "registered": true
+    },
+    {
+      "manufacturerID": 7339,
+      "organizationName": "",
+      "company": "LTT sp. z o.o.",
       "registered": true
     },
     {
