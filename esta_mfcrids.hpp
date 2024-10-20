@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-10-13T00:57:34Z
+ * @date 2024-10-20T00:58:43Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -327,7 +327,7 @@ namespace ESTA {
 			{0x0308, L"ImageCue LLC"s},
 			{0x030A, L"Shenzhen Colordreamer Tech Ltd."s},
 			{0x030B, L"Guangzhou Wanrui Stage Light Equipment Co., Ltd."s},
-			{0x030F, L"Guangzhou Litewise Lighting Equipments Co., Ltd. dba 'EK Lights'"s},
+			{0x030F, L"EK INC (formerly Guangzhou Litewise Lighting Equipments Co., Ltd.)"s},
 			{0x0311, L"Guangzhou PUGUANG Electronic Technology Co., Ltd."s},
 			{0x0312, L"Guangzhou Xingkong Studio Lighting Co., Ltd."s},
 			{0x032C, L"Carallon Ltd."s},
@@ -361,6 +361,7 @@ namespace ESTA {
 			{0x0424, L"FLUX ECLAIRAGE"s},
 			{0x0428, L"ITSTECH"s},
 			{0x0430, L"BOE MLED Technology Co., Ltd"s},
+			{0x043C, L"Volux Lighting"s},
 			{0x0440, L"Guangzhou VAS Lighting Co., Ltd."s},
 			{0x044E, L"Ben Peoples Industries, LLC"s},
 			{0x044F, L"B2 Co., Ltd."s},
@@ -644,6 +645,7 @@ namespace ESTA {
 			{0x0864, L"Hangzhou Youte Power., Co. Ltd"s},
 			{0x0865, L"Contrade GmbH"s},
 			{0x0866, L"PAL Lighting"s},
+			{0x0867, L"Huizhou LATU Film Equipment Co., Ltd"s},
 			{0x0868, L"Ushio America, Inc."s},
 			{0x0869, L"Club Cannon LLC"s},
 			{0x086A, L"Shenzhen Chip Optech Co.,LTD"s},
@@ -705,6 +707,7 @@ namespace ESTA {
 			{0x08B1, L"Fujian Starnet Evideo Information System Co.,Ltd."s},
 			{0x08B2, L"MCI Group"s},
 			{0x08B3, L"Stealth Light srl"s},
+			{0x08B4, L"Ledera Technology Co.,Ltd"s},
 			{0x08B5, L"ShenZhen Sunny Xiao Technology Co., Ltd."s},
 			{0x08B6, L"Graf Lichttechnik UG"s},
 			{0x08B8, L"LEDScape Lighting"s},
@@ -726,6 +729,7 @@ namespace ESTA {
 			{0x08CA, L"Foshan City Xuandao Optoelectronics Equipment Co., Ltd"s},
 			{0x08CB, L"Practical LEDs.com"s},
 			{0x08CC, L"Guangzhou Santu Stage Lighting Equipment Co.Ltd"s},
+			{0x08CE, L"Zhejiang DGX Electronic Technology Co.,Ltd"s},
 			{0x08D0, L"Image Engineering"s},
 			{0x08D1, L"Shenzhen Leqi Network Technology Co., Ltd."s},
 			{0x08D3, L"SVI Public Company Limited"s},
@@ -737,6 +741,7 @@ namespace ESTA {
 			{0x08D9, L"STILED"s},
 			{0x08DA, L"PLC Intelligent Technology (Shanghai) Co., Ltd."s},
 			{0x08DD, L"Matthew Tong"s},
+			{0x08DF, L"DetaiLED Solutions"s},
 			{0x08E0, L"Red Arrow Controls"s},
 			{0x08E1, L"Shenzhen CLT Electronics Co.,LTD"s},
 			{0x08E2, L"Particle Studio Ltd."s},
@@ -1031,6 +1036,7 @@ namespace ESTA {
 			{0x1BC0, L"ALS Stanislaw Binkiewicz"s},
 			{0x1BC6, L"Studio S Music City"s},
 			{0x1C80, L"Vehtec Tecnologia Ltda"s},
+			{0x1CAB, L"LTT sp. z o.o."s},
 			{0x1E42, L"SSE GmbH"s},
 			{0x1E8D, L"Moda Light"s},
 			{0x1ECF, L"Masiero s.r.l."s},
