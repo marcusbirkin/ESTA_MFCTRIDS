@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-10-20T00:58:43Z
+ * @date 2024-10-27T00:58:19Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -380,6 +380,7 @@ namespace ESTA {
 			{0x04B8, L"Guangzhou Hongcai Stage Equipment Co., Ltd."s},
 			{0x04C4, L"Ephesus Lighting, Inc."s},
 			{0x04CA, L"RT-DMX"s},
+			{0x04CC, L"Yubang Ruiying (Zhongshan) Electronics Co., LTD"s},
 			{0x04CE, L"Quisda"s},
 			{0x04D6, L"Kessil"s},
 			{0x04D7, L"Targetti Sankey Spa"s},
@@ -524,6 +525,7 @@ namespace ESTA {
 			{0x072F, L"RayComposer - R. Adams"s},
 			{0x0732, L"Galaxia Electronics"s},
 			{0x0734, L"CPOINT"s},
+			{0x073A, L"AML Lighting Co.,LTD"s},
 			{0x073B, L"Corsair Technology Ltd."s},
 			{0x0740, L"Arkalumen"s},
 			{0x0744, L"DMX Pro Sales, LLC"s},
