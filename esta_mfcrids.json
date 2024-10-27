@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-10-20T00:59:23Z",
+  "lastUpdated": "2024-10-27T00:58:59Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2060,6 +2060,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1228,
+      "organizationName": "",
+      "company": "Yubang Ruiying (Zhongshan) Electronics Co., LTD",
+      "registered": true
+    },
+    {
       "manufacturerID": 1230,
       "organizationName": "",
       "company": "Quisda",
@@ -2921,6 +2927,12 @@
       "manufacturerID": 1844,
       "organizationName": "",
       "company": "CPOINT",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1850,
+      "organizationName": "",
+      "company": "AML Lighting Co.,LTD",
       "registered": true
     },
     {
