@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-10-27T00:58:19Z
+ * @date 2024-11-03T00:58:13Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -516,6 +516,7 @@ namespace ESTA {
 			{0x0710, L"D.T.S. Illuminazione srl"s},
 			{0x0711, L"Halonix Technologies Pvt Ltd."s},
 			{0x0712, L"Laser Imagineering GmbH"s},
+			{0x0716, L"Artem Ltd."s},
 			{0x071A, L"YHX Visual"s},
 			{0x071F, L"Moss LED Inc"s},
 			{0x0724, L"PHC Lighting & BMS Sp. z o.o."s},
