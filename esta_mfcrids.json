@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-10-27T00:58:59Z",
+  "lastUpdated": "2024-11-03T00:58:53Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2873,6 +2873,12 @@
       "manufacturerID": 1810,
       "organizationName": "",
       "company": "Laser Imagineering GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1814,
+      "organizationName": "",
+      "company": "Artem Ltd.",
       "registered": true
     },
     {
