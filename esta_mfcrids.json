@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-11-03T00:58:53Z",
+  "lastUpdated": "2024-11-10T00:57:31Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2360,6 +2360,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1526,
+      "organizationName": "",
+      "company": "Otiru Oy",
+      "registered": true
+    },
+    {
       "manufacturerID": 1527,
       "organizationName": "",
       "company": "Immersive Design Studios Inc.",
@@ -4646,6 +4652,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2344,
+      "organizationName": "",
+      "company": "Chaostreff Backnang e.V.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2345,
       "organizationName": "",
       "company": "UPlight stage equipment(GZ) CO., Ltd.",
@@ -4775,6 +4787,12 @@
       "manufacturerID": 2369,
       "organizationName": "",
       "company": "Shenzen Zhuoyang Intelligent Technology Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2370,
+      "organizationName": "",
+      "company": "Showjockey Technology Co., Ltd",
       "registered": true
     },
     {
@@ -4973,6 +4991,12 @@
       "manufacturerID": 2413,
       "organizationName": "",
       "company": "Guangzhou Xin Yilong Stage Lighting Equipment Co., Limited",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2414,
+      "organizationName": "",
+      "company": "Calvitia Limited",
       "registered": true
     },
     {
@@ -6627,7 +6651,7 @@
     },
     {
       "manufacturerID": 11177,
-      "organizationName": "",
+      "organizationName": "TWRC",
       "company": "The White Rabbit Company, Inc.",
       "registered": true
     },
