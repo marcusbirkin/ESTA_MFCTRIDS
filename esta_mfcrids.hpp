@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-11-03T00:58:13Z
+ * @date 2024-11-10T00:56:53Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -430,6 +430,7 @@ namespace ESTA {
 			{0x05EB, L"GUANGZHOU BO WEI TE LIGHTING  CO.LTD"s},
 			{0x05EF, L"Guangzhou Chai Yi Light Co., Ltd."s},
 			{0x05F2, L"O'Light"s},
+			{0x05F6, L"Otiru Oy"s},
 			{0x05F7, L"Immersive Design Studios Inc."s},
 			{0x0600, L"TELMIC Neo"s},
 			{0x0602, L"Guangzhou Jinhong Stage Lighting Equipment.Co.,ltd"s},
@@ -811,6 +812,7 @@ namespace ESTA {
 			{0x0925, L"Guangzhou Aiweidy Lighting Acoustics Equipment Co.,Ltd."s},
 			{0x0926, L"Elumeros Lighting Limited"s},
 			{0x0927, L"Guangzhou Mingying Electronic Technology Co., Ltd."s},
+			{0x0928, L"Chaostreff Backnang e.V."s},
 			{0x0929, L"UPlight stage equipment(GZ) CO., Ltd."s},
 			{0x092B, L"Guangzhou Lightful Stage Lighting&Sound Equipment Co,.Ltd."s},
 			{0x092C, L"Guangzhou Chaoran Computer Co., Ltd."s},
@@ -833,6 +835,7 @@ namespace ESTA {
 			{0x093F, L"Guangzhou Julong Platform Lighting Equipment Factory"s},
 			{0x0940, L"Shenzhen CreateLED Electronics Co., Ltd"s},
 			{0x0941, L"Shenzen Zhuoyang Intelligent Technology Co., Ltd."s},
+			{0x0942, L"Showjockey Technology Co., Ltd"s},
 			{0x0943, L"Guangzhou Guangying Optoelectronics Co., Ltd"s},
 			{0x0945, L"Guangzhou Lin Xiang Stage Lighting Equipment CO.,LTD"s},
 			{0x0946, L"TBE Srl"s},
@@ -866,6 +869,7 @@ namespace ESTA {
 			{0x0968, L"Guangzhou Beyond Lighting Co., Limited."s},
 			{0x096C, L"Guangzhou Nebula Stage Lighting Equipment Co., Ltd"s},
 			{0x096D, L"Guangzhou Xin Yilong Stage Lighting Equipment Co., Limited"s},
+			{0x096E, L"Calvitia Limited"s},
 			{0x096F, L"Shenzhen showho technolgy co.,ltd"s},
 			{0x0971, L"Plura Europe GmbH"s},
 			{0x0972, L"Holochrom GmbH"s},
