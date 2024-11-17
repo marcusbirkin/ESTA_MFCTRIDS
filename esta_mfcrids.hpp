@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-11-10T00:56:53Z
+ * @date 2024-11-17T01:00:05Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -729,6 +729,7 @@ namespace ESTA {
 			{0x08C4, L"Jacek Wagner"s},
 			{0x08C5, L"EHRGEIZ Lichttechnik GmbH"s},
 			{0x08C6, L"Guangzhou Ever Famous Electronic Co.,Ltd"s},
+			{0x08C7, L"Shenzhen SOSTRON Technology Co., Ltd"s},
 			{0x08C9, L"LEDitgo Videowall Germany GmbH"s},
 			{0x08CA, L"Foshan City Xuandao Optoelectronics Equipment Co., Ltd"s},
 			{0x08CB, L"Practical LEDs.com"s},
@@ -899,6 +900,7 @@ namespace ESTA {
 			{0x0990, L"Stagelight Holding"s},
 			{0x0991, L"Guangdong Pomelo Photoelectric Equipment Co., Ltd"s},
 			{0x0993, L"Shenzhen Trigger digital Technology Co., LTD"s},
+			{0x0995, L"Rasha Professional"s},
 			{0x0996, L"CCI Power Supplies, LLC"s},
 			{0x0997, L"Star Iluminacao Computadorizada LTDA"s},
 			{0x0999, L"Concept Smoke Systems Ltd."s},
