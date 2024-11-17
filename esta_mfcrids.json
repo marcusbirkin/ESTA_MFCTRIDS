@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-11-10T00:57:31Z",
+  "lastUpdated": "2024-11-17T01:01:12Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4154,6 +4154,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2247,
+      "organizationName": "",
+      "company": "Shenzhen SOSTRON Technology Co., Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2249,
       "organizationName": "",
       "company": "LEDitgo Videowall Germany GmbH",
@@ -5171,6 +5177,12 @@
       "manufacturerID": 2451,
       "organizationName": "",
       "company": "Shenzhen Trigger digital Technology Co., LTD",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2453,
+      "organizationName": "",
+      "company": "Rasha Professional",
       "registered": true
     },
     {
