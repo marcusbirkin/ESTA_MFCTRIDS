@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-11-17T01:01:12Z",
+  "lastUpdated": "2024-11-24T01:02:13Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3194,6 +3194,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2002,
+      "organizationName": "",
+      "company": "Guangdong The One Studio Co., Limited",
+      "registered": true
+    },
+    {
       "manufacturerID": 2005,
       "organizationName": "",
       "company": "PHIDA Stage Equipment Co., Ltd",
@@ -3209,6 +3215,12 @@
       "manufacturerID": 2010,
       "organizationName": "",
       "company": "Flytech s.r.l.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2012,
+      "organizationName": "",
+      "company": "EVLight (Guangzhou) Co.,Ltd.",
       "registered": true
     },
     {
@@ -5327,6 +5339,12 @@
       "manufacturerID": 2488,
       "organizationName": "",
       "company": "Prolites S.A.L.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2490,
+      "organizationName": "",
+      "company": "Supervoimed OU",
       "registered": true
     },
     {
