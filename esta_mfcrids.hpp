@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-11-17T01:00:05Z
+ * @date 2024-11-24T01:00:26Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -569,9 +569,11 @@ namespace ESTA {
 			{0x07CC, L"Griven S.r.l."s},
 			{0x07CF, L"MH-Sound"s},
 			{0x07D1, L"Made By Mouse LTD"s},
+			{0x07D2, L"Guangdong The One Studio Co., Limited"s},
 			{0x07D5, L"PHIDA Stage Equipment Co., Ltd"s},
 			{0x07D6, L"Lite Puter Enterprise Co., Ltd."s},
 			{0x07DA, L"Flytech s.r.l."s},
+			{0x07DC, L"EVLight (Guangzhou) Co.,Ltd."s},
 			{0x07E8, L"ROCKETSIGN Technology HK Ltd"s},
 			{0x07E9, L"TechLink Co., Ltd."s},
 			{0x07EA, L"Le Maitre Ltd"s},
@@ -925,6 +927,7 @@ namespace ESTA {
 			{0x09B6, L"Second String Studios"s},
 			{0x09B7, L"inCon-trol water systems"s},
 			{0x09B8, L"Prolites S.A.L."s},
+			{0x09BA, L"Supervoimed OU"s},
 			{0x09BB, L"Guangzhou Yiyi Technology Co., Ltd."s},
 			{0x09BD, L"Shenzhen Zhongbo Photoelectric Co., Ltd"s},
 			{0x09BE, L"Arctos Showlasertechnik GmbH"s},
