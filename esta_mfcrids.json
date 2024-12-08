@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-11-24T01:02:13Z",
+  "lastUpdated": "2024-12-08T01:04:31Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4874,6 +4874,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2382,
+      "organizationName": "",
+      "company": "Myostat Motion Control",
+      "registered": true
+    },
+    {
       "manufacturerID": 2385,
       "organizationName": "",
       "company": "Guangzhou GTD Lighting Technology Co., Ltd",
@@ -5024,6 +5030,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2416,
+      "organizationName": "",
+      "company": "Aurum Engineering GmbH",
+      "registered": true
+    },
+    {
       "manufacturerID": 2417,
       "organizationName": "",
       "company": "Plura Europe GmbH",
@@ -5063,6 +5075,12 @@
       "manufacturerID": 2423,
       "organizationName": "",
       "company": "Guangzhou HuaYong Intelligent Technology Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2424,
+      "organizationName": "",
+      "company": "LE Veranstaltungstechnik",
       "registered": true
     },
     {
@@ -5297,6 +5315,12 @@
       "manufacturerID": 2480,
       "organizationName": "",
       "company": "Luminii",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2481,
+      "organizationName": "",
+      "company": "Shenzhen Lianxinke Microelectronics Co., Ltd",
       "registered": true
     },
     {
