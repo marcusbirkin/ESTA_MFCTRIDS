@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-11-24T01:00:26Z
+ * @date 2024-12-08T01:03:47Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -849,6 +849,7 @@ namespace ESTA {
 			{0x094B, L"Invisua Lighting BV"s},
 			{0x094C, L"Shenzhen Xiezhen Electronics Co., Ltd."s},
 			{0x094D, L"Quantum Theory"s},
+			{0x094E, L"Myostat Motion Control"s},
 			{0x0951, L"Guangzhou GTD Lighting Technology Co., Ltd"s},
 			{0x0952, L"Guangzhou Sunway Entertainment Equipment Co., Ltd."s},
 			{0x0953, L"Boumakers Techniek"s},
@@ -874,6 +875,7 @@ namespace ESTA {
 			{0x096D, L"Guangzhou Xin Yilong Stage Lighting Equipment Co., Limited"s},
 			{0x096E, L"Calvitia Limited"s},
 			{0x096F, L"Shenzhen showho technolgy co.,ltd"s},
+			{0x0970, L"Aurum Engineering GmbH"s},
 			{0x0971, L"Plura Europe GmbH"s},
 			{0x0972, L"Holochrom GmbH"s},
 			{0x0973, L"Guangzhou Eagle Wei Photoelectric Technology Co., Ltd."s},
@@ -881,6 +883,7 @@ namespace ESTA {
 			{0x0975, L"KB Design"s},
 			{0x0976, L"Axion Lighting LLC"s},
 			{0x0977, L"Guangzhou HuaYong Intelligent Technology Co., Ltd."s},
+			{0x0978, L"LE Veranstaltungstechnik"s},
 			{0x097A, L"Teamboyce Limited"s},
 			{0x097D, L"Brink Electronics"s},
 			{0x097E, L"Guangzhou Deyi Lighting Co., Ltd."s},
@@ -920,6 +923,7 @@ namespace ESTA {
 			{0x09AE, L"Robert Juliat"s},
 			{0x09AF, L"Autotech Co."s},
 			{0x09B0, L"Luminii"s},
+			{0x09B1, L"Shenzhen Lianxinke Microelectronics Co., Ltd"s},
 			{0x09B2, L"Guangzhou Hedong Electronics Co., LTD"s},
 			{0x09B3, L"Aquatique Show Int."s},
 			{0x09B4, L"Brompton Technology Ltd."s},
