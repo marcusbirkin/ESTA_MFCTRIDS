@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-12-08T01:04:31Z",
+  "lastUpdated": "2024-12-15T01:04:37Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2618,6 +2618,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1682,
+      "organizationName": "",
+      "company": "TORO SYSTEM",
+      "registered": true
+    },
+    {
       "manufacturerID": 1686,
       "organizationName": "",
       "company": "SHENZHEN HOION LIGHTING CO.,LTD",
@@ -3998,6 +4004,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2217,
+      "organizationName": "",
+      "company": "Lighten Corp.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2218,
       "organizationName": "",
       "company": "PiXL Factory",
@@ -5204,6 +5216,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2450,
+      "organizationName": "",
+      "company": "Guangzhou Fengyi Stage Lighting Equipment Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2451,
       "organizationName": "",
       "company": "Shenzhen Trigger digital Technology Co., LTD",
@@ -5237,6 +5255,12 @@
       "manufacturerID": 2458,
       "organizationName": "",
       "company": "Aixz International (S)",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2459,
+      "organizationName": "",
+      "company": "Luminoscape Lighting Limited",
       "registered": true
     },
     {
