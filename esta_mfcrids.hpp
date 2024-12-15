@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-12-08T01:03:47Z
+ * @date 2024-12-15T01:03:46Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -473,6 +473,7 @@ namespace ESTA {
 			{0x068C, L"Hitmusic SAS"s},
 			{0x068E, L"GUANGZHOU TEANMA STAGE LIGHTING FACTORY"s},
 			{0x068F, L"LEDEC GROUP LIMITED"s},
+			{0x0692, L"TORO SYSTEM"s},
 			{0x0696, L"SHENZHEN HOION LIGHTING CO.,LTD"s},
 			{0x0697, L"Shenzhen LED Innovator Technology Co., Ltd"s},
 			{0x0698, L"Techni-Lux"s},
@@ -703,6 +704,7 @@ namespace ESTA {
 			{0x08A6, L"impulswerk.de"s},
 			{0x08A7, L"GuangZhou Deliya Opto-electronic Tech Co., Ltd"s},
 			{0x08A8, L"Guangzhou Yunpeng Lighting Equipment Co. Ltd."s},
+			{0x08A9, L"Lighten Corp."s},
 			{0x08AA, L"PiXL Factory"s},
 			{0x08AB, L"Qdot Lighting Limited"s},
 			{0x08AC, L"Bushveld Labs"s},
@@ -904,12 +906,14 @@ namespace ESTA {
 			{0x098F, L"Digital Sputnik Lighting"s},
 			{0x0990, L"Stagelight Holding"s},
 			{0x0991, L"Guangdong Pomelo Photoelectric Equipment Co., Ltd"s},
+			{0x0992, L"Guangzhou Fengyi Stage Lighting Equipment Co., Ltd."s},
 			{0x0993, L"Shenzhen Trigger digital Technology Co., LTD"s},
 			{0x0995, L"Rasha Professional"s},
 			{0x0996, L"CCI Power Supplies, LLC"s},
 			{0x0997, L"Star Iluminacao Computadorizada LTDA"s},
 			{0x0999, L"Concept Smoke Systems Ltd."s},
 			{0x099A, L"Aixz International (S)"s},
+			{0x099B, L"Luminoscape Lighting Limited"s},
 			{0x099D, L"Frenexport SPA"s},
 			{0x099E, L"LLC Lighting Technologies production"s},
 			{0x09A0, L"Rnet Lighting Technology Limited"s},
