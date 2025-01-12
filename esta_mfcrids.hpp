@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2024-12-15T01:03:46Z
+ * @date 2025-01-12T01:00:01Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -856,6 +856,7 @@ namespace ESTA {
 			{0x0952, L"Guangzhou Sunway Entertainment Equipment Co., Ltd."s},
 			{0x0953, L"Boumakers Techniek"s},
 			{0x0954, L"Ledtop Visual Ltd."s},
+			{0x0955, L"8lightspace limited"s},
 			{0x0956, L"Expromo Europe A/S"s},
 			{0x0957, L"White Light Ltd"s},
 			{0x0958, L"Illum Technology LLC (previously Verde Designs, Inc.)"s},
