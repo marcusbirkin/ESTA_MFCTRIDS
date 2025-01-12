@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2024-12-15T01:04:37Z",
+  "lastUpdated": "2025-01-12T01:00:50Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4913,6 +4913,12 @@
       "manufacturerID": 2388,
       "organizationName": "",
       "company": "Ledtop Visual Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2389,
+      "organizationName": "",
+      "company": "8lightspace limited",
       "registered": true
     },
     {
