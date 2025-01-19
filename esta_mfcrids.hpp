@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-01-12T01:00:01Z
+ * @date 2025-01-19T00:57:07Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -519,6 +519,7 @@ namespace ESTA {
 			{0x0711, L"Halonix Technologies Pvt Ltd."s},
 			{0x0712, L"Laser Imagineering GmbH"s},
 			{0x0716, L"Artem Ltd."s},
+			{0x0718, L"Eagle Lite"s},
 			{0x071A, L"YHX Visual"s},
 			{0x071F, L"Moss LED Inc"s},
 			{0x0724, L"PHC Lighting & BMS Sp. z o.o."s},
@@ -611,6 +612,7 @@ namespace ESTA {
 			{0x0812, L"Yamagiwa Corporation"s},
 			{0x0813, L"Shenzhen Scenico Optoelectronic Co., Ltd."s},
 			{0x0814, L"squareV"s},
+			{0x0816, L"Benjamin Graf Ton- und Medientechnik"s},
 			{0x081C, L"MR Electronics Ltd."s},
 			{0x081E, L"LOBO Electronic GmbH"s},
 			{0x0822, L"Hangzhou YD Illumination Co., Ltd"s},
