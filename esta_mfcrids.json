@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-01-12T01:00:50Z",
+  "lastUpdated": "2025-01-19T00:58:08Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2894,6 +2894,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1816,
+      "organizationName": "",
+      "company": "Eagle Lite",
+      "registered": true
+    },
+    {
       "manufacturerID": 1818,
       "organizationName": "",
       "company": "YHX Visual",
@@ -3443,6 +3449,12 @@
       "manufacturerID": 2068,
       "organizationName": "",
       "company": "squareV",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2070,
+      "organizationName": "",
+      "company": "Benjamin Graf Ton- und Medientechnik",
       "registered": true
     },
     {
