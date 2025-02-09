@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-01-19T00:57:07Z
+ * @date 2025-02-09T00:57:19Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -640,6 +640,7 @@ namespace ESTA {
 			{0x084F, L"Mantic Lighting Co.,Ltd"s},
 			{0x0850, L"Proland Group, LLC"s},
 			{0x0851, L"Junction Inc. Ltd"s},
+			{0x0853, L"Royal Ballet and Opera"s},
 			{0x0854, L"NEC Display Solutions, Ltd."s},
 			{0x0854, L"Sharp NEC Display Solutions, Ltd."s},
 			{0x0855, L"GODOX Photo Equipment Co., Ltd."s},
