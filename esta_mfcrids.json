@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-01-19T00:58:08Z",
+  "lastUpdated": "2025-02-09T00:57:58Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3617,6 +3617,12 @@
       "manufacturerID": 2129,
       "organizationName": "",
       "company": "Junction Inc. Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2131,
+      "organizationName": "",
+      "company": "Royal Ballet and Opera",
       "registered": true
     },
     {
