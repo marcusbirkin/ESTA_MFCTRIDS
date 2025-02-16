@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-02-09T00:57:58Z",
+  "lastUpdated": "2025-02-16T00:59:30Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1685,6 +1685,12 @@
       "manufacturerID": 753,
       "organizationName": "",
       "company": "Lichtmanufaktur Berlin GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 766,
+      "organizationName": "",
+      "company": "L8 LLC",
       "registered": true
     },
     {
