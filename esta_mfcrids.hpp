@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-02-09T00:57:19Z
+ * @date 2025-02-16T00:58:52Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -318,6 +318,7 @@ namespace ESTA {
 			{0x02EF, L"ABLETECH Co., Ltd."s},
 			{0x02F0, L"iColor LED Shenzhen Co., Ltd."s},
 			{0x02F1, L"Lichtmanufaktur Berlin GmbH"s},
+			{0x02FE, L"L8 LLC"s},
 			{0x02FF, L"Guangzhou Eway Stage Equipment Technology Co., Ltd."s},
 			{0x0302, L"Swefog Technology Group AB"s},
 			{0x0303, L"Shanghai Moons' Automation Control Co., Ltd"s},
