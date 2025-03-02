@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-02-16T00:59:30Z",
+  "lastUpdated": "2025-03-02T01:00:15Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2732,6 +2732,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1736,
+      "organizationName": "",
+      "company": "Dongguan Huiguan Culture Technology Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 1738,
       "organizationName": "",
       "company": "Leding",
@@ -2759,6 +2765,12 @@
       "manufacturerID": 1747,
       "organizationName": "",
       "company": "Boerner Distribution International GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1753,
+      "organizationName": "",
+      "company": "ELECTROCONCEPT SARL",
       "registered": true
     },
     {
@@ -3017,6 +3029,12 @@
       "manufacturerID": 1887,
       "organizationName": "",
       "company": "LEDEngin Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1894,
+      "organizationName": "",
+      "company": "MR-Space LLC",
       "registered": true
     },
     {
@@ -3506,6 +3524,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2094,
+      "organizationName": "",
+      "company": "QubiCast GmbH",
+      "registered": true
+    },
+    {
       "manufacturerID": 2098,
       "organizationName": "",
       "company": "Shenzhen EXC-LED Technology Co.,Ltd",
@@ -3773,6 +3797,12 @@
       "manufacturerID": 2161,
       "organizationName": "",
       "company": "Changsha Maya Special Effects Equipment Co., Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2162,
+      "organizationName": "",
+      "company": "GigaTera Lighting Inc.",
       "registered": true
     },
     {
