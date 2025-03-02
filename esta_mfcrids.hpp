@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-02-16T00:58:52Z
+ * @date 2025-03-02T00:59:29Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -492,11 +492,13 @@ namespace ESTA {
 			{0x06C4, L"RHENAC Systems GmbH"s},
 			{0x06C5, L"ZHIYUN INFORMATION (INTERNATIONAL) TECHNOLOGY CO., LIMITED"s},
 			{0x06C7, L"L&L Luce&Light"s},
+			{0x06C8, L"Dongguan Huiguan Culture Technology Co., Ltd."s},
 			{0x06CA, L"Leding"s},
 			{0x06CE, L"American-Pro International"s},
 			{0x06D1, L"BIRUN ELECTRONIC INDUSTRIAL CO., LTD"s},
 			{0x06D2, L"LIGHTSTAR (BEIJING) ELECTRONIC CORPORATION"s},
 			{0x06D3, L"Boerner Distribution International GmbH"s},
+			{0x06D9, L"ELECTROCONCEPT SARL"s},
 			{0x06DD, L"GRUPPO SIGI SRLS"s},
 			{0x06E0, L"SHENZHEN LONGRUN OPTOELECTRONIC CO., LTD"s},
 			{0x06E1, L"Burck IT GmbH & Co. KG"s},
@@ -540,6 +542,7 @@ namespace ESTA {
 			{0x0753, L"F&V Europe B.V."s},
 			{0x0758, L"IMPOLUX GmbH"s},
 			{0x075F, L"LEDEngin Inc."s},
+			{0x0766, L"MR-Space LLC"s},
 			{0x076A, L"BeamZ  (Tronios B.V.)"s},
 			{0x076E, L"DecoLed, LLC"s},
 			{0x0776, L"lumenetix"s},
@@ -621,6 +624,7 @@ namespace ESTA {
 			{0x0824, L"Almotechnos CO.,LTD."s},
 			{0x0827, L"PIXREAL"s},
 			{0x0829, L"CR-TEC Photoelectric"s},
+			{0x082E, L"QubiCast GmbH"s},
 			{0x0832, L"Shenzhen EXC-LED Technology Co.,Ltd"s},
 			{0x0836, L"Nyvoll Lys"s},
 			{0x0838, L"LaserAV"s},
@@ -666,6 +670,7 @@ namespace ESTA {
 			{0x086F, L"MARTINI RUS LLC"s},
 			{0x0870, L"Hunan YESTECH Optoelectronic Co., Ltd"s},
 			{0x0871, L"Changsha Maya Special Effects Equipment Co., Ltd"s},
+			{0x0872, L"GigaTera Lighting Inc."s},
 			{0x0873, L"Guangzhou BKLite Stage Lighting Equipment Co.,LTD"s},
 			{0x0874, L"Snow Professional Lighting"s},
 			{0x0875, L"ARC Solid-State Lighting Corp."s},
