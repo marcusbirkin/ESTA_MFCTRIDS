@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-03-02T00:59:29Z
+ * @date 2025-03-09T00:49:43Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -402,6 +402,7 @@ namespace ESTA {
 			{0x0536, L"tarm AG"s},
 			{0x0537, L"TERMINAL-COM"s},
 			{0x0540, L"EverBrighten Co., Ltd."s},
+			{0x0550, L"Pyrotechnics Management, Inc. (PMI)"s},
 			{0x0555, L"Maresch Electronics"s},
 			{0x0556, L"RAYSYS"s},
 			{0x055F, L"PRO-SOLUTIONS"s},
@@ -419,6 +420,7 @@ namespace ESTA {
 			{0x05A4, L"IMMOLAS"s},
 			{0x05A8, L"Owl Labs"s},
 			{0x05AB, L"Shenzhen Lesan Lighting Co., Ltd."s},
+			{0x05AC, L"PRstage"s},
 			{0x05B5, L"Turkowski GmbH"s},
 			{0x05BC, L"CantoUSA"s},
 			{0x05C0, L"Vertigo"s},
