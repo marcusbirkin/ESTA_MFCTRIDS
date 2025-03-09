@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-03-02T01:00:15Z",
+  "lastUpdated": "2025-03-09T00:50:25Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2192,6 +2192,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1360,
+      "organizationName": "",
+      "company": "Pyrotechnics Management, Inc. (PMI)",
+      "registered": true
+    },
+    {
       "manufacturerID": 1365,
       "organizationName": "",
       "company": "Maresch Electronics",
@@ -2291,6 +2297,12 @@
       "manufacturerID": 1451,
       "organizationName": "",
       "company": "Shenzhen Lesan Lighting Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1452,
+      "organizationName": "",
+      "company": "PRstage",
       "registered": true
     },
     {
