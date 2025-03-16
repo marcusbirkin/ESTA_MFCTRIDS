@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-03-09T00:49:43Z
+ * @date 2025-03-16T01:01:29Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -406,6 +406,7 @@ namespace ESTA {
 			{0x0555, L"Maresch Electronics"s},
 			{0x0556, L"RAYSYS"s},
 			{0x055F, L"PRO-SOLUTIONS"s},
+			{0x0560, L"VingtQuatreVolts"s},
 			{0x056B, L"COSMOLIGHT SRL"s},
 			{0x056C, L"Lumascape Lighting Industries"s},
 			{0x0573, L"JIAXING XINHUALI LIGHTING & SOUNDING CO., LTD."s},
@@ -550,6 +551,7 @@ namespace ESTA {
 			{0x0776, L"lumenetix"s},
 			{0x077B, L"GENLED Brands"s},
 			{0x0782, L"R9 Lighting"s},
+			{0x0786, L"DMXDesktop"s},
 			{0x078A, L"FATEC sarl"s},
 			{0x078E, L"SHENZHEN BGLOPTO TECHNOLOGY Co., LTD."s},
 			{0x0792, L"MY-Semi Inc."s},
@@ -703,10 +705,12 @@ namespace ESTA {
 			{0x0892, L"DongGuan Ruishen Technology Co.,Ltd"s},
 			{0x0893, L"Brighten LED Lighting Limited"s},
 			{0x0894, L"Dongguan HCP Technology Co., Ltd."s},
+			{0x0895, L"Dolby Laboratories, Inc."s},
 			{0x0896, L"CSD Design and Fabrication"s},
 			{0x0899, L"Shenzhen Huimont Technology Co., Ltd"s},
 			{0x089A, L"ADL Electronics Ltd."s},
 			{0x089D, L"gobo.ws"s},
+			{0x089E, L"Cronic Lighting"s},
 			{0x08A1, L"Shenzhen Gloshine Technology Co., Ltd"s},
 			{0x08A2, L"Guangzhou Gesida Light Equipment Co., Ltd."s},
 			{0x08A3, L"Redot Visual Effect Technologies (Shenzhen) Co., Ltd"s},
@@ -761,6 +765,7 @@ namespace ESTA {
 			{0x08D9, L"STILED"s},
 			{0x08DA, L"PLC Intelligent Technology (Shanghai) Co., Ltd."s},
 			{0x08DD, L"Matthew Tong"s},
+			{0x08DE, L"Delta Electronics (Jiangsu) Ltd."s},
 			{0x08DF, L"DetaiLED Solutions"s},
 			{0x08E0, L"Red Arrow Controls"s},
 			{0x08E1, L"Shenzhen CLT Electronics Co.,LTD"s},
@@ -830,6 +835,7 @@ namespace ESTA {
 			{0x0927, L"Guangzhou Mingying Electronic Technology Co., Ltd."s},
 			{0x0928, L"Chaostreff Backnang e.V."s},
 			{0x0929, L"UPlight stage equipment(GZ) CO., Ltd."s},
+			{0x092A, L"Unitech Digital Media srl"s},
 			{0x092B, L"Guangzhou Lightful Stage Lighting&Sound Equipment Co,.Ltd."s},
 			{0x092C, L"Guangzhou Chaoran Computer Co., Ltd."s},
 			{0x092D, L"LG Electronics"s},
@@ -885,6 +891,7 @@ namespace ESTA {
 			{0x0965, L"Fontana Fountains"s},
 			{0x0967, L"Arcus Licht- und Praesentationstechnik GmbH"s},
 			{0x0968, L"Guangzhou Beyond Lighting Co., Limited."s},
+			{0x0969, L"VCS Vision Control Solutions GmbH"s},
 			{0x096C, L"Guangzhou Nebula Stage Lighting Equipment Co., Ltd"s},
 			{0x096D, L"Guangzhou Xin Yilong Stage Lighting Equipment Co., Limited"s},
 			{0x096E, L"Calvitia Limited"s},
