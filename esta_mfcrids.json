@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-03-09T00:50:25Z",
+  "lastUpdated": "2025-03-16T01:02:14Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2216,6 +2216,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1376,
+      "organizationName": "",
+      "company": "VingtQuatreVolts",
+      "registered": true
+    },
+    {
       "manufacturerID": 1387,
       "organizationName": "",
       "company": "COSMOLIGHT SRL",
@@ -3077,6 +3083,12 @@
       "manufacturerID": 1922,
       "organizationName": "",
       "company": "R9 Lighting",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1926,
+      "organizationName": "",
+      "company": "DMXDesktop",
       "registered": true
     },
     {
@@ -3998,6 +4010,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2197,
+      "organizationName": "",
+      "company": "Dolby Laboratories, Inc.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2198,
       "organizationName": "",
       "company": "CSD Design and Fabrication",
@@ -4019,6 +4037,12 @@
       "manufacturerID": 2205,
       "organizationName": "",
       "company": "gobo.ws",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2206,
+      "organizationName": "",
+      "company": "Cronic Lighting",
       "registered": true
     },
     {
@@ -4343,6 +4367,12 @@
       "manufacturerID": 2269,
       "organizationName": "",
       "company": "Matthew Tong",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2270,
+      "organizationName": "",
+      "company": "Delta Electronics (Jiangsu) Ltd.",
       "registered": true
     },
     {
@@ -4760,6 +4790,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2346,
+      "organizationName": "",
+      "company": "Unitech Digital Media srl",
+      "registered": true
+    },
+    {
       "manufacturerID": 2347,
       "organizationName": "",
       "company": "Guangzhou Lightful Stage Lighting&Sound Equipment Co,.Ltd.",
@@ -5087,6 +5123,12 @@
       "manufacturerID": 2408,
       "organizationName": "",
       "company": "Guangzhou Beyond Lighting Co., Limited.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2409,
+      "organizationName": "",
+      "company": "VCS Vision Control Solutions GmbH",
       "registered": true
     },
     {
