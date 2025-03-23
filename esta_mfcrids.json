@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-03-16T01:02:14Z",
+  "lastUpdated": "2025-03-23T01:02:43Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3134,6 +3134,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1956,
+      "organizationName": "",
+      "company": "Shenzhen DEFG Co., Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 1957,
       "organizationName": "",
       "company": "X LED Systems",
@@ -3281,6 +3287,12 @@
       "manufacturerID": 2012,
       "organizationName": "",
       "company": "EVLight (Guangzhou) Co.,Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2018,
+      "organizationName": "",
+      "company": "Lumi-Tru LTD",
       "registered": true
     },
     {
@@ -5339,6 +5351,12 @@
       "manufacturerID": 2451,
       "organizationName": "",
       "company": "Shenzhen Trigger digital Technology Co., LTD",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2452,
+      "organizationName": "",
+      "company": "Shenoy Studio Lighting Systems",
       "registered": true
     },
     {
