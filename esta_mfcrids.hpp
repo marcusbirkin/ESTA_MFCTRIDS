@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-03-16T01:01:29Z
+ * @date 2025-03-23T01:02:01Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -559,6 +559,7 @@ namespace ESTA {
 			{0x079B, L"Pro Church Lights"s},
 			{0x079F, L"VPS Group, LLC"s},
 			{0x07A3, L"Guangzhou GBR PROLIGHT GROUP CO.,LTD (GBR PROLIGHT)"s},
+			{0x07A4, L"Shenzhen DEFG Co., Ltd"s},
 			{0x07A5, L"X LED Systems"s},
 			{0x07AD, L"CLS LED BV"s},
 			{0x07AE, L"A-LITE B.V."s},
@@ -584,6 +585,7 @@ namespace ESTA {
 			{0x07D6, L"Lite Puter Enterprise Co., Ltd."s},
 			{0x07DA, L"Flytech s.r.l."s},
 			{0x07DC, L"EVLight (Guangzhou) Co.,Ltd."s},
+			{0x07E2, L"Lumi-Tru LTD"s},
 			{0x07E8, L"ROCKETSIGN Technology HK Ltd"s},
 			{0x07E9, L"TechLink Co., Ltd."s},
 			{0x07EA, L"Le Maitre Ltd"s},
@@ -927,6 +929,7 @@ namespace ESTA {
 			{0x0991, L"Guangdong Pomelo Photoelectric Equipment Co., Ltd"s},
 			{0x0992, L"Guangzhou Fengyi Stage Lighting Equipment Co., Ltd."s},
 			{0x0993, L"Shenzhen Trigger digital Technology Co., LTD"s},
+			{0x0994, L"Shenoy Studio Lighting Systems"s},
 			{0x0995, L"Rasha Professional"s},
 			{0x0996, L"CCI Power Supplies, LLC"s},
 			{0x0997, L"Star Iluminacao Computadorizada LTDA"s},
