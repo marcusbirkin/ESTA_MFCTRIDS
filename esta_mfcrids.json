@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-03-23T01:02:43Z",
+  "lastUpdated": "2025-03-30T01:03:39Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -5663,6 +5663,12 @@
       "manufacturerID": 2526,
       "organizationName": "",
       "company": "Matthias Bauch Software",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2531,
+      "organizationName": "",
+      "company": "Powerland Technology Inc.",
       "registered": true
     },
     {
