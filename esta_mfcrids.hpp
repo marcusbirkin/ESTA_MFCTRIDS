@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-03-23T01:02:01Z
+ * @date 2025-03-30T01:03:03Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -981,6 +981,7 @@ namespace ESTA {
 			{0x09DC, L"Froggys Fog"s},
 			{0x09DD, L"Planet Innovation Products Inc"s},
 			{0x09DE, L"Matthias Bauch Software"s},
+			{0x09E3, L"Powerland Technology Inc."s},
 			{0x09E9, L"Starway"s},
 			{0x09EE, L"Suzhou Pinzong Electronic Technology, CO.,Ltd"s},
 			{0x09EF, L"Andrea Croce"s},
