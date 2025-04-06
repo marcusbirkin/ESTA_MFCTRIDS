@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-03-30T01:03:03Z
+ * @date 2025-04-06T01:02:32Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -871,6 +871,7 @@ namespace ESTA {
 			{0x094C, L"Shenzhen Xiezhen Electronics Co., Ltd."s},
 			{0x094D, L"Quantum Theory"s},
 			{0x094E, L"Myostat Motion Control"s},
+			{0x0950, L"Pure Effects"s},
 			{0x0951, L"Guangzhou GTD Lighting Technology Co., Ltd"s},
 			{0x0952, L"Guangzhou Sunway Entertainment Equipment Co., Ltd."s},
 			{0x0953, L"Boumakers Techniek"s},
@@ -1233,6 +1234,7 @@ namespace ESTA {
 			{0x4145, L"ADE ELETTRONICA srl"s},
 			{0x4146, L"AUS FX"s},
 			{0x4149, L"Anidea Engineering, Inc."s},
+			{0x414A, L"Guangzhou Aiminte Technology Co., Ltd."s},
 			{0x414C, L"Artistic Licence Engineering Ltd."s},
 			{0x414D, L"Amptown Lichttechnik GmbH"s},
 			{0x414E, L"Anytronics Ltd."s},
@@ -1488,6 +1490,7 @@ namespace ESTA {
 			{0x5454, L"TamaTech Labo Company Ltd,"s},
 			{0x5459, L"TDE-Lighttech B.V."s},
 			{0x5550, L"UP-LUX Eletronica Ltda."s},
+			{0x5553, L"StageLAB Projectors and Professional Lighting Ltd."s},
 			{0x5555, L"Martin Sukale Medientechnik GbR"s},
 			{0x55AA, L"Emilum GmbH"s},
 			{0x564C, L"Vari-Lite, Inc."s},
