@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-03-30T01:03:39Z",
+  "lastUpdated": "2025-04-06T01:03:05Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -5006,6 +5006,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2384,
+      "organizationName": "",
+      "company": "Pure Effects",
+      "registered": true
+    },
+    {
       "manufacturerID": 2385,
       "organizationName": "",
       "company": "Guangzhou GTD Lighting Technology Co., Ltd",
@@ -7178,6 +7184,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 16714,
+      "organizationName": "",
+      "company": "Guangzhou Aiminte Technology Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 16716,
       "organizationName": "",
       "company": "Artistic Licence Engineering Ltd.",
@@ -8705,6 +8717,12 @@
       "manufacturerID": 21840,
       "organizationName": "",
       "company": "UP-LUX Eletronica Ltda.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 21843,
+      "organizationName": "",
+      "company": "StageLAB Projectors and Professional Lighting Ltd.",
       "registered": true
     },
     {
