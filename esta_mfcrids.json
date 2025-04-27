@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-04-06T01:03:05Z",
+  "lastUpdated": "2025-04-27T01:05:14Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2882,6 +2882,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1802,
+      "organizationName": "",
+      "company": "NXT Lights",
+      "registered": true
+    },
+    {
       "manufacturerID": 1804,
       "organizationName": "",
       "company": "Pixout SIA",
@@ -3314,6 +3320,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2028,
+      "organizationName": "",
+      "company": "Image Show LLC",
+      "registered": true
+    },
+    {
       "manufacturerID": 2031,
       "organizationName": "",
       "company": "Guangzhou V-Show Pro Lighting Co., Ltd.",
@@ -3701,6 +3713,12 @@
       "manufacturerID": 2132,
       "organizationName": "",
       "company": "Sharp NEC Display Solutions, Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2132,
+      "organizationName": "",
+      "company": "Sharp Corporation",
       "registered": true
     },
     {
