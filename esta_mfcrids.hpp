@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-04-06T01:02:32Z
+ * @date 2025-04-27T01:04:31Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -517,6 +517,7 @@ namespace ESTA {
 			{0x0706, L"LINEAR TECHNOLOGIE"s},
 			{0x0707, L"Conceptinetics Technologies and Consultancy Ltd."s},
 			{0x0708, L"AK-LIGHT"s},
+			{0x070A, L"NXT Lights"s},
 			{0x070C, L"Pixout SIA"s},
 			{0x070D, L"Lumenwerx ULC"s},
 			{0x070E, L"PragmaLab"s},
@@ -589,6 +590,7 @@ namespace ESTA {
 			{0x07E8, L"ROCKETSIGN Technology HK Ltd"s},
 			{0x07E9, L"TechLink Co., Ltd."s},
 			{0x07EA, L"Le Maitre Ltd"s},
+			{0x07EC, L"Image Show LLC"s},
 			{0x07EF, L"Guangzhou V-Show Pro Lighting Co., Ltd."s},
 			{0x07F0, L"Lifud Technology Co., Ltd"s},
 			{0x07F2, L"CB Electronics"s},
@@ -654,6 +656,7 @@ namespace ESTA {
 			{0x0853, L"Royal Ballet and Opera"s},
 			{0x0854, L"NEC Display Solutions, Ltd."s},
 			{0x0854, L"Sharp NEC Display Solutions, Ltd."s},
+			{0x0854, L"Sharp Corporation"s},
 			{0x0855, L"GODOX Photo Equipment Co., Ltd."s},
 			{0x0856, L"Ctrl Element ehf"s},
 			{0x0858, L"Juno Lighting Group"s},
