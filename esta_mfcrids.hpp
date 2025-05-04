@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-04-27T01:04:31Z
+ * @date 2025-05-04T01:07:26Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -617,6 +617,7 @@ namespace ESTA {
 			{0x0808, L"Cooper Lighting - Zero 88"s},
 			{0x0809, L"mumoco GmbH"s},
 			{0x080A, L"Shenzhen FantaLED Electronics Co., Ltd"s},
+			{0x080B, L"BANDINAMU CO., LTD."s},
 			{0x080D, L"HBJ Elektronik"s},
 			{0x080F, L"NavoLabs"s},
 			{0x0810, L"BDS Studios"s},
