@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-04-27T01:05:14Z",
+  "lastUpdated": "2025-05-04T01:08:18Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3479,6 +3479,12 @@
       "manufacturerID": 2058,
       "organizationName": "",
       "company": "Shenzhen FantaLED Electronics Co., Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2059,
+      "organizationName": "",
+      "company": "BANDINAMU CO., LTD.",
       "registered": true
     },
     {
