@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-05-04T01:07:26Z
+ * @date 2025-05-11T01:06:12Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -643,6 +643,7 @@ namespace ESTA {
 			{0x083F, L"Shenzhen LeiFei Lighting Technologies Co.,Ltd."s},
 			{0x0840, L"Shenzhen Zwich Science and Technology Co.Ltd."s},
 			{0x0841, L"Guangzhou ICON Lighting Co.,Ltd"s},
+			{0x0842, L"Hunix Co., Ltd."s},
 			{0x0843, L"BHL Lichttechniek"s},
 			{0x0845, L"Cush Light LLC"s},
 			{0x0846, L"LDR - Luci della Ribalta Srl"s},
@@ -899,6 +900,7 @@ namespace ESTA {
 			{0x0967, L"Arcus Licht- und Praesentationstechnik GmbH"s},
 			{0x0968, L"Guangzhou Beyond Lighting Co., Limited."s},
 			{0x0969, L"VCS Vision Control Solutions GmbH"s},
+			{0x096A, L"Primeview Global"s},
 			{0x096C, L"Guangzhou Nebula Stage Lighting Equipment Co., Ltd"s},
 			{0x096D, L"Guangzhou Xin Yilong Stage Lighting Equipment Co., Limited"s},
 			{0x096E, L"Calvitia Limited"s},
