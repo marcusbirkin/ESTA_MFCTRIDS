@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-05-04T01:08:18Z",
+  "lastUpdated": "2025-05-11T01:06:50Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3638,6 +3638,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2114,
+      "organizationName": "",
+      "company": "Hunix Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2115,
       "organizationName": "",
       "company": "BHL Lichttechniek",
@@ -5171,6 +5177,12 @@
       "manufacturerID": 2409,
       "organizationName": "",
       "company": "VCS Vision Control Solutions GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2410,
+      "organizationName": "",
+      "company": "Primeview Global",
       "registered": true
     },
     {
