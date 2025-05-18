@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-05-11T01:06:50Z",
+  "lastUpdated": "2025-05-18T01:07:45Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1784,6 +1784,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 882,
+      "organizationName": "",
+      "company": "INACKS",
+      "registered": true
+    },
+    {
       "manufacturerID": 888,
       "organizationName": "",
       "company": "KASUGA",
@@ -2861,6 +2867,12 @@
       "manufacturerID": 1794,
       "organizationName": "",
       "company": "Drinelec",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1796,
+      "organizationName": "",
+      "company": "Lightdiction",
       "registered": true
     },
     {
@@ -4760,6 +4772,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2332,
+      "organizationName": "",
+      "company": "Wipro Enterprises Private Limited.",
+      "registered": false
+    },
+    {
       "manufacturerID": 2333,
       "organizationName": "",
       "company": "TouchPlate Technologies Inc.",
@@ -5327,6 +5345,12 @@
       "manufacturerID": 2439,
       "organizationName": "",
       "company": "mathertel.de",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2440,
+      "organizationName": "",
+      "company": "Wahlberg Motion Design",
       "registered": true
     },
     {
@@ -6065,6 +6089,12 @@
       "manufacturerID": 5674,
       "organizationName": "",
       "company": "Nerd's Meter",
+      "registered": true
+    },
+    {
+      "manufacturerID": 5768,
+      "organizationName": "",
+      "company": "Exteria",
       "registered": true
     },
     {
