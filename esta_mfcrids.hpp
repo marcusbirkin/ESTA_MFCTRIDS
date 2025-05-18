@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-05-11T01:06:12Z
+ * @date 2025-05-18T01:07:10Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -334,6 +334,7 @@ namespace ESTA {
 			{0x032C, L"Carallon Ltd."s},
 			{0x033A, L"Lux Lumen"s},
 			{0x034B, L"Rosstech Signals Inc."s},
+			{0x0372, L"INACKS"s},
 			{0x0378, L"KASUGA"s},
 			{0x038F, L"Strich Labs"s},
 			{0x0391, L"Alcorn McBride Inc."s},
@@ -514,6 +515,7 @@ namespace ESTA {
 			{0x06F8, L"CHONGQING XINYUANHUI OPTOELECTRONIC TECHNOLOGY CO.,LTD"s},
 			{0x0700, L"OXYGEN SMD Ltd"s},
 			{0x0702, L"Drinelec"s},
+			{0x0704, L"Lightdiction"s},
 			{0x0706, L"LINEAR TECHNOLOGIE"s},
 			{0x0707, L"Conceptinetics Technologies and Consultancy Ltd."s},
 			{0x0708, L"AK-LIGHT"s},
@@ -830,6 +832,7 @@ namespace ESTA {
 			{0x0919, L"Foshan Leiyuan Photoelectric Co., LTD"s},
 			{0x091A, L"Celex LED Technology Ltd."s},
 			{0x091B, L"Krislite Pte. Ltd."s},
+			{0x091C, L"Wipro Enterprises Private Limited."s},
 			{0x091D, L"TouchPlate Technologies Inc."s},
 			{0x091E, L"Vanilla Internet Ltd"s},
 			{0x091F, L"Yaham Recience Technology Co,. ltd."s},
@@ -925,6 +928,7 @@ namespace ESTA {
 			{0x0984, L"Laserworld AG"s},
 			{0x0986, L"ROE Visual Co. Ltd."s},
 			{0x0987, L"mathertel.de"s},
+			{0x0988, L"Wahlberg Motion Design"s},
 			{0x0989, L"YeGrin Liteworks"s},
 			{0x098A, L"DongGuan JuYang Electric Co., Ltd"s},
 			{0x098B, L"Glow Motion Technologies, LLC."s},
@@ -1048,6 +1052,7 @@ namespace ESTA {
 			{0x1626, L"LEDsistem Teknolojileri Tic. Ltd. Sti."s},
 			{0x1627, L"Dynamic Visual Solutions LLC"s},
 			{0x162A, L"Nerd's Meter"s},
+			{0x1688, L"Exteria"s},
 			{0x1690, L"awaptec GmbH"s},
 			{0x16A0, L"Audio Effetti Srl"s},
 			{0x16AE, L"Electrone Americas Ltd. Co."s},
