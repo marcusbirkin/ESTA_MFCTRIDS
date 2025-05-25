@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-05-18T01:07:45Z",
+  "lastUpdated": "2025-05-25T01:09:51Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4463,6 +4463,12 @@
       "manufacturerID": 2276,
       "organizationName": "",
       "company": "LMP Lichttechnik Vertriebsgesellschaft GmbH & Co KG",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2277,
+      "organizationName": "",
+      "company": "Digital Review",
       "registered": true
     },
     {
