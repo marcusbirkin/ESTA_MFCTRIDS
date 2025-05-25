@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-05-18T01:07:10Z
+ * @date 2025-05-25T01:08:46Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -781,6 +781,7 @@ namespace ESTA {
 			{0x08E2, L"Particle Studio Ltd."s},
 			{0x08E3, L"Guangzhou JinZhiHui Electronic Technology Co.,Ltd."s},
 			{0x08E4, L"LMP Lichttechnik Vertriebsgesellschaft GmbH & Co KG"s},
+			{0x08E5, L"Digital Review"s},
 			{0x08E6, L"Shenzhen VisionMax Technology Co., Ltd"s},
 			{0x08E7, L"3A Guangzhou Electronics Co., Ltd"s},
 			{0x08E8, L"North Engineering"s},
