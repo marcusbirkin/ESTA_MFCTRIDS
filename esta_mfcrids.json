@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-05-25T01:09:51Z",
+  "lastUpdated": "2025-06-01T01:16:18Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3590,6 +3590,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2091,
+      "organizationName": "",
+      "company": "Changsha ZMIOT Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2094,
       "organizationName": "",
       "company": "QubiCast GmbH",
@@ -5513,6 +5519,12 @@
       "manufacturerID": 2469,
       "organizationName": "",
       "company": "Prolight Concepts Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2470,
+      "organizationName": "",
+      "company": "TourPro Lighting Company",
       "registered": true
     },
     {
