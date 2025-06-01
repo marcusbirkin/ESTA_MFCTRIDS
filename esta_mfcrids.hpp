@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-05-25T01:08:46Z
+ * @date 2025-06-01T01:15:47Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -635,6 +635,7 @@ namespace ESTA {
 			{0x0824, L"Almotechnos CO.,LTD."s},
 			{0x0827, L"PIXREAL"s},
 			{0x0829, L"CR-TEC Photoelectric"s},
+			{0x082B, L"Changsha ZMIOT Co., Ltd."s},
 			{0x082E, L"QubiCast GmbH"s},
 			{0x0832, L"Shenzhen EXC-LED Technology Co.,Ltd"s},
 			{0x0836, L"Nyvoll Lys"s},
@@ -956,6 +957,7 @@ namespace ESTA {
 			{0x09A3, L"Shenzhen Lightlink Display Technology Co., Ltd"s},
 			{0x09A4, L"Brighter Lighting Sp. z.o.o."s},
 			{0x09A5, L"Prolight Concepts Ltd."s},
+			{0x09A6, L"TourPro Lighting Company"s},
 			{0x09AA, L"Rushstage Show Lighting Limited"s},
 			{0x09AD, L"Dongguan Ensure Electronic Technology Co., LTD"s},
 			{0x09AE, L"Robert Juliat"s},
