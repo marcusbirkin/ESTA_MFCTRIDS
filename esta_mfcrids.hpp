@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-06-01T01:15:47Z
+ * @date 2025-06-08T01:09:48Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -589,6 +589,7 @@ namespace ESTA {
 			{0x07DA, L"Flytech s.r.l."s},
 			{0x07DC, L"EVLight (Guangzhou) Co.,Ltd."s},
 			{0x07E2, L"Lumi-Tru LTD"s},
+			{0x07E3, L"Lichtlogistik LED Support GmbH"s},
 			{0x07E8, L"ROCKETSIGN Technology HK Ltd"s},
 			{0x07E9, L"TechLink Co., Ltd."s},
 			{0x07EA, L"Le Maitre Ltd"s},
@@ -951,6 +952,7 @@ namespace ESTA {
 			{0x099B, L"Luminoscape Lighting Limited"s},
 			{0x099D, L"Frenexport SPA"s},
 			{0x099E, L"LLC Lighting Technologies production"s},
+			{0x099F, L"Osten Lighting"s},
 			{0x09A0, L"Rnet Lighting Technology Limited"s},
 			{0x09A1, L"Veranstaltungstechnik König"s},
 			{0x09A2, L"Fountain People"s},
