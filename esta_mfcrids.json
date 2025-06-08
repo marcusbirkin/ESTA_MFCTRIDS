@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-06-01T01:16:18Z",
+  "lastUpdated": "2025-06-08T01:10:17Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3314,6 +3314,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2019,
+      "organizationName": "",
+      "company": "Lichtlogistik LED Support GmbH",
+      "registered": true
+    },
+    {
       "manufacturerID": 2024,
       "organizationName": "",
       "company": "ROCKETSIGN Technology HK Ltd",
@@ -5483,6 +5489,12 @@
       "manufacturerID": 2462,
       "organizationName": "",
       "company": "LLC Lighting Technologies production",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2463,
+      "organizationName": "",
+      "company": "Osten Lighting",
       "registered": true
     },
     {
