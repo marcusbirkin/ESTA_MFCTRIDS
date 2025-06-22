@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-06-08T01:09:48Z
+ * @date 2025-06-22T01:10:43Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -554,6 +554,7 @@ namespace ESTA {
 			{0x0776, L"lumenetix"s},
 			{0x077B, L"GENLED Brands"s},
 			{0x0782, L"R9 Lighting"s},
+			{0x0784, L"PIXL Lighting Inc."s},
 			{0x0786, L"DMXDesktop"s},
 			{0x078A, L"FATEC sarl"s},
 			{0x078E, L"SHENZHEN BGLOPTO TECHNOLOGY Co., LTD."s},
@@ -960,6 +961,7 @@ namespace ESTA {
 			{0x09A4, L"Brighter Lighting Sp. z.o.o."s},
 			{0x09A5, L"Prolight Concepts Ltd."s},
 			{0x09A6, L"TourPro Lighting Company"s},
+			{0x09A7, L"Foshan Xinzhijie Optoelectronics Co., Ltd."s},
 			{0x09AA, L"Rushstage Show Lighting Limited"s},
 			{0x09AD, L"Dongguan Ensure Electronic Technology Co., LTD"s},
 			{0x09AE, L"Robert Juliat"s},
