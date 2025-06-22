@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-06-08T01:10:17Z",
+  "lastUpdated": "2025-06-22T01:11:14Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3104,6 +3104,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1924,
+      "organizationName": "",
+      "company": "PIXL Lighting Inc.",
+      "registered": true
+    },
+    {
       "manufacturerID": 1926,
       "organizationName": "",
       "company": "DMXDesktop",
@@ -5537,6 +5543,12 @@
       "manufacturerID": 2470,
       "organizationName": "",
       "company": "TourPro Lighting Company",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2471,
+      "organizationName": "",
+      "company": "Foshan Xinzhijie Optoelectronics Co., Ltd.",
       "registered": true
     },
     {
