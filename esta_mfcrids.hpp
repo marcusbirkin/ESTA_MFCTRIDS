@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-06-22T01:10:43Z
+ * @date 2025-06-29T01:12:25Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -444,6 +444,7 @@ namespace ESTA {
 			{0x060A, L"Kindwin Opto Electronic (ShenZhen) Co. Ltd"s},
 			{0x060B, L"Lighting Science Group (formerly LED Effects, Inc.)"s},
 			{0x060D, L"HANIL TNC  CO.,LTD"s},
+			{0x0614, L"Master FX"s},
 			{0x061C, L"LEDRAYS INC"s},
 			{0x0622, L"Lupo SRL"s},
 			{0x0623, L"JAS LIGHTING & SOUND CO., LTD."s},
