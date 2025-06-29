@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-06-22T01:11:14Z",
+  "lastUpdated": "2025-06-29T01:12:54Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2441,6 +2441,12 @@
       "manufacturerID": 1549,
       "organizationName": "",
       "company": "HANIL TNC  CO.,LTD",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1556,
+      "organizationName": "",
+      "company": "Master FX",
       "registered": true
     },
     {
