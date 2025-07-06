@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-06-29T01:12:54Z",
+  "lastUpdated": "2025-07-06T01:11:57Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -5705,6 +5705,12 @@
       "manufacturerID": 2508,
       "organizationName": "",
       "company": "Motomuto Aps",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2511,
+      "organizationName": "",
+      "company": "Guangzhou Wincode Optronics Co., Limited",
       "registered": true
     },
     {
