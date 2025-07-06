@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-06-29T01:12:25Z
+ * @date 2025-07-06T01:11:20Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -988,6 +988,7 @@ namespace ESTA {
 			{0x09C7, L"ShoCobra"s},
 			{0x09C8, L"Crystal Fountains Inc."s},
 			{0x09CC, L"Motomuto Aps"s},
+			{0x09CF, L"Guangzhou Wincode Optronics Co., Limited"s},
 			{0x09D0, L"Luminar Enterprises"s},
 			{0x09D1, L"Environmental Lights"s},
 			{0x09D2, L"Shenzhen Siwelo Technology Co., LTD"s},
