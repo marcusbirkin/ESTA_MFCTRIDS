@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-07-06T01:11:20Z
+ * @date 2025-07-13T01:13:44Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -566,6 +566,7 @@ namespace ESTA {
 			{0x07A3, L"Guangzhou GBR PROLIGHT GROUP CO.,LTD (GBR PROLIGHT)"s},
 			{0x07A4, L"Shenzhen DEFG Co., Ltd"s},
 			{0x07A5, L"X LED Systems"s},
+			{0x07A9, L"Tridonic GmbH & Co KG"s},
 			{0x07AD, L"CLS LED BV"s},
 			{0x07AE, L"A-LITE B.V."s},
 			{0x07B0, L"ADDiCTiON BoX GbR"s},
@@ -1590,6 +1591,7 @@ namespace ESTA {
 			{0x686C, L"HERA LED"s},
 			{0x694C, L"iLight Technologies Inc"s},
 			{0x6969, L"Better Way Lighting"s},
+			{0x6972, L"Immersion Room Inc."s},
 			{0x6974, L"Ittermann electronic GmbH"s},
 			{0x6A6A, L"Roxx GmbH"s},
 			{0x6A6B, L"JPK Systems Limited"s},
@@ -1653,6 +1655,7 @@ namespace ESTA {
 			{0x7DEA, L"RobLight A/S"s},
 			{0x7DEB, L"Krypton"s},
 			{0x7DEE, L"zencontrol Pty Ltd"s},
+			{0x7EE6, L"ADPower Technology (WuXI) Inc."s},
 			{0x7EE7, L"Arthur Digital Solutions Kft"s},
 			{0x7EE8, L"Guangzhou Yingfeng Lighting Equipment Co., Ltd."s},
 			{0x7EE9, L"Technology Kitchen"s},
