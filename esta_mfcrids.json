@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-07-06T01:11:57Z",
+  "lastUpdated": "2025-07-13T01:14:13Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3173,6 +3173,12 @@
       "manufacturerID": 1957,
       "organizationName": "",
       "company": "X LED Systems",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1961,
+      "organizationName": "",
+      "company": "Tridonic GmbH & Co KG",
       "registered": true
     },
     {
@@ -9320,6 +9326,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 26994,
+      "organizationName": "",
+      "company": "Immersion Room Inc.",
+      "registered": true
+    },
+    {
       "manufacturerID": 26996,
       "organizationName": "",
       "company": "Ittermann electronic GmbH",
@@ -9695,6 +9707,12 @@
       "manufacturerID": 32238,
       "organizationName": "",
       "company": "zencontrol Pty Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 32486,
+      "organizationName": "",
+      "company": "ADPower Technology (WuXI) Inc.",
       "registered": true
     },
     {
