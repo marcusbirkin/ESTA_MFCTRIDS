@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-07-13T01:13:44Z
+ * @date 2025-07-20T01:15:20Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -590,6 +590,7 @@ namespace ESTA {
 			{0x07D5, L"PHIDA Stage Equipment Co., Ltd"s},
 			{0x07D6, L"Lite Puter Enterprise Co., Ltd."s},
 			{0x07DA, L"Flytech s.r.l."s},
+			{0x07DB, L"Foshan Yihe Technology Co., Ltd"s},
 			{0x07DC, L"EVLight (Guangzhou) Co.,Ltd."s},
 			{0x07E2, L"Lumi-Tru LTD"s},
 			{0x07E3, L"Lichtlogistik LED Support GmbH"s},
@@ -778,6 +779,7 @@ namespace ESTA {
 			{0x08D8, L"W.A. Benjamin Electric Co."s},
 			{0x08D9, L"STILED"s},
 			{0x08DA, L"PLC Intelligent Technology (Shanghai) Co., Ltd."s},
+			{0x08DB, L"Shenzhen iDisplay Technology Co.,Ltd"s},
 			{0x08DD, L"Matthew Tong"s},
 			{0x08DE, L"Delta Electronics (Jiangsu) Ltd."s},
 			{0x08DF, L"DetaiLED Solutions"s},
