@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-07-13T01:14:13Z",
+  "lastUpdated": "2025-07-20T01:15:53Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3320,6 +3320,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2011,
+      "organizationName": "",
+      "company": "Foshan Yihe Technology Co., Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2012,
       "organizationName": "",
       "company": "EVLight (Guangzhou) Co.,Ltd.",
@@ -4445,6 +4451,12 @@
       "manufacturerID": 2266,
       "organizationName": "",
       "company": "PLC Intelligent Technology (Shanghai) Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2267,
+      "organizationName": "",
+      "company": "Shenzhen iDisplay Technology Co.,Ltd",
       "registered": true
     },
     {
