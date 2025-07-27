@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-07-20T01:15:53Z",
+  "lastUpdated": "2025-07-27T01:16:19Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2543,6 +2543,12 @@
       "manufacturerID": 1620,
       "organizationName": "",
       "company": "HUNAN XIANG CAIXU FILM AND TELEVISION CULTURE CO.LTD",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1622,
+      "organizationName": "",
+      "company": "WELEDIT, LDA",
       "registered": true
     },
     {
