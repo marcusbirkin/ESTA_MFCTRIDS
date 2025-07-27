@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-07-20T01:15:20Z
+ * @date 2025-07-27T01:15:42Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -461,6 +461,7 @@ namespace ESTA {
 			{0x0650, L"RDC, Inc. d.b.a. LynTec"s},
 			{0x0653, L"USAI, LLC"s},
 			{0x0654, L"HUNAN XIANG CAIXU FILM AND TELEVISION CULTURE CO.LTD"s},
+			{0x0656, L"WELEDIT, LDA"s},
 			{0x0658, L"AZCOLOR LITE CO., LIMITED"s},
 			{0x065E, L"OFilms"s},
 			{0x0660, L"QSTECH CO.,LTD"s},
