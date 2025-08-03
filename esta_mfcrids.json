@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-07-27T01:16:19Z",
+  "lastUpdated": "2025-08-03T01:17:10Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2846,6 +2846,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1768,
+      "organizationName": "",
+      "company": "Vivalyte BV",
+      "registered": true
+    },
+    {
       "manufacturerID": 1772,
       "organizationName": "",
       "company": "SISTEMA Jsc",
@@ -3077,6 +3083,12 @@
       "manufacturerID": 1887,
       "organizationName": "",
       "company": "LEDEngin Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1892,
+      "organizationName": "",
+      "company": "Inteca GmbH",
       "registered": true
     },
     {
@@ -4400,6 +4412,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2255,
+      "organizationName": "",
+      "company": "Nanjing Lopu Co., Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2256,
       "organizationName": "",
       "company": "Image Engineering",
@@ -4463,6 +4481,12 @@
       "manufacturerID": 2267,
       "organizationName": "",
       "company": "Shenzhen iDisplay Technology Co.,Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2268,
+      "organizationName": "",
+      "company": "Splenditech Asia Pacific Limited",
       "registered": true
     },
     {
