@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-07-27T01:15:42Z
+ * @date 2025-08-03T01:16:45Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -511,6 +511,7 @@ namespace ESTA {
 			{0x06E2, L"ScreenCo"s},
 			{0x06E4, L"Dydell B.V."s},
 			{0x06E6, L"Equipson S.A."s},
+			{0x06E8, L"Vivalyte BV"s},
 			{0x06EC, L"SISTEMA Jsc"s},
 			{0x06F0, L"CTG sp. z o.o."s},
 			{0x06F1, L"Aqualux Lighting"s},
@@ -550,6 +551,7 @@ namespace ESTA {
 			{0x0753, L"F&V Europe B.V."s},
 			{0x0758, L"IMPOLUX GmbH"s},
 			{0x075F, L"LEDEngin Inc."s},
+			{0x0764, L"Inteca GmbH"s},
 			{0x0766, L"MR-Space LLC"s},
 			{0x076A, L"BeamZ  (Tronios B.V.)"s},
 			{0x076E, L"DecoLed, LLC"s},
@@ -770,6 +772,7 @@ namespace ESTA {
 			{0x08CB, L"Practical LEDs.com"s},
 			{0x08CC, L"Guangzhou Santu Stage Lighting Equipment Co.Ltd"s},
 			{0x08CE, L"Zhejiang DGX Electronic Technology Co.,Ltd"s},
+			{0x08CF, L"Nanjing Lopu Co., Ltd"s},
 			{0x08D0, L"Image Engineering"s},
 			{0x08D1, L"Shenzhen Leqi Network Technology Co., Ltd."s},
 			{0x08D3, L"SVI Public Company Limited"s},
@@ -781,6 +784,7 @@ namespace ESTA {
 			{0x08D9, L"STILED"s},
 			{0x08DA, L"PLC Intelligent Technology (Shanghai) Co., Ltd."s},
 			{0x08DB, L"Shenzhen iDisplay Technology Co.,Ltd"s},
+			{0x08DC, L"Splenditech Asia Pacific Limited"s},
 			{0x08DD, L"Matthew Tong"s},
 			{0x08DE, L"Delta Electronics (Jiangsu) Ltd."s},
 			{0x08DF, L"DetaiLED Solutions"s},
