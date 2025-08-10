@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-08-03T01:17:10Z",
+  "lastUpdated": "2025-08-10T01:15:48Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1442,6 +1442,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 568,
+      "organizationName": "",
+      "company": "Jem Manufacturing Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 578,
       "organizationName": "",
       "company": "ABLELITE INTERNATIONAL",
@@ -1958,6 +1964,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1078,
+      "organizationName": "",
+      "company": "CHRONIX",
+      "registered": true
+    },
+    {
       "manufacturerID": 1084,
       "organizationName": "",
       "company": "Volux Lighting",
@@ -2081,6 +2093,12 @@
       "manufacturerID": 1230,
       "organizationName": "",
       "company": "Quisda",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1232,
+      "organizationName": "",
+      "company": "DMXCube",
       "registered": true
     },
     {
@@ -3053,6 +3071,12 @@
       "manufacturerID": 1861,
       "organizationName": "",
       "company": "Guangzhou Wingo Stage Light Co., Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1862,
+      "organizationName": "",
+      "company": "Candela LLC",
       "registered": true
     },
     {
@@ -4130,6 +4154,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2200,
+      "organizationName": "",
+      "company": "AEC ILLUMINAZIONE SRL",
+      "registered": true
+    },
+    {
       "manufacturerID": 2201,
       "organizationName": "",
       "company": "Shenzhen Huimont Technology Co., Ltd",
@@ -4427,6 +4457,12 @@
       "manufacturerID": 2257,
       "organizationName": "",
       "company": "Shenzhen Leqi Network Technology Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2258,
+      "organizationName": "",
+      "company": "Curious Devices Ltd.",
       "registered": true
     },
     {
