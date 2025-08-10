@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-08-03T01:16:45Z
+ * @date 2025-08-10T01:14:32Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -277,6 +277,7 @@ namespace ESTA {
 			{0x0224, L"Vanguard LED Displays"s},
 			{0x0225, L"Northern Lights Electronic Design, LLC"s},
 			{0x0235, L"Company 235, LLC"s},
+			{0x0238, L"Jem Manufacturing Ltd"s},
 			{0x0242, L"ABLELITE INTERNATIONAL"s},
 			{0x024C, L"FBFX Ltd"s},
 			{0x025B, L"Imlight-Showtechnic"s},
@@ -363,6 +364,7 @@ namespace ESTA {
 			{0x0424, L"FLUX ECLAIRAGE"s},
 			{0x0428, L"ITSTECH"s},
 			{0x0430, L"BOE MLED Technology Co., Ltd"s},
+			{0x0436, L"CHRONIX"s},
 			{0x043C, L"Volux Lighting"s},
 			{0x0440, L"Guangzhou VAS Lighting Co., Ltd."s},
 			{0x044E, L"Ben Peoples Industries, LLC"s},
@@ -384,6 +386,7 @@ namespace ESTA {
 			{0x04CA, L"RT-DMX"s},
 			{0x04CC, L"Yubang Ruiying (Zhongshan) Electronics Co., LTD"s},
 			{0x04CE, L"Quisda"s},
+			{0x04D0, L"DMXCube"s},
 			{0x04D6, L"Kessil"s},
 			{0x04D7, L"Targetti Sankey Spa"s},
 			{0x04D8, L"Guangzhou Hong Yuan Electronic Technology Co., LTD."s},
@@ -546,6 +549,7 @@ namespace ESTA {
 			{0x0740, L"Arkalumen"s},
 			{0x0744, L"DMX Pro Sales, LLC"s},
 			{0x0745, L"Guangzhou Wingo Stage Light Co., Ltd"s},
+			{0x0746, L"Candela LLC"s},
 			{0x0748, L"Chromateq"s},
 			{0x074F, L"Panasonic Corporation"s},
 			{0x0753, L"F&V Europe B.V."s},
@@ -725,6 +729,7 @@ namespace ESTA {
 			{0x0894, L"Dongguan HCP Technology Co., Ltd."s},
 			{0x0895, L"Dolby Laboratories, Inc."s},
 			{0x0896, L"CSD Design and Fabrication"s},
+			{0x0898, L"AEC ILLUMINAZIONE SRL"s},
 			{0x0899, L"Shenzhen Huimont Technology Co., Ltd"s},
 			{0x089A, L"ADL Electronics Ltd."s},
 			{0x089D, L"gobo.ws"s},
@@ -775,6 +780,7 @@ namespace ESTA {
 			{0x08CF, L"Nanjing Lopu Co., Ltd"s},
 			{0x08D0, L"Image Engineering"s},
 			{0x08D1, L"Shenzhen Leqi Network Technology Co., Ltd."s},
+			{0x08D2, L"Curious Devices Ltd."s},
 			{0x08D3, L"SVI Public Company Limited"s},
 			{0x08D4, L"Sensa-Lite Ltd."s},
 			{0x08D5, L"Sense Effects"s},
