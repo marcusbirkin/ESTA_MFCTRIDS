@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-08-10T01:15:48Z",
+  "lastUpdated": "2025-08-17T01:10:52Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3650,6 +3650,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2086,
+      "organizationName": "",
+      "company": "Easy Wireless Hire Limited t/a CORE Lighting",
+      "registered": true
+    },
+    {
       "manufacturerID": 2087,
       "organizationName": "",
       "company": "PIXREAL",
@@ -5075,6 +5081,12 @@
       "manufacturerID": 2365,
       "organizationName": "",
       "company": "Sichuan Hushan Electric Co. Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2366,
+      "organizationName": "",
+      "company": "Chengdu Jian Yi Technology Co., Ltd.",
       "registered": true
     },
     {
