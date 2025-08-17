@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-08-10T01:14:32Z
+ * @date 2025-08-17T01:10:24Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -645,6 +645,7 @@ namespace ESTA {
 			{0x0822, L"Hangzhou YD Illumination Co., Ltd"s},
 			{0x0823, L"Opito Labs GmbH"s},
 			{0x0824, L"Almotechnos CO.,LTD."s},
+			{0x0826, L"Easy Wireless Hire Limited t/a CORE Lighting"s},
 			{0x0827, L"PIXREAL"s},
 			{0x0829, L"CR-TEC Photoelectric"s},
 			{0x082B, L"Changsha ZMIOT Co., Ltd."s},
@@ -883,6 +884,7 @@ namespace ESTA {
 			{0x093A, L"HDT impex s.r.o."s},
 			{0x093B, L"Guangzhou Hongmingwei Stage Lighting Co., Ltd."s},
 			{0x093D, L"Sichuan Hushan Electric Co. Ltd"s},
+			{0x093E, L"Chengdu Jian Yi Technology Co., Ltd."s},
 			{0x093F, L"Guangzhou Julong Platform Lighting Equipment Factory"s},
 			{0x0940, L"Shenzhen CreateLED Electronics Co., Ltd"s},
 			{0x0941, L"Shenzen Zhuoyang Intelligent Technology Co., Ltd."s},
