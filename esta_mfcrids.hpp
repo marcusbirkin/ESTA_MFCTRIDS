@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-08-17T01:10:24Z
+ * @date 2025-09-07T01:02:47Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -42,6 +42,7 @@ namespace ESTA {
 			{0x0001, L"GEE"s},
 			{0x0002, L"Abstract AVR Ltd."s},
 			{0x0003, L"Chromatech Lighting Co., Ltd."s},
+			{0x0007, L"Tauran"s},
 			{0x0008, L"Guangdong Nanguang Photo & Video Systems Co., Ltd."s},
 			{0x0009, L"Aputure Imaging Industries Co., Ltd."s},
 			{0x000A, L"Interactive Imagination Ltd."s},
@@ -431,6 +432,7 @@ namespace ESTA {
 			{0x05C0, L"Vertigo"s},
 			{0x05CF, L"Brighten Technology Development Co., Ltd."s},
 			{0x05D3, L"D-LED Illumination Technologies Ltd."s},
+			{0x05D4, L"SHOWVEN Technologies Co., Ltd."s},
 			{0x05DA, L"Spacyal"s},
 			{0x05E0, L"esp_dmx"s},
 			{0x05E2, L"KORRO PLUS"s},
