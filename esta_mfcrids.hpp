@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-09-07T01:02:47Z
+ * @date 2025-09-14T01:01:45Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -464,6 +464,7 @@ namespace ESTA {
 			{0x064D, L"KXD LIGHTING CO., LIMITED"s},
 			{0x064E, L"My Method"s},
 			{0x0650, L"RDC, Inc. d.b.a. LynTec"s},
+			{0x0652, L"Bretgeld Engineering GmbH"s},
 			{0x0653, L"USAI, LLC"s},
 			{0x0654, L"HUNAN XIANG CAIXU FILM AND TELEVISION CULTURE CO.LTD"s},
 			{0x0656, L"WELEDIT, LDA"s},
@@ -775,6 +776,7 @@ namespace ESTA {
 			{0x08C5, L"EHRGEIZ Lichttechnik GmbH"s},
 			{0x08C6, L"Guangzhou Ever Famous Electronic Co.,Ltd"s},
 			{0x08C7, L"Shenzhen SOSTRON Technology Co., Ltd"s},
+			{0x08C8, L"Guangzhou Moli Stage Equipment Co.,Ltd"s},
 			{0x08C9, L"LEDitgo Videowall Germany GmbH"s},
 			{0x08CA, L"Foshan City Xuandao Optoelectronics Equipment Co., Ltd"s},
 			{0x08CB, L"Practical LEDs.com"s},
