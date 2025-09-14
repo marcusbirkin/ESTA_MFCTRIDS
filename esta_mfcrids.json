@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-09-07T01:03:18Z",
+  "lastUpdated": "2025-09-14T01:02:26Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2564,6 +2564,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1618,
+      "organizationName": "",
+      "company": "Bretgeld Engineering GmbH",
+      "registered": true
+    },
+    {
       "manufacturerID": 1619,
       "organizationName": "",
       "company": "USAI, LLC",
@@ -4427,6 +4433,12 @@
       "manufacturerID": 2247,
       "organizationName": "",
       "company": "Shenzhen SOSTRON Technology Co., Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2248,
+      "organizationName": "",
+      "company": "Guangzhou Moli Stage Equipment Co.,Ltd",
       "registered": true
     },
     {
