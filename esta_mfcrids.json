@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-09-21T01:03:54Z",
+  "lastUpdated": "2025-09-28T01:04:36Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3122,6 +3122,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1886,
+      "organizationName": "",
+      "company": "TEKNiTS Middle East FZ LLC",
+      "registered": true
+    },
+    {
       "manufacturerID": 1887,
       "organizationName": "",
       "company": "LEDEngin Inc.",
@@ -3149,6 +3155,12 @@
       "manufacturerID": 1902,
       "organizationName": "",
       "company": "DecoLed, LLC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1906,
+      "organizationName": "",
+      "company": "SP-Quality",
       "registered": true
     },
     {
@@ -3239,6 +3251,12 @@
       "manufacturerID": 1961,
       "organizationName": "",
       "company": "Tridonic GmbH & Co KG",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1964,
+      "organizationName": "",
+      "company": "ShowTex NV",
       "registered": true
     },
     {
@@ -4193,6 +4211,12 @@
       "manufacturerID": 2202,
       "organizationName": "",
       "company": "ADL Electronics Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2204,
+      "organizationName": "",
+      "company": "SWIT Electronics Co.,Ltd",
       "registered": true
     },
     {
@@ -5612,6 +5636,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2460,
+      "organizationName": "",
+      "company": "Ray Bright Technologies",
+      "registered": true
+    },
+    {
       "manufacturerID": 2461,
       "organizationName": "",
       "company": "Frenexport SPA",
@@ -5675,6 +5705,12 @@
       "manufacturerID": 2471,
       "organizationName": "",
       "company": "Foshan Xinzhijie Optoelectronics Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2472,
+      "organizationName": "",
+      "company": "Guangzhou Longman Optoelectronics Co., Ltd.",
       "registered": true
     },
     {
