@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-09-14T01:01:45Z
+ * @date 2025-09-28T01:04:00Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -557,11 +557,13 @@ namespace ESTA {
 			{0x074F, L"Panasonic Corporation"s},
 			{0x0753, L"F&V Europe B.V."s},
 			{0x0758, L"IMPOLUX GmbH"s},
+			{0x075E, L"TEKNiTS Middle East FZ LLC"s},
 			{0x075F, L"LEDEngin Inc."s},
 			{0x0764, L"Inteca GmbH"s},
 			{0x0766, L"MR-Space LLC"s},
 			{0x076A, L"BeamZ  (Tronios B.V.)"s},
 			{0x076E, L"DecoLed, LLC"s},
+			{0x0772, L"SP-Quality"s},
 			{0x0776, L"lumenetix"s},
 			{0x077B, L"GENLED Brands"s},
 			{0x0782, L"R9 Lighting"s},
@@ -577,6 +579,7 @@ namespace ESTA {
 			{0x07A4, L"Shenzhen DEFG Co., Ltd"s},
 			{0x07A5, L"X LED Systems"s},
 			{0x07A9, L"Tridonic GmbH & Co KG"s},
+			{0x07AC, L"ShowTex NV"s},
 			{0x07AD, L"CLS LED BV"s},
 			{0x07AE, L"A-LITE B.V."s},
 			{0x07B0, L"ADDiCTiON BoX GbR"s},
@@ -736,6 +739,7 @@ namespace ESTA {
 			{0x0898, L"AEC ILLUMINAZIONE SRL"s},
 			{0x0899, L"Shenzhen Huimont Technology Co., Ltd"s},
 			{0x089A, L"ADL Electronics Ltd."s},
+			{0x089C, L"SWIT Electronics Co.,Ltd"s},
 			{0x089D, L"gobo.ws"s},
 			{0x089E, L"Cronic Lighting"s},
 			{0x08A1, L"Shenzhen Gloshine Technology Co., Ltd"s},
@@ -972,6 +976,7 @@ namespace ESTA {
 			{0x0999, L"Concept Smoke Systems Ltd."s},
 			{0x099A, L"Aixz International (S)"s},
 			{0x099B, L"Luminoscape Lighting Limited"s},
+			{0x099C, L"Ray Bright Technologies"s},
 			{0x099D, L"Frenexport SPA"s},
 			{0x099E, L"LLC Lighting Technologies production"s},
 			{0x099F, L"Osten Lighting"s},
@@ -983,6 +988,7 @@ namespace ESTA {
 			{0x09A5, L"Prolight Concepts Ltd."s},
 			{0x09A6, L"TourPro Lighting Company"s},
 			{0x09A7, L"Foshan Xinzhijie Optoelectronics Co., Ltd."s},
+			{0x09A8, L"Guangzhou Longman Optoelectronics Co., Ltd."s},
 			{0x09AA, L"Rushstage Show Lighting Limited"s},
 			{0x09AD, L"Dongguan Ensure Electronic Technology Co., LTD"s},
 			{0x09AE, L"Robert Juliat"s},
