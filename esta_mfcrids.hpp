@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-09-28T01:04:00Z
+ * @date 2025-10-05T01:03:17Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -412,6 +412,7 @@ namespace ESTA {
 			{0x0556, L"RAYSYS"s},
 			{0x055F, L"PRO-SOLUTIONS"s},
 			{0x0560, L"VingtQuatreVolts"s},
+			{0x0568, L"IDE Corporation"s},
 			{0x056B, L"COSMOLIGHT SRL"s},
 			{0x056C, L"Lumascape Lighting Industries"s},
 			{0x0573, L"JIAXING XINHUALI LIGHTING & SOUNDING CO., LTD."s},
