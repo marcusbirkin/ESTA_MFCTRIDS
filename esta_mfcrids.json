@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-09-28T01:04:36Z",
+  "lastUpdated": "2025-10-05T01:03:47Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2249,6 +2249,12 @@
       "manufacturerID": 1376,
       "organizationName": "",
       "company": "VingtQuatreVolts",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1384,
+      "organizationName": "",
+      "company": "IDE Corporation",
       "registered": true
     },
     {
