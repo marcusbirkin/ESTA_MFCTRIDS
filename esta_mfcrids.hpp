@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-10-05T01:03:17Z
+ * @date 2025-10-12T01:01:07Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -608,6 +608,7 @@ namespace ESTA {
 			{0x07DC, L"EVLight (Guangzhou) Co.,Ltd."s},
 			{0x07E2, L"Lumi-Tru LTD"s},
 			{0x07E3, L"Lichtlogistik LED Support GmbH"s},
+			{0x07E4, L"Media Graph"s},
 			{0x07E8, L"ROCKETSIGN Technology HK Ltd"s},
 			{0x07E9, L"TechLink Co., Ltd."s},
 			{0x07EA, L"Le Maitre Ltd"s},
@@ -658,6 +659,7 @@ namespace ESTA {
 			{0x082B, L"Changsha ZMIOT Co., Ltd."s},
 			{0x082E, L"QubiCast GmbH"s},
 			{0x0832, L"Shenzhen EXC-LED Technology Co.,Ltd"s},
+			{0x0835, L"Guangdong Fahold Electronics Co., Ltd."s},
 			{0x0836, L"Nyvoll Lys"s},
 			{0x0838, L"LaserAV"s},
 			{0x083A, L"Bright Ideas Custom Electronics Inc."s},
@@ -689,6 +691,7 @@ namespace ESTA {
 			{0x085B, L"Tolifo (Dongguan) Photographic Equipment Co. Ltd"s},
 			{0x085E, L"MMS Distribution Ltd"s},
 			{0x085F, L"Media Visions, Inc."s},
+			{0x0860, L"Resolution X Pty Ltd"s},
 			{0x0862, L"illuminous"s},
 			{0x0863, L"XTEC Industries Pte Ltd"s},
 			{0x0864, L"Hangzhou Youte Power., Co. Ltd"s},
@@ -947,7 +950,9 @@ namespace ESTA {
 			{0x0976, L"Axion Lighting LLC"s},
 			{0x0977, L"Guangzhou HuaYong Intelligent Technology Co., Ltd."s},
 			{0x0978, L"LE Veranstaltungstechnik"s},
+			{0x0979, L"Shanghai Arex Electronics Co., Ltd."s},
 			{0x097A, L"Teamboyce Limited"s},
+			{0x097B, L"Guangzhou Kimu Stage Lighting Equipment Co.,Ltd"s},
 			{0x097D, L"Brink Electronics"s},
 			{0x097E, L"Guangzhou Deyi Lighting Co., Ltd."s},
 			{0x097F, L"RaumZeitLabor e.V."s},
