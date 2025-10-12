@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-10-05T01:03:47Z",
+  "lastUpdated": "2025-10-12T01:01:40Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3428,6 +3428,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2020,
+      "organizationName": "",
+      "company": "Media Graph",
+      "registered": true
+    },
+    {
       "manufacturerID": 2024,
       "organizationName": "",
       "company": "ROCKETSIGN Technology HK Ltd",
@@ -3728,6 +3734,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2101,
+      "organizationName": "",
+      "company": "Guangdong Fahold Electronics Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2102,
       "organizationName": "",
       "company": "Nyvoll Lys",
@@ -3911,6 +3923,12 @@
       "manufacturerID": 2143,
       "organizationName": "",
       "company": "Media Visions, Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2144,
+      "organizationName": "",
+      "company": "Resolution X Pty Ltd",
       "registered": true
     },
     {
@@ -5462,9 +5480,21 @@
       "registered": true
     },
     {
+      "manufacturerID": 2425,
+      "organizationName": "",
+      "company": "Shanghai Arex Electronics Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2426,
       "organizationName": "",
       "company": "Teamboyce Limited",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2427,
+      "organizationName": "",
+      "company": "Guangzhou Kimu Stage Lighting Equipment Co.,Ltd",
       "registered": true
     },
     {
