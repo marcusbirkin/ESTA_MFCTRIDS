@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-10-12T01:01:40Z",
+  "lastUpdated": "2025-10-19T01:07:03Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2933,6 +2933,12 @@
       "manufacturerID": 1796,
       "organizationName": "",
       "company": "Lightdiction",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1797,
+      "organizationName": "",
+      "company": "SHANGHAI FUJU LIGHTING TECHNOLOGY CO,.LTD",
       "registered": true
     },
     {
