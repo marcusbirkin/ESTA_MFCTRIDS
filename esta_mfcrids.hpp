@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-10-12T01:01:07Z
+ * @date 2025-10-19T01:06:22Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -526,6 +526,7 @@ namespace ESTA {
 			{0x0700, L"OXYGEN SMD Ltd"s},
 			{0x0702, L"Drinelec"s},
 			{0x0704, L"Lightdiction"s},
+			{0x0705, L"SHANGHAI FUJU LIGHTING TECHNOLOGY CO,.LTD"s},
 			{0x0706, L"LINEAR TECHNOLOGIE"s},
 			{0x0707, L"Conceptinetics Technologies and Consultancy Ltd."s},
 			{0x0708, L"AK-LIGHT"s},
