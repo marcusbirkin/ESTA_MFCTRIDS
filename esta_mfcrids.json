@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-10-19T01:07:03Z",
+  "lastUpdated": "2025-10-26T01:05:29Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3818,6 +3818,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2119,
+      "organizationName": "",
+      "company": "SlightLight AB",
+      "registered": true
+    },
+    {
       "manufacturerID": 2120,
       "organizationName": "",
       "company": "SLC - Static Light Company Ltd",
@@ -4091,6 +4097,12 @@
       "manufacturerID": 2173,
       "organizationName": "",
       "company": "TPV Technology Group",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2175,
+      "organizationName": "",
+      "company": "Premier Sports Lighting, LLC",
       "registered": true
     },
     {
