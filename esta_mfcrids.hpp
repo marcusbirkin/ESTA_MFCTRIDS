@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-10-19T01:06:22Z
+ * @date 2025-10-26T01:04:41Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -673,6 +673,7 @@ namespace ESTA {
 			{0x0843, L"BHL Lichttechniek"s},
 			{0x0845, L"Cush Light LLC"s},
 			{0x0846, L"LDR - Luci della Ribalta Srl"s},
+			{0x0847, L"SlightLight AB"s},
 			{0x0848, L"SLC - Static Light Company Ltd"s},
 			{0x084B, L"Neon Circus Ltd"s},
 			{0x084C, L"Guangzhou Ba Lin Electronic Technology Co., Ltd."s},
@@ -719,6 +720,7 @@ namespace ESTA {
 			{0x087B, L"About Time Technologies"s},
 			{0x087C, L"Telectran International Pty Ltd."s},
 			{0x087D, L"TPV Technology Group"s},
+			{0x087F, L"Premier Sports Lighting, LLC"s},
 			{0x0880, L"GuangZhou LiDang Technology Inc."s},
 			{0x0881, L"Shenzhen Genesis-Systech Co., Ltd."s},
 			{0x0883, L"CEE Lighting Equipment Co.Ltd"s},
