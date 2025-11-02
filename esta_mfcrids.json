@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-10-26T01:05:29Z",
+  "lastUpdated": "2025-11-02T01:06:03Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3440,6 +3440,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2021,
+      "organizationName": "",
+      "company": "TMI Electronics",
+      "registered": true
+    },
+    {
       "manufacturerID": 2024,
       "organizationName": "",
       "company": "ROCKETSIGN Technology HK Ltd",
@@ -5993,6 +5999,12 @@
       "manufacturerID": 2526,
       "organizationName": "",
       "company": "Matthias Bauch Software",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2528,
+      "organizationName": "",
+      "company": "Beiijing Keyi Starlight Technology Co., Ltd.",
       "registered": true
     },
     {
