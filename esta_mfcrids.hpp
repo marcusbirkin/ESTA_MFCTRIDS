@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-10-26T01:04:41Z
+ * @date 2025-11-02T01:05:30Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -610,6 +610,7 @@ namespace ESTA {
 			{0x07E2, L"Lumi-Tru LTD"s},
 			{0x07E3, L"Lichtlogistik LED Support GmbH"s},
 			{0x07E4, L"Media Graph"s},
+			{0x07E5, L"TMI Electronics"s},
 			{0x07E8, L"ROCKETSIGN Technology HK Ltd"s},
 			{0x07E9, L"TechLink Co., Ltd."s},
 			{0x07EA, L"Le Maitre Ltd"s},
@@ -1036,6 +1037,7 @@ namespace ESTA {
 			{0x09DC, L"Froggys Fog"s},
 			{0x09DD, L"Planet Innovation Products Inc"s},
 			{0x09DE, L"Matthias Bauch Software"s},
+			{0x09E0, L"Beiijing Keyi Starlight Technology Co., Ltd."s},
 			{0x09E3, L"Powerland Technology Inc."s},
 			{0x09E9, L"Starway"s},
 			{0x09EE, L"Suzhou Pinzong Electronic Technology, CO.,Ltd"s},
