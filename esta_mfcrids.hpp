@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-11-02T01:05:30Z
+ * @date 2025-11-16T01:07:06Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -336,6 +336,7 @@ namespace ESTA {
 			{0x032C, L"Carallon Ltd."s},
 			{0x033A, L"Lux Lumen"s},
 			{0x034B, L"Rosstech Signals Inc."s},
+			{0x035C, L"STOD"s},
 			{0x0372, L"INACKS"s},
 			{0x0378, L"KASUGA"s},
 			{0x038F, L"Strich Labs"s},
@@ -511,6 +512,7 @@ namespace ESTA {
 			{0x06D1, L"BIRUN ELECTRONIC INDUSTRIAL CO., LTD"s},
 			{0x06D2, L"LIGHTSTAR (BEIJING) ELECTRONIC CORPORATION"s},
 			{0x06D3, L"Boerner Distribution International GmbH"s},
+			{0x06D8, L"GUANGZHOU SUN-YUN TECHNOLOGY CO.,LTD"s},
 			{0x06D9, L"ELECTROCONCEPT SARL"s},
 			{0x06DD, L"GRUPPO SIGI SRLS"s},
 			{0x06E0, L"SHENZHEN LONGRUN OPTOELECTRONIC CO., LTD"s},
@@ -649,6 +651,7 @@ namespace ESTA {
 			{0x0812, L"Yamagiwa Corporation"s},
 			{0x0813, L"Shenzhen Scenico Optoelectronic Co., Ltd."s},
 			{0x0814, L"squareV"s},
+			{0x0815, L"Q Squared Systems, LLC"s},
 			{0x0816, L"Benjamin Graf Ton- und Medientechnik"s},
 			{0x081C, L"MR Electronics Ltd."s},
 			{0x081E, L"LOBO Electronic GmbH"s},
@@ -747,6 +750,7 @@ namespace ESTA {
 			{0x0898, L"AEC ILLUMINAZIONE SRL"s},
 			{0x0899, L"Shenzhen Huimont Technology Co., Ltd"s},
 			{0x089A, L"ADL Electronics Ltd."s},
+			{0x089B, L"Guangzhou Shenhe Stage Lighting Equipment Co., Ltd."s},
 			{0x089C, L"SWIT Electronics Co.,Ltd"s},
 			{0x089D, L"gobo.ws"s},
 			{0x089E, L"Cronic Lighting"s},
@@ -916,6 +920,7 @@ namespace ESTA {
 			{0x094C, L"Shenzhen Xiezhen Electronics Co., Ltd."s},
 			{0x094D, L"Quantum Theory"s},
 			{0x094E, L"Myostat Motion Control"s},
+			{0x094F, L"Creative Integration Studio"s},
 			{0x0950, L"Pure Effects"s},
 			{0x0951, L"Guangzhou GTD Lighting Technology Co., Ltd"s},
 			{0x0952, L"Guangzhou Sunway Entertainment Equipment Co., Ltd."s},
@@ -933,6 +938,7 @@ namespace ESTA {
 			{0x095E, L"Hondel Lighting Limited"s},
 			{0x095F, L"Elaborated Networks GmbH"s},
 			{0x0960, L"Fineline Solutions Ltd."s},
+			{0x0961, L"Delight Lighting"s},
 			{0x0962, L"Finland Lighting Oy"s},
 			{0x0963, L"Foshan Sololighting Technology Co., Ltd"s},
 			{0x0964, L"Inventions Guité Inc."s},
@@ -1018,6 +1024,7 @@ namespace ESTA {
 			{0x09BE, L"Arctos Showlasertechnik GmbH"s},
 			{0x09C0, L"Guangzhou Rainbow Lighting Equipment CO.,LTD"s},
 			{0x09C1, L"Argetron Elektrik Elektronik Organizasyon Gida San. ve Dis Tic. Ltd. Sti."s},
+			{0x09C2, L"Guangzhou Mingjing Technology Co., Ltd."s},
 			{0x09C3, L"Velleman nv"s},
 			{0x09C4, L"Guangzhou XinHuang Industrial Co., Ltd."s},
 			{0x09C6, L"Photon Manufacturing"s},
