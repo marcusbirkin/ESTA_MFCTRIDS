@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-11-02T01:06:03Z",
+  "lastUpdated": "2025-11-16T01:07:36Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1796,6 +1796,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 860,
+      "organizationName": "",
+      "company": "STOD",
+      "registered": true
+    },
+    {
       "manufacturerID": 882,
       "organizationName": "",
       "company": "INACKS",
@@ -2846,6 +2852,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1752,
+      "organizationName": "",
+      "company": "GUANGZHOU SUN-YUN TECHNOLOGY CO.,LTD",
+      "registered": true
+    },
+    {
       "manufacturerID": 1753,
       "organizationName": "",
       "company": "ELECTROCONCEPT SARL",
@@ -3674,6 +3686,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2069,
+      "organizationName": "",
+      "company": "Q Squared Systems, LLC",
+      "registered": true
+    },
+    {
       "manufacturerID": 2070,
       "organizationName": "",
       "company": "Benjamin Graf Ton- und Medientechnik",
@@ -4259,6 +4277,12 @@
       "manufacturerID": 2202,
       "organizationName": "",
       "company": "ADL Electronics Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2203,
+      "organizationName": "",
+      "company": "Guangzhou Shenhe Stage Lighting Equipment Co., Ltd.",
       "registered": true
     },
     {
@@ -5276,6 +5300,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2383,
+      "organizationName": "",
+      "company": "Creative Integration Studio",
+      "registered": true
+    },
+    {
       "manufacturerID": 2384,
       "organizationName": "",
       "company": "Pure Effects",
@@ -5375,6 +5405,12 @@
       "manufacturerID": 2400,
       "organizationName": "",
       "company": "Fineline Solutions Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2401,
+      "organizationName": "",
+      "company": "Delight Lighting",
       "registered": true
     },
     {
@@ -5885,6 +5921,12 @@
       "manufacturerID": 2497,
       "organizationName": "",
       "company": "Argetron Elektrik Elektronik Organizasyon Gida San. ve Dis Tic. Ltd. Sti.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2498,
+      "organizationName": "",
+      "company": "Guangzhou Mingjing Technology Co., Ltd.",
       "registered": true
     },
     {
