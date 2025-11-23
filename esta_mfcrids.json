@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-11-16T01:07:36Z",
+  "lastUpdated": "2025-11-23T01:11:39Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3233,6 +3233,12 @@
       "manufacturerID": 1938,
       "organizationName": "",
       "company": "MY-Semi Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1939,
+      "organizationName": "",
+      "company": "IMLTLED Technology Co., Ltd.",
       "registered": true
     },
     {
