@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-11-16T01:07:06Z
+ * @date 2025-11-23T01:11:02Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -576,6 +576,7 @@ namespace ESTA {
 			{0x078A, L"FATEC sarl"s},
 			{0x078E, L"SHENZHEN BGLOPTO TECHNOLOGY Co., LTD."s},
 			{0x0792, L"MY-Semi Inc."s},
+			{0x0793, L"IMLTLED Technology Co., Ltd."s},
 			{0x0797, L"ARCPROLED Limited"s},
 			{0x079B, L"Pro Church Lights"s},
 			{0x079F, L"VPS Group, LLC"s},
