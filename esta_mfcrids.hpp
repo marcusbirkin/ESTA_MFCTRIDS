@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-11-23T01:11:02Z
+ * @date 2025-11-30T01:10:40Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -417,6 +417,7 @@ namespace ESTA {
 			{0x056B, L"COSMOLIGHT SRL"s},
 			{0x056C, L"Lumascape Lighting Industries"s},
 			{0x0573, L"JIAXING XINHUALI LIGHTING & SOUNDING CO., LTD."s},
+			{0x0576, L"Eleqta Technologies Private Limited"s},
 			{0x057A, L"RVE S.A.S."s},
 			{0x0580, L"Innovation LED  Limited"s},
 			{0x0582, L"Jack LINE"s},
@@ -502,6 +503,7 @@ namespace ESTA {
 			{0x06B3, L"NANOLUMENS, INC."s},
 			{0x06B6, L"GUANGDONG VSHINE LIGHTING TECHNOLOGY CO.,LTD"s},
 			{0x06B9, L"GUANGZHOU DASEN LIGHTING CORPORATION LIMITED"s},
+			{0x06BA, L"Lightner"s},
 			{0x06BB, L"IQ COMPANY Ltd."s},
 			{0x06C4, L"RHENAC Systems GmbH"s},
 			{0x06C5, L"ZHIYUN INFORMATION (INTERNATIONAL) TECHNOLOGY CO., LIMITED"s},
