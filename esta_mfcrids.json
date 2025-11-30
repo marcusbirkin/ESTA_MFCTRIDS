@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-11-23T01:11:39Z",
+  "lastUpdated": "2025-11-30T01:11:11Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2282,6 +2282,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1398,
+      "organizationName": "",
+      "company": "Eleqta Technologies Private Limited",
+      "registered": true
+    },
+    {
       "manufacturerID": 1402,
       "organizationName": "",
       "company": "RVE S.A.S.",
@@ -2789,6 +2795,12 @@
       "manufacturerID": 1721,
       "organizationName": "",
       "company": "GUANGZHOU DASEN LIGHTING CORPORATION LIMITED",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1722,
+      "organizationName": "",
+      "company": "Lightner",
       "registered": true
     },
     {
