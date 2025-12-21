@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-12-14T01:11:13Z
+ * @date 2025-12-21T01:11:06Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -673,6 +673,7 @@ namespace ESTA {
 			{0x0838, L"LaserAV"s},
 			{0x083A, L"Bright Ideas Custom Electronics Inc."s},
 			{0x083C, L"TDT Productions"s},
+			{0x083D, L"Siluj Iluminacion S.L.U."s},
 			{0x083E, L"Guangdong Hua Chen Film & Television Stage Project Co., Ltd."s},
 			{0x083F, L"Shenzhen LeiFei Lighting Technologies Co.,Ltd."s},
 			{0x0840, L"Shenzhen Zwich Science and Technology Co.Ltd."s},
@@ -696,6 +697,7 @@ namespace ESTA {
 			{0x0854, L"Sharp Corporation"s},
 			{0x0855, L"GODOX Photo Equipment Co., Ltd."s},
 			{0x0856, L"Ctrl Element ehf"s},
+			{0x0857, L"BOS Lighting"s},
 			{0x0858, L"Juno Lighting Group"s},
 			{0x085A, L"Guangzhou Ming Jing Stage Light Equipment Co., Ltd."s},
 			{0x085B, L"Tolifo (Dongguan) Photographic Equipment Co. Ltd"s},
