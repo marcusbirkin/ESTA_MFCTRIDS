@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-12-14T01:11:43Z",
+  "lastUpdated": "2025-12-21T01:11:39Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3818,6 +3818,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2109,
+      "organizationName": "",
+      "company": "Siluj Iluminacion S.L.U.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2110,
       "organizationName": "",
       "company": "Guangdong Hua Chen Film & Television Stage Project Co., Ltd.",
@@ -3953,6 +3959,12 @@
       "manufacturerID": 2134,
       "organizationName": "",
       "company": "Ctrl Element ehf",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2135,
+      "organizationName": "",
+      "company": "BOS Lighting",
       "registered": true
     },
     {
