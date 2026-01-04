@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2025-12-21T01:11:06Z
+ * @date 2026-01-04T01:15:34Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -510,6 +510,7 @@ namespace ESTA {
 			{0x06C5, L"ZHIYUN INFORMATION (INTERNATIONAL) TECHNOLOGY CO., LIMITED"s},
 			{0x06C7, L"L&L Luce&Light"s},
 			{0x06C8, L"Dongguan Huiguan Culture Technology Co., Ltd."s},
+			{0x006C, L"PIXELERR TECHNOLOGIES PRIVATE LIMITED"s},
 			{0x06CA, L"Leding"s},
 			{0x06CE, L"American-Pro International"s},
 			{0x06D1, L"BIRUN ELECTRONIC INDUSTRIAL CO., LTD"s},
@@ -670,6 +671,7 @@ namespace ESTA {
 			{0x0832, L"Shenzhen EXC-LED Technology Co.,Ltd"s},
 			{0x0835, L"Guangdong Fahold Electronics Co., Ltd."s},
 			{0x0836, L"Nyvoll Lys"s},
+			{0x0837, L"W Technology"s},
 			{0x0838, L"LaserAV"s},
 			{0x083A, L"Bright Ideas Custom Electronics Inc."s},
 			{0x083C, L"TDT Productions"s},
@@ -889,6 +891,7 @@ namespace ESTA {
 			{0x0925, L"Guangzhou Aiweidy Lighting Acoustics Equipment Co.,Ltd."s},
 			{0x0926, L"Elumeros Lighting Limited"s},
 			{0x0927, L"Guangzhou Mingying Electronic Technology Co., Ltd."s},
+			{0x0927, L"Phazed Logik"s},
 			{0x0928, L"Chaostreff Backnang e.V."s},
 			{0x0929, L"UPlight stage equipment(GZ) CO., Ltd."s},
 			{0x092A, L"Unitech Digital Media srl"s},
@@ -916,6 +919,7 @@ namespace ESTA {
 			{0x0941, L"Shenzen Zhuoyang Intelligent Technology Co., Ltd."s},
 			{0x0942, L"Showjockey Technology Co., Ltd"s},
 			{0x0943, L"Guangzhou Guangying Optoelectronics Co., Ltd"s},
+			{0x0944, L"Guangzhou Lighting Cosmos Optoelectronics Technology Co., Ltd."s},
 			{0x0945, L"Guangzhou Lin Xiang Stage Lighting Equipment CO.,LTD"s},
 			{0x0946, L"TBE Srl"s},
 			{0x0947, L"Shenzhen MOSO Electronics Technology Co., Ltd"s},
@@ -1061,6 +1065,7 @@ namespace ESTA {
 			{0x0AAA, L"AAA-LUX"s},
 			{0x0D0C, L"SmartDC Inc."s},
 			{0x0D0E, L"DMX Engineering LLC"s},
+			{0x1001, L"GENIO DA LAMPADA DE LED LTDA"s},
 			{0x1112, L"Zhuhai Bincolor Electronic Technology Co., Ltd."s},
 			{0x1113, L"SiliconCore Technology, Inc."s},
 			{0x1200, L"Seekway Technology Limited"s},
