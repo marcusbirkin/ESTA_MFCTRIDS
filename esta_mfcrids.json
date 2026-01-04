@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2025-12-21T01:11:39Z",
+  "lastUpdated": "2026-01-04T01:16:05Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2840,6 +2840,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 108,
+      "organizationName": "",
+      "company": "PIXELERR TECHNOLOGIES PRIVATE LIMITED",
+      "registered": true
+    },
+    {
       "manufacturerID": 1738,
       "organizationName": "",
       "company": "Leding",
@@ -3797,6 +3803,12 @@
       "manufacturerID": 2102,
       "organizationName": "",
       "company": "Nyvoll Lys",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2103,
+      "organizationName": "",
+      "company": "W Technology",
       "registered": true
     },
     {
@@ -5114,6 +5126,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2343,
+      "organizationName": "",
+      "company": "Phazed Logik",
+      "registered": true
+    },
+    {
       "manufacturerID": 2344,
       "organizationName": "",
       "company": "Chaostreff Backnang e.V.",
@@ -5273,6 +5291,12 @@
       "manufacturerID": 2371,
       "organizationName": "",
       "company": "Guangzhou Guangying Optoelectronics Co., Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2372,
+      "organizationName": "",
+      "company": "Guangzhou Lighting Cosmos Optoelectronics Technology Co., Ltd.",
       "registered": true
     },
     {
@@ -6143,6 +6167,12 @@
       "manufacturerID": 3342,
       "organizationName": "",
       "company": "DMX Engineering LLC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 4097,
+      "organizationName": "",
+      "company": "GENIO DA LAMPADA DE LED LTDA",
       "registered": true
     },
     {
