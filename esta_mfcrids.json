@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-01-04T01:16:05Z",
+  "lastUpdated": "2026-01-18T01:15:04Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3221,6 +3221,12 @@
       "manufacturerID": 1915,
       "organizationName": "",
       "company": "GENLED Brands",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1921,
+      "organizationName": "",
+      "company": "Profoto AB",
       "registered": true
     },
     {
