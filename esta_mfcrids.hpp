@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-01-04T01:15:34Z
+ * @date 2026-01-18T01:14:38Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -574,6 +574,7 @@ namespace ESTA {
 			{0x0772, L"SP-Quality"s},
 			{0x0776, L"lumenetix"s},
 			{0x077B, L"GENLED Brands"s},
+			{0x0781, L"Profoto AB"s},
 			{0x0782, L"R9 Lighting"s},
 			{0x0784, L"PIXL Lighting Inc."s},
 			{0x0786, L"DMXDesktop"s},
