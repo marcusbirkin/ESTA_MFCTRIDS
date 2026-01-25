@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-01-18T01:15:04Z",
+  "lastUpdated": "2026-01-25T01:17:03Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1496,6 +1496,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 663,
+      "organizationName": "",
+      "company": "Phazed Logik",
+      "registered": true
+    },
+    {
       "manufacturerID": 672,
       "organizationName": "",
       "company": "LLC Likhoslavl Plant of Lighting Engineering (Svetotehnika)",
@@ -2384,6 +2390,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1488,
+      "organizationName": "",
+      "company": "DENSOKOGEI",
+      "registered": true
+    },
+    {
       "manufacturerID": 1491,
       "organizationName": "",
       "company": "D-LED Illumination Technologies Ltd.",
@@ -3062,6 +3074,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1819,
+      "organizationName": "",
+      "company": "TripleClear",
+      "registered": true
+    },
+    {
       "manufacturerID": 1823,
       "organizationName": "",
       "company": "Moss LED Inc",
@@ -3182,6 +3200,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1890,
+      "organizationName": "",
+      "company": "Switch 2 Smart Tech",
+      "registered": true
+    },
+    {
       "manufacturerID": 1892,
       "organizationName": "",
       "company": "Inteca GmbH",
@@ -3209,6 +3233,12 @@
       "manufacturerID": 1906,
       "organizationName": "",
       "company": "SP-Quality",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1907,
+      "organizationName": "",
+      "company": "Papouch s.r.o.",
       "registered": true
     },
     {
@@ -3251,6 +3281,12 @@
       "manufacturerID": 1930,
       "organizationName": "DMXTOOLBOX",
       "company": "FATEC sarl",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1933,
+      "organizationName": "",
+      "company": "Anhui BeautyPower Electronics Technology Co.,Ltd",
       "registered": true
     },
     {
@@ -4073,6 +4109,12 @@
       "manufacturerID": 2154,
       "organizationName": "",
       "company": "Shenzhen Chip Optech Co.,LTD",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2155,
+      "organizationName": "",
+      "company": "Anzhee Group",
       "registered": true
     },
     {
@@ -5129,12 +5171,6 @@
       "manufacturerID": 2343,
       "organizationName": "",
       "company": "Guangzhou Mingying Electronic Technology Co., Ltd.",
-      "registered": true
-    },
-    {
-      "manufacturerID": 2343,
-      "organizationName": "",
-      "company": "Phazed Logik",
       "registered": true
     },
     {
