@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-01-18T01:14:38Z
+ * @date 2026-01-25T01:16:35Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -286,6 +286,7 @@ namespace ESTA {
 			{0x0280, L"Arrigo Lighting"s},
 			{0x0286, L"RMLX"s},
 			{0x028F, L"GRE Alpha Electronics Ltd."s},
+			{0x0297, L"Phazed Logik"s},
 			{0x02A0, L"LLC Likhoslavl Plant of Lighting Engineering (Svetotehnika)"s},
 			{0x02A1, L"LLC Moscow Experimental Lighting Plant (TeleMechanic)"s},
 			{0x02A2, L"OJSC Kadoshkinsky electrotechnical"s},
@@ -434,6 +435,7 @@ namespace ESTA {
 			{0x05BC, L"CantoUSA"s},
 			{0x05C0, L"Vertigo"s},
 			{0x05CF, L"Brighten Technology Development Co., Ltd."s},
+			{0x05D0, L"DENSOKOGEI"s},
 			{0x05D3, L"D-LED Illumination Technologies Ltd."s},
 			{0x05D4, L"SHOWVEN Technologies Co., Ltd."s},
 			{0x05DA, L"Spacyal"s},
@@ -547,6 +549,7 @@ namespace ESTA {
 			{0x0716, L"Artem Ltd."s},
 			{0x0718, L"Eagle Lite"s},
 			{0x071A, L"YHX Visual"s},
+			{0x071B, L"TripleClear"s},
 			{0x071F, L"Moss LED Inc"s},
 			{0x0724, L"PHC Lighting & BMS Sp. z o.o."s},
 			{0x072B, L"NEWSUBSTANCE Ltd."s},
@@ -567,11 +570,13 @@ namespace ESTA {
 			{0x0758, L"IMPOLUX GmbH"s},
 			{0x075E, L"TEKNiTS Middle East FZ LLC"s},
 			{0x075F, L"LEDEngin Inc."s},
+			{0x0762, L"Switch 2 Smart Tech"s},
 			{0x0764, L"Inteca GmbH"s},
 			{0x0766, L"MR-Space LLC"s},
 			{0x076A, L"BeamZ  (Tronios B.V.)"s},
 			{0x076E, L"DecoLed, LLC"s},
 			{0x0772, L"SP-Quality"s},
+			{0x0773, L"Papouch s.r.o."s},
 			{0x0776, L"lumenetix"s},
 			{0x077B, L"GENLED Brands"s},
 			{0x0781, L"Profoto AB"s},
@@ -579,6 +584,7 @@ namespace ESTA {
 			{0x0784, L"PIXL Lighting Inc."s},
 			{0x0786, L"DMXDesktop"s},
 			{0x078A, L"FATEC sarl"s},
+			{0x078D, L"Anhui BeautyPower Electronics Technology Co.,Ltd"s},
 			{0x078E, L"SHENZHEN BGLOPTO TECHNOLOGY Co., LTD."s},
 			{0x0792, L"MY-Semi Inc."s},
 			{0x0793, L"IMLTLED Technology Co., Ltd."s},
@@ -716,6 +722,7 @@ namespace ESTA {
 			{0x0868, L"Ushio America, Inc."s},
 			{0x0869, L"Club Cannon LLC"s},
 			{0x086A, L"Shenzhen Chip Optech Co.,LTD"s},
+			{0x086B, L"Anzhee Group"s},
 			{0x086C, L"Bafa Elektronik ve Işık Tasarımları Sanayii Ticaret LTD Sti."s},
 			{0x086D, L"Velaflame, LLC"s},
 			{0x086E, L"Guangzhou Hi-LTTE Electronics Technology Co.,Ltd"s},
@@ -892,7 +899,6 @@ namespace ESTA {
 			{0x0925, L"Guangzhou Aiweidy Lighting Acoustics Equipment Co.,Ltd."s},
 			{0x0926, L"Elumeros Lighting Limited"s},
 			{0x0927, L"Guangzhou Mingying Electronic Technology Co., Ltd."s},
-			{0x0927, L"Phazed Logik"s},
 			{0x0928, L"Chaostreff Backnang e.V."s},
 			{0x0929, L"UPlight stage equipment(GZ) CO., Ltd."s},
 			{0x092A, L"Unitech Digital Media srl"s},
