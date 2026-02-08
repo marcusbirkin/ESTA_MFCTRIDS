@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-01-25T01:17:03Z",
+  "lastUpdated": "2026-02-08T01:56:12Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -959,6 +959,12 @@
       "manufacturerID": 287,
       "organizationName": "",
       "company": "STF s.r.l.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 306,
+      "organizationName": "",
+      "company": "Brendan White",
       "registered": true
     },
     {
@@ -4055,6 +4061,12 @@
       "manufacturerID": 2144,
       "organizationName": "",
       "company": "Resolution X Pty Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2145,
+      "organizationName": "",
+      "company": "OneEightyOne B.V.",
       "registered": true
     },
     {
@@ -9749,6 +9761,12 @@
       "manufacturerID": 27631,
       "organizationName": "",
       "company": "Shenzhen Ifountain Technology Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 27756,
+      "organizationName": "",
+      "company": "Lumosa Lighting B.V.",
       "registered": true
     },
     {
