@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-01-25T01:16:35Z
+ * @date 2026-02-08T01:55:45Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -197,6 +197,7 @@ namespace ESTA {
 			{0x011D, L"Yangzhou Zhituo Lighting Vision Technology Co., Ltd."s},
 			{0x011E, L"Master LED"s},
 			{0x011F, L"STF s.r.l."s},
+			{0x0132, L"Brendan White"s},
 			{0x0144, L"KW-Veranstaltungstechnik"s},
 			{0x016C, L"LGR"s},
 			{0x016D, L"Hive Lighting"s},
@@ -713,6 +714,7 @@ namespace ESTA {
 			{0x085E, L"MMS Distribution Ltd"s},
 			{0x085F, L"Media Visions, Inc."s},
 			{0x0860, L"Resolution X Pty Ltd"s},
+			{0x0861, L"OneEightyOne B.V."s},
 			{0x0862, L"illuminous"s},
 			{0x0863, L"XTEC Industries Pte Ltd"s},
 			{0x0864, L"Hangzhou Youte Power., Co. Ltd"s},
@@ -1662,6 +1664,7 @@ namespace ESTA {
 			{0x6BED, L"Planar Systems, Inc."s},
 			{0x6BEE, L"Ephesus Lighting"s},
 			{0x6BEF, L"Shenzhen Ifountain Technology Ltd."s},
+			{0x6C6C, L"Lumosa Lighting B.V."s},
 			{0x6C6D, L"Zumtobel Lighting GmbH"s},
 			{0x6C78, L"Claude Heintz Design"s},
 			{0x6C92, L"Ambra Elettronica s.r.l."s},
