@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-02-08T01:55:45Z
+ * @date 2026-02-15T01:28:21Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -1037,6 +1037,7 @@ namespace ESTA {
 			{0x09B6, L"Second String Studios"s},
 			{0x09B7, L"inCon-trol water systems"s},
 			{0x09B8, L"Prolites S.A.L."s},
+			{0x09B9, L"Mikkelsen Innovasjon"s},
 			{0x09BA, L"Supervoimed OU"s},
 			{0x09BB, L"Guangzhou Yiyi Technology Co., Ltd."s},
 			{0x09BD, L"Shenzhen Zhongbo Photoelectric Co., Ltd"s},
