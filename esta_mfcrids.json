@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-02-08T01:56:12Z",
+  "lastUpdated": "2026-02-15T01:28:50Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -5999,6 +5999,12 @@
       "manufacturerID": 2488,
       "organizationName": "",
       "company": "Prolites S.A.L.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2489,
+      "organizationName": "",
+      "company": "Mikkelsen Innovasjon",
       "registered": true
     },
     {
