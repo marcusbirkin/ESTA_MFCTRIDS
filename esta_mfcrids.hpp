@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-02-15T01:28:21Z
+ * @date 2026-03-01T01:42:13Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -794,6 +794,7 @@ namespace ESTA {
 			{0x08B4, L"Ledera Technology Co.,Ltd"s},
 			{0x08B5, L"ShenZhen Sunny Xiao Technology Co., Ltd."s},
 			{0x08B6, L"Graf Lichttechnik UG"s},
+			{0x08B7, L"Moon-O-Vations LLC"s},
 			{0x08B8, L"LEDScape Lighting"s},
 			{0x08B9, L"Guangzhou Hua Rong Electronic Technology Co., Ltd."s},
 			{0x08BA, L"Meteor Lighting"s},
