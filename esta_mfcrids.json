@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-02-15T01:28:50Z",
+  "lastUpdated": "2026-03-01T01:42:39Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4541,6 +4541,12 @@
       "manufacturerID": 2230,
       "organizationName": "",
       "company": "Graf Lichttechnik UG",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2231,
+      "organizationName": "",
+      "company": "Moon-O-Vations LLC",
       "registered": true
     },
     {
