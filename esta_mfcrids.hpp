@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-03-01T01:42:13Z
+ * @date 2026-03-08T01:23:29Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -521,6 +521,7 @@ namespace ESTA {
 			{0x06D3, L"Boerner Distribution International GmbH"s},
 			{0x06D8, L"GUANGZHOU SUN-YUN TECHNOLOGY CO.,LTD"s},
 			{0x06D9, L"ELECTROCONCEPT SARL"s},
+			{0x06DC, L"SOMPI2.0 BV"s},
 			{0x06DD, L"GRUPPO SIGI SRLS"s},
 			{0x06E0, L"SHENZHEN LONGRUN OPTOELECTRONIC CO., LTD"s},
 			{0x06E1, L"Burck IT GmbH & Co. KG"s},
@@ -531,6 +532,7 @@ namespace ESTA {
 			{0x06EC, L"SISTEMA Jsc"s},
 			{0x06F0, L"CTG sp. z o.o."s},
 			{0x06F1, L"Aqualux Lighting"s},
+			{0x06F6, L"BlackShield LDA"s},
 			{0x06F8, L"CHONGQING XINYUANHUI OPTOELECTRONIC TECHNOLOGY CO.,LTD"s},
 			{0x0700, L"OXYGEN SMD Ltd"s},
 			{0x0702, L"Drinelec"s},
@@ -552,6 +554,7 @@ namespace ESTA {
 			{0x071A, L"YHX Visual"s},
 			{0x071B, L"TripleClear"s},
 			{0x071F, L"Moss LED Inc"s},
+			{0x0720, L"Twoloox GmbH"s},
 			{0x0724, L"PHC Lighting & BMS Sp. z o.o."s},
 			{0x072B, L"NEWSUBSTANCE Ltd."s},
 			{0x072C, L"SGM A/S"s},
@@ -772,6 +775,7 @@ namespace ESTA {
 			{0x089C, L"SWIT Electronics Co.,Ltd"s},
 			{0x089D, L"gobo.ws"s},
 			{0x089E, L"Cronic Lighting"s},
+			{0x089F, L"Glasson Electronics Ltd"s},
 			{0x08A1, L"Shenzhen Gloshine Technology Co., Ltd"s},
 			{0x08A2, L"Guangzhou Gesida Light Equipment Co., Ltd."s},
 			{0x08A3, L"Redot Visual Effect Technologies (Shenzhen) Co., Ltd"s},
