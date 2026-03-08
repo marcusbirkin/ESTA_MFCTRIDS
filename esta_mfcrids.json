@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-03-01T01:42:39Z",
+  "lastUpdated": "2026-03-08T01:23:55Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2906,6 +2906,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1756,
+      "organizationName": "",
+      "company": "SOMPI2.0 BV",
+      "registered": true
+    },
+    {
       "manufacturerID": 1757,
       "organizationName": "",
       "company": "GRUPPO SIGI SRLS",
@@ -2963,6 +2969,12 @@
       "manufacturerID": 1777,
       "organizationName": "",
       "company": "Aqualux Lighting",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1782,
+      "organizationName": "",
+      "company": "BlackShield LDA",
       "registered": true
     },
     {
@@ -3089,6 +3101,12 @@
       "manufacturerID": 1823,
       "organizationName": "",
       "company": "Moss LED Inc",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1824,
+      "organizationName": "",
+      "company": "Twoloox GmbH",
       "registered": true
     },
     {
@@ -4409,6 +4427,12 @@
       "manufacturerID": 2206,
       "organizationName": "",
       "company": "Cronic Lighting",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2207,
+      "organizationName": "",
+      "company": "Glasson Electronics Ltd",
       "registered": true
     },
     {
