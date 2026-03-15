@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-03-08T01:23:55Z",
+  "lastUpdated": "2026-03-15T01:45:57Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -9764,6 +9764,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 27328,
+      "organizationName": "",
+      "company": "RAZZ BV",
+      "registered": true
+    },
+    {
       "manufacturerID": 27492,
       "organizationName": "",
       "company": "Key Delfin",
@@ -10187,6 +10193,12 @@
       "manufacturerID": 32495,
       "organizationName": "",
       "company": "Huizhou Mounteck Technology Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 32496,
+      "organizationName": "",
+      "company": "Zavod promyshlennoi mehanizacyi LTD Co",
       "registered": true
     },
     {
