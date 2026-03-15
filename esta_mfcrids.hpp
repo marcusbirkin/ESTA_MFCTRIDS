@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-03-08T01:23:29Z
+ * @date 2026-03-15T01:45:30Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -1664,6 +1664,7 @@ namespace ESTA {
 			{0x6974, L"Ittermann electronic GmbH"s},
 			{0x6A6A, L"Roxx GmbH"s},
 			{0x6A6B, L"JPK Systems Limited"s},
+			{0x6AC0, L"RAZZ BV"s},
 			{0x6B64, L"Key Delfin"s},
 			{0x6B69, L"Magical Fountain SA de CV (Magic Fountain)"s},
 			{0x6BEA, L"Remoticom BV"s},
@@ -1735,6 +1736,7 @@ namespace ESTA {
 			{0x7EED, L"Look Solutions GmbH & Co. KG"s},
 			{0x7EEE, L"General Lighting Electronic Co., Ltd."s},
 			{0x7EEF, L"Huizhou Mounteck Technology Co., Ltd."s},
+			{0x7EF0, L"Zavod promyshlennoi mehanizacyi LTD Co"s},
 			{0x7FF0, L"RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"s},
 			{0x7FF1, L"RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"s},
 			{0x7FF2, L"RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"s},
