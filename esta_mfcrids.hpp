@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-03-15T01:45:30Z
+ * @date 2026-04-05T01:48:58Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -492,6 +492,7 @@ namespace ESTA {
 			{0x068C, L"Hitmusic SAS"s},
 			{0x068E, L"GUANGZHOU TEANMA STAGE LIGHTING FACTORY"s},
 			{0x068F, L"LEDEC GROUP LIMITED"s},
+			{0x0691, L"INNOVA NEX TECHNOLOGY, S.L."s},
 			{0x0692, L"TORO SYSTEM"s},
 			{0x0696, L"SHENZHEN HOION LIGHTING CO.,LTD"s},
 			{0x0697, L"Shenzhen LED Innovator Technology Co., Ltd"s},
@@ -515,6 +516,7 @@ namespace ESTA {
 			{0x06C8, L"Dongguan Huiguan Culture Technology Co., Ltd."s},
 			{0x006C, L"PIXELERR TECHNOLOGIES PRIVATE LIMITED"s},
 			{0x06CA, L"Leding"s},
+			{0x06CC, L"RGB Lights"s},
 			{0x06CE, L"American-Pro International"s},
 			{0x06D1, L"BIRUN ELECTRONIC INDUSTRIAL CO., LTD"s},
 			{0x06D2, L"LIGHTSTAR (BEIJING) ELECTRONIC CORPORATION"s},
@@ -569,7 +571,7 @@ namespace ESTA {
 			{0x0745, L"Guangzhou Wingo Stage Light Co., Ltd"s},
 			{0x0746, L"Candela LLC"s},
 			{0x0748, L"Chromateq"s},
-			{0x074F, L"Panasonic Corporation"s},
+			{0x074F, L"Panasonic Electric Works Co., Ltd."s},
 			{0x0753, L"F&V Europe B.V."s},
 			{0x0758, L"IMPOLUX GmbH"s},
 			{0x075E, L"TEKNiTS Middle East FZ LLC"s},
@@ -583,6 +585,7 @@ namespace ESTA {
 			{0x0773, L"Papouch s.r.o."s},
 			{0x0776, L"lumenetix"s},
 			{0x077B, L"GENLED Brands"s},
+			{0x0780, L"Zedfy GmbH"s},
 			{0x0781, L"Profoto AB"s},
 			{0x0782, L"R9 Lighting"s},
 			{0x0784, L"PIXL Lighting Inc."s},
@@ -605,6 +608,7 @@ namespace ESTA {
 			{0x07B0, L"ADDiCTiON BoX GbR"s},
 			{0x07B1, L"TBF-PyroTec GmbH"s},
 			{0x07B3, L"Shenzhen Fabulux Technology Co., Ltd"s},
+			{0x07B4, L"Space Effects Ltda"s},
 			{0x07B5, L"ARM Automation, Inc"s},
 			{0x07B6, L"Minleon USA"s},
 			{0x07B8, L"Zhuhai Demi Technology Co., Ltd."s},
@@ -660,6 +664,7 @@ namespace ESTA {
 			{0x0809, L"mumoco GmbH"s},
 			{0x080A, L"Shenzhen FantaLED Electronics Co., Ltd"s},
 			{0x080B, L"BANDINAMU CO., LTD."s},
+			{0x080C, L"OPTO Projects Pty Ltd"s},
 			{0x080D, L"HBJ Elektronik"s},
 			{0x080F, L"NavoLabs"s},
 			{0x0810, L"BDS Studios"s},
@@ -679,6 +684,7 @@ namespace ESTA {
 			{0x0829, L"CR-TEC Photoelectric"s},
 			{0x082B, L"Changsha ZMIOT Co., Ltd."s},
 			{0x082E, L"QubiCast GmbH"s},
+			{0x0830, L"PulseWorx"s},
 			{0x0832, L"Shenzhen EXC-LED Technology Co.,Ltd"s},
 			{0x0835, L"Guangdong Fahold Electronics Co., Ltd."s},
 			{0x0836, L"Nyvoll Lys"s},
@@ -768,6 +774,7 @@ namespace ESTA {
 			{0x0894, L"Dongguan HCP Technology Co., Ltd."s},
 			{0x0895, L"Dolby Laboratories, Inc."s},
 			{0x0896, L"CSD Design and Fabrication"s},
+			{0x0897, L"Guangzhou Mingrui Lighting Equipment Co., Ltd."s},
 			{0x0898, L"AEC ILLUMINAZIONE SRL"s},
 			{0x0899, L"Shenzhen Huimont Technology Co., Ltd"s},
 			{0x089A, L"ADL Electronics Ltd."s},
@@ -776,6 +783,7 @@ namespace ESTA {
 			{0x089D, L"gobo.ws"s},
 			{0x089E, L"Cronic Lighting"s},
 			{0x089F, L"Glasson Electronics Ltd"s},
+			{0x08A0, L"Liminal Space, Inc."s},
 			{0x08A1, L"Shenzhen Gloshine Technology Co., Ltd"s},
 			{0x08A2, L"Guangzhou Gesida Light Equipment Co., Ltd."s},
 			{0x08A3, L"Redot Visual Effect Technologies (Shenzhen) Co., Ltd"s},
