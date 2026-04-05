@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-03-15T01:45:57Z",
+  "lastUpdated": "2026-04-05T01:49:23Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2732,6 +2732,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1681,
+      "organizationName": "",
+      "company": "INNOVA NEX TECHNOLOGY, S.L.",
+      "registered": true
+    },
+    {
       "manufacturerID": 1682,
       "organizationName": "",
       "company": "TORO SYSTEM",
@@ -2867,6 +2873,12 @@
       "manufacturerID": 1738,
       "organizationName": "",
       "company": "Leding",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1740,
+      "organizationName": "",
+      "company": "RGB Lights",
       "registered": true
     },
     {
@@ -3196,7 +3208,7 @@
     {
       "manufacturerID": 1871,
       "organizationName": "",
-      "company": "Panasonic Corporation",
+      "company": "Panasonic Electric Works Co., Ltd.",
       "registered": true
     },
     {
@@ -3275,6 +3287,12 @@
       "manufacturerID": 1915,
       "organizationName": "",
       "company": "GENLED Brands",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1920,
+      "organizationName": "",
+      "company": "Zedfy GmbH",
       "registered": true
     },
     {
@@ -3407,6 +3425,12 @@
       "manufacturerID": 1971,
       "organizationName": "",
       "company": "Shenzhen Fabulux Technology Co., Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1972,
+      "organizationName": "",
+      "company": "Space Effects Ltda",
       "registered": true
     },
     {
@@ -3740,6 +3764,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2060,
+      "organizationName": "",
+      "company": "OPTO Projects Pty Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2061,
       "organizationName": "",
       "company": "HBJ Elektronik",
@@ -3851,6 +3881,12 @@
       "manufacturerID": 2094,
       "organizationName": "",
       "company": "QubiCast GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2096,
+      "organizationName": "",
+      "company": "PulseWorx",
       "registered": true
     },
     {
@@ -4388,6 +4424,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2199,
+      "organizationName": "",
+      "company": "Guangzhou Mingrui Lighting Equipment Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 2200,
       "organizationName": "",
       "company": "AEC ILLUMINAZIONE SRL",
@@ -4433,6 +4475,12 @@
       "manufacturerID": 2207,
       "organizationName": "",
       "company": "Glasson Electronics Ltd",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2208,
+      "organizationName": "",
+      "company": "Liminal Space, Inc.",
       "registered": true
     },
     {
