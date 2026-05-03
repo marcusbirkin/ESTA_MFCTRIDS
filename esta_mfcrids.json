@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-04-05T01:49:23Z",
+  "lastUpdated": "2026-05-03T02:08:07Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2468,6 +2468,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1535,
+      "organizationName": "",
+      "company": "I MAS D ELECTRONICS",
+      "registered": true
+    },
+    {
       "manufacturerID": 1536,
       "organizationName": "",
       "company": "TELMIC Neo",
@@ -2507,6 +2513,12 @@
       "manufacturerID": 1549,
       "organizationName": "",
       "company": "HANIL TNC  CO.,LTD",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1551,
+      "organizationName": "",
+      "company": "ILLUMINATE",
       "registered": true
     },
     {
@@ -2579,6 +2591,12 @@
       "manufacturerID": 1605,
       "organizationName": "",
       "company": "MATSUMURA ELECTRIC MFG. CO. , LTD.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1610,
+      "organizationName": "",
+      "company": "RZ LIGHTING CO., LTD",
       "registered": true
     },
     {
@@ -3284,6 +3302,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1914,
+      "organizationName": "",
+      "company": "Oblique Systems",
+      "registered": true
+    },
+    {
       "manufacturerID": 1915,
       "organizationName": "",
       "company": "GENLED Brands",
@@ -3467,6 +3491,12 @@
       "manufacturerID": 1982,
       "organizationName": "",
       "company": "Sanko Device Co.Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1983,
+      "organizationName": "",
+      "company": "d&b Solutions Ltd",
       "registered": true
     },
     {
@@ -5627,6 +5657,12 @@
       "manufacturerID": 2405,
       "organizationName": "",
       "company": "Fontana Fountains",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2406,
+      "organizationName": "",
+      "company": "Nocturne Technologies GmbH",
       "registered": true
     },
     {
