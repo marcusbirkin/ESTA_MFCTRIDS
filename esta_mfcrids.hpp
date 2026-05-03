@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-04-05T01:48:58Z
+ * @date 2026-05-03T02:07:37Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -448,6 +448,7 @@ namespace ESTA {
 			{0x05F2, L"O'Light"s},
 			{0x05F6, L"Otiru Oy"s},
 			{0x05F7, L"Immersive Design Studios Inc."s},
+			{0x05FF, L"I MAS D ELECTRONICS"s},
 			{0x0600, L"TELMIC Neo"s},
 			{0x0602, L"Guangzhou Jinhong Stage Lighting Equipment.Co.,ltd"s},
 			{0x0606, L"Guangzhou YiGuang Stage Lighting Co., Ltd."s},
@@ -455,6 +456,7 @@ namespace ESTA {
 			{0x060A, L"Kindwin Opto Electronic (ShenZhen) Co. Ltd"s},
 			{0x060B, L"Lighting Science Group (formerly LED Effects, Inc.)"s},
 			{0x060D, L"HANIL TNC  CO.,LTD"s},
+			{0x060F, L"ILLUMINATE"s},
 			{0x0614, L"Master FX"s},
 			{0x061C, L"LEDRAYS INC"s},
 			{0x0622, L"Lupo SRL"s},
@@ -467,6 +469,7 @@ namespace ESTA {
 			{0x063C, L"LaserNet"s},
 			{0x0644, L"COLEDER DISPLAY CO., LTD."s},
 			{0x0645, L"MATSUMURA ELECTRIC MFG. CO. , LTD."s},
+			{0x064A, L"RZ LIGHTING CO., LTD"s},
 			{0x064D, L"KXD LIGHTING CO., LIMITED"s},
 			{0x064E, L"My Method"s},
 			{0x0650, L"RDC, Inc. d.b.a. LynTec"s},
@@ -584,6 +587,7 @@ namespace ESTA {
 			{0x0772, L"SP-Quality"s},
 			{0x0773, L"Papouch s.r.o."s},
 			{0x0776, L"lumenetix"s},
+			{0x077A, L"Oblique Systems"s},
 			{0x077B, L"GENLED Brands"s},
 			{0x0780, L"Zedfy GmbH"s},
 			{0x0781, L"Profoto AB"s},
@@ -615,6 +619,7 @@ namespace ESTA {
 			{0x07BA, L"Tradia Co., LTD"s},
 			{0x07BB, L"Shenzhen SOSEN Electronics Co., Ltd."s},
 			{0x07BE, L"Sanko Device Co.Ltd."s},
+			{0x07BF, L"d&b Solutions Ltd"s},
 			{0x07C0, L"Code Mercenaries GmbH"s},
 			{0x07C2, L"BOOQlight BV"s},
 			{0x07C5, L"SBS Lighting LLC"s},
@@ -975,6 +980,7 @@ namespace ESTA {
 			{0x0963, L"Foshan Sololighting Technology Co., Ltd"s},
 			{0x0964, L"Inventions Guité Inc."s},
 			{0x0965, L"Fontana Fountains"s},
+			{0x0966, L"Nocturne Technologies GmbH"s},
 			{0x0967, L"Arcus Licht- und Praesentationstechnik GmbH"s},
 			{0x0968, L"Guangzhou Beyond Lighting Co., Limited."s},
 			{0x0969, L"VCS Vision Control Solutions GmbH"s},
