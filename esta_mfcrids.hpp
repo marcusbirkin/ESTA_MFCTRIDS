@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-05-03T02:07:37Z
+ * @date 2026-05-10T02:10:46Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -448,6 +448,7 @@ namespace ESTA {
 			{0x05F2, L"O'Light"s},
 			{0x05F6, L"Otiru Oy"s},
 			{0x05F7, L"Immersive Design Studios Inc."s},
+			{0x05FC, L"ARTOMATION"s},
 			{0x05FF, L"I MAS D ELECTRONICS"s},
 			{0x0600, L"TELMIC Neo"s},
 			{0x0602, L"Guangzhou Jinhong Stage Lighting Equipment.Co.,ltd"s},
