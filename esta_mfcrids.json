@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-05-03T02:08:07Z",
+  "lastUpdated": "2026-05-10T02:11:31Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2465,6 +2465,12 @@
       "manufacturerID": 1527,
       "organizationName": "",
       "company": "Immersive Design Studios Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1532,
+      "organizationName": "",
+      "company": "ARTOMATION",
       "registered": true
     },
     {
