@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-05-10T02:10:46Z
+ * @date 2026-05-17T02:27:01Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -123,7 +123,7 @@ namespace ESTA {
 			{0x009B, L"Guangzhou Jiawei Electronic Technology Co., Ltd."s},
 			{0x009C, L"LuxBalance Lighting"s},
 			{0x009E, L"Guangzhou Flying Butterfly Stage Lighting Equipment Co., Ltd."s},
-			{0x009F, L"Enedo Power SpA"s},
+			{0x009F, L"Inission Power SpA"s},
 			{0x00A0, L"Shenzhen Dicolor Optoelectronics Co., Ltd."s},
 			{0x00A1, L"Creative Lighting And Sound Systems Pty Ltd."s},
 			{0x00A2, L"EMP Designs Ltd."s},
@@ -1509,7 +1509,6 @@ namespace ESTA {
 			{0x5003, L"Futlight Optoelectronics Co.,Ltd."s},
 			{0x5004, L"Shanghai Sansi Electronic Engineering Co.,Ltd"s},
 			{0x5005, L"MEDIAM Ltd. (Modus brand)"s},
-			{0x5006, L"ENEDO Power SpA"s},
 			{0x5007, L"Alfalite"s},
 			{0x5008, L"Chengdu Chengyu Electronic Technology Co., Ltd."s},
 			{0x5009, L"Izzro Optoelectronics Technology Co., Ltd."s},
