@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-05-10T02:11:31Z",
+  "lastUpdated": "2026-05-17T02:27:22Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -520,7 +520,7 @@
     {
       "manufacturerID": 159,
       "organizationName": "",
-      "company": "Enedo Power SpA",
+      "company": "Inission Power SpA",
       "registered": true
     },
     {
@@ -8831,12 +8831,6 @@
       "manufacturerID": 20485,
       "organizationName": "",
       "company": "MEDIAM Ltd. (Modus brand)",
-      "registered": true
-    },
-    {
-      "manufacturerID": 20486,
-      "organizationName": "",
-      "company": "ENEDO Power SpA",
       "registered": true
     },
     {
