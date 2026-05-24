@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-05-17T02:27:01Z
+ * @date 2026-05-24T02:34:34Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -466,6 +466,7 @@ namespace ESTA {
 			{0x0628, L"ERP Power"s},
 			{0x062A, L"LEDstructures"s},
 			{0x062B, L"CKC Lighting Co., Ltd."s},
+			{0x0638, L"ROLITECH LIMITED"s},
 			{0x063A, L"AVM Belgium BVBA"s},
 			{0x063C, L"LaserNet"s},
 			{0x0644, L"COLEDER DISPLAY CO., LTD."s},
