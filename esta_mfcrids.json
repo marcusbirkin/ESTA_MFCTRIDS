@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-05-17T02:27:22Z",
+  "lastUpdated": "2026-05-24T02:35:04Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2573,6 +2573,12 @@
       "manufacturerID": 1579,
       "organizationName": "",
       "company": "CKC Lighting Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1592,
+      "organizationName": "",
+      "company": "ROLITECH LIMITED",
       "registered": true
     },
     {
