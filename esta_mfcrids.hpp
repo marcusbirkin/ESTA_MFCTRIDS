@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-05-24T02:34:34Z
+ * @date 2026-05-31T02:44:00Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -604,10 +604,12 @@ namespace ESTA {
 			{0x0797, L"ARCPROLED Limited"s},
 			{0x079B, L"Pro Church Lights"s},
 			{0x079F, L"VPS Group, LLC"s},
+			{0x07A1, L"Interface-Z"s},
 			{0x07A3, L"Guangzhou GBR PROLIGHT GROUP CO.,LTD (GBR PROLIGHT)"s},
 			{0x07A4, L"Shenzhen DEFG Co., Ltd"s},
 			{0x07A5, L"X LED Systems"s},
 			{0x07A9, L"Tridonic GmbH & Co KG"s},
+			{0x07AB, L"Elite Lighting Corp."s},
 			{0x07AC, L"ShowTex NV"s},
 			{0x07AD, L"CLS LED BV"s},
 			{0x07AE, L"A-LITE B.V."s},
@@ -690,6 +692,7 @@ namespace ESTA {
 			{0x0827, L"PIXREAL"s},
 			{0x0829, L"CR-TEC Photoelectric"s},
 			{0x082B, L"Changsha ZMIOT Co., Ltd."s},
+			{0x082C, L"RIVA GmbH Engineering"s},
 			{0x082E, L"QubiCast GmbH"s},
 			{0x0830, L"PulseWorx"s},
 			{0x0832, L"Shenzhen EXC-LED Technology Co.,Ltd"s},
@@ -883,6 +886,7 @@ namespace ESTA {
 			{0x08FC, L"Lights By Brian"s},
 			{0x08FD, L"Koto Electric Co., Ltd."s},
 			{0x08FE, L"Zhuhai Shengchang Electronics Co., Ltd."s},
+			{0x08FF, L"nomos system AG"s},
 			{0x0900, L"nox multimedia GmbH"s},
 			{0x0901, L"GermTec GmbH & Co. KG"s},
 			{0x0902, L"DongGuan Betterway Lighting Co.,Ltd"s},
@@ -1705,6 +1709,7 @@ namespace ESTA {
 			{0x7000, L"Nippon Ceramic Co., Ltd."s},
 			{0x700A, L"Guangzhou Leemc Lighting Tech., Co., Ltd."s},
 			{0x700B, L"Vice Lighting DWC LLC"s},
+			{0x7050, L"Guangzhou Titu Technology Co.,Ltd"s},
 			{0x7068, L"Pharos Architectural Controls"s},
 			{0x7070, L"SBT GmbH"s},
 			{0x7072, L"Pr-Lighting Ltd."s},
