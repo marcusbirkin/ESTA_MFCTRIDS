@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-05-24T02:35:04Z",
+  "lastUpdated": "2026-05-31T02:44:34Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3404,6 +3404,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1953,
+      "organizationName": "",
+      "company": "Interface-Z",
+      "registered": true
+    },
+    {
       "manufacturerID": 1955,
       "organizationName": "",
       "company": "Guangzhou GBR PROLIGHT GROUP CO.,LTD (GBR PROLIGHT)",
@@ -3425,6 +3431,12 @@
       "manufacturerID": 1961,
       "organizationName": "",
       "company": "Tridonic GmbH & Co KG",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1963,
+      "organizationName": "",
+      "company": "Elite Lighting Corp.",
       "registered": true
     },
     {
@@ -3917,6 +3929,12 @@
       "manufacturerID": 2091,
       "organizationName": "",
       "company": "Changsha ZMIOT Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2092,
+      "organizationName": "",
+      "company": "RIVA GmbH Engineering",
       "registered": true
     },
     {
@@ -5075,6 +5093,12 @@
       "manufacturerID": 2302,
       "organizationName": "",
       "company": "Zhuhai Shengchang Electronics Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2303,
+      "organizationName": "",
+      "company": "nomos system AG",
       "registered": true
     },
     {
@@ -10007,6 +10031,12 @@
       "manufacturerID": 28683,
       "organizationName": "",
       "company": "Vice Lighting DWC LLC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 28752,
+      "organizationName": "",
+      "company": "Guangzhou Titu Technology Co.,Ltd",
       "registered": true
     },
     {
