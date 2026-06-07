@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-05-31T02:44:34Z",
+  "lastUpdated": "2026-06-07T02:48:25Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3314,6 +3314,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1911,
+      "organizationName": "",
+      "company": "Antalya Elektronik M\u00fchendislik Sanayi ve Tic Ltd \u015eti.",
+      "registered": false
+    },
+    {
       "manufacturerID": 1914,
       "organizationName": "",
       "company": "Oblique Systems",
@@ -3653,6 +3659,12 @@
       "manufacturerID": 2028,
       "organizationName": "",
       "company": "Image Show LLC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2029,
+      "organizationName": "",
+      "company": "Lightjams Inc.",
       "registered": true
     },
     {
