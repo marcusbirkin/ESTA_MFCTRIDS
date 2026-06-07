@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-05-31T02:44:00Z
+ * @date 2026-06-07T02:47:56Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -589,6 +589,7 @@ namespace ESTA {
 			{0x0772, L"SP-Quality"s},
 			{0x0773, L"Papouch s.r.o."s},
 			{0x0776, L"lumenetix"s},
+			{0x0777, L"Antalya Elektronik Mühendislik Sanayi ve Tic Ltd Şti."s},
 			{0x077A, L"Oblique Systems"s},
 			{0x077B, L"GENLED Brands"s},
 			{0x0780, L"Zedfy GmbH"s},
@@ -646,6 +647,7 @@ namespace ESTA {
 			{0x07E9, L"TechLink Co., Ltd."s},
 			{0x07EA, L"Le Maitre Ltd"s},
 			{0x07EC, L"Image Show LLC"s},
+			{0x07ED, L"Lightjams Inc."s},
 			{0x07EF, L"Guangzhou V-Show Pro Lighting Co., Ltd."s},
 			{0x07F0, L"Lifud Technology Co., Ltd"s},
 			{0x07F2, L"CB Electronics"s},
