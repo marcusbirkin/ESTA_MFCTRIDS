@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-06-07T02:47:56Z
+ * @date 2026-06-14T02:52:00Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -664,7 +664,7 @@ namespace ESTA {
 			{0x07FE, L"Shenzhen Apexls Optoelectronic Co., Ltd."s},
 			{0x07FF, L"Guangzhou HOMEI LIGHT Manufacturer"s},
 			{0x0800, L"Hongyeah Light"s},
-			{0x0801, L"Guangzhou Favolite Stage Lighting Co., Ltd."s},
+			{0x0801, L"Foshan Favolite Stage Lighting Co., Ltd."s},
 			{0x0802, L"AstralPool"s},
 			{0x0803, L"Guangzhou FutureColor Electronic Technology Co., Ltd."s},
 			{0x0804, L"K&G Visual Technology"s},
