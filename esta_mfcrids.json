@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-06-14T02:52:30Z",
+  "lastUpdated": "2026-06-21T02:56:04Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2372,6 +2372,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1455,
+      "organizationName": "",
+      "company": "GUANGZHOU SIGWON ELECTRONICS CO., LTD",
+      "registered": true
+    },
+    {
       "manufacturerID": 1461,
       "organizationName": "",
       "company": "Turkowski GmbH",
@@ -2870,6 +2876,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1729,
+      "organizationName": "",
+      "company": "COLORFUL LIGHT TECHNOLOGY CO., LTD.",
+      "registered": true
+    },
+    {
       "manufacturerID": 1732,
       "organizationName": "",
       "company": "RHENAC Systems GmbH",
@@ -3308,6 +3320,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1908,
+      "organizationName": "",
+      "company": "Guangzhou Hongcheng Stage Lighting Equipment Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 1910,
       "organizationName": "",
       "company": "lumenetix",
@@ -3557,6 +3575,12 @@
       "manufacturerID": 1992,
       "organizationName": "",
       "company": "Sidus Link Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1995,
+      "organizationName": "",
+      "company": "ilLumenate Lighting",
       "registered": true
     },
     {
@@ -3890,6 +3914,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2075,
+      "organizationName": "",
+      "company": "Guangzhou Rainstar Photoelectric Technology Co.,Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2076,
       "organizationName": "",
       "company": "MR Electronics Ltd.",
@@ -3935,6 +3965,12 @@
       "manufacturerID": 2089,
       "organizationName": "",
       "company": "CR-TEC Photoelectric",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2090,
+      "organizationName": "",
+      "company": "Theatrically Jerry LLC",
       "registered": true
     },
     {
