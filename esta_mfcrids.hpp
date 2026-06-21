@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-06-14T02:52:00Z
+ * @date 2026-06-21T02:55:37Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -432,6 +432,7 @@ namespace ESTA {
 			{0x05A8, L"Owl Labs"s},
 			{0x05AB, L"Shenzhen Lesan Lighting Co., Ltd."s},
 			{0x05AC, L"PRstage"s},
+			{0x05AF, L"GUANGZHOU SIGWON ELECTRONICS CO., LTD"s},
 			{0x05B5, L"Turkowski GmbH"s},
 			{0x05BC, L"CantoUSA"s},
 			{0x05C0, L"Vertigo"s},
@@ -515,6 +516,7 @@ namespace ESTA {
 			{0x06BA, L"Lightner"s},
 			{0x06BB, L"IQ COMPANY Ltd."s},
 			{0x06C0, L"ANTILATENCY LTD"s},
+			{0x06C1, L"COLORFUL LIGHT TECHNOLOGY CO., LTD."s},
 			{0x06C4, L"RHENAC Systems GmbH"s},
 			{0x06C5, L"ZHIYUN INFORMATION (INTERNATIONAL) TECHNOLOGY CO., LIMITED"s},
 			{0x06C7, L"L&L Luce&Light"s},
@@ -588,6 +590,7 @@ namespace ESTA {
 			{0x076E, L"DecoLed, LLC"s},
 			{0x0772, L"SP-Quality"s},
 			{0x0773, L"Papouch s.r.o."s},
+			{0x0774, L"Guangzhou Hongcheng Stage Lighting Equipment Co., Ltd."s},
 			{0x0776, L"lumenetix"s},
 			{0x0777, L"Antalya Elektronik Mühendislik Sanayi ve Tic Ltd Şti."s},
 			{0x077A, L"Oblique Systems"s},
@@ -630,6 +633,7 @@ namespace ESTA {
 			{0x07C5, L"SBS Lighting LLC"s},
 			{0x07C6, L"BK Lighting"s},
 			{0x07C8, L"Sidus Link Ltd."s},
+			{0x07CB, L"ilLumenate Lighting"s},
 			{0x07CC, L"Griven S.r.l."s},
 			{0x07CF, L"MH-Sound"s},
 			{0x07D1, L"Made By Mouse LTD"s},
@@ -685,6 +689,7 @@ namespace ESTA {
 			{0x0814, L"squareV"s},
 			{0x0815, L"Q Squared Systems, LLC"s},
 			{0x0816, L"Benjamin Graf Ton- und Medientechnik"s},
+			{0x081B, L"Guangzhou Rainstar Photoelectric Technology Co.,Ltd"s},
 			{0x081C, L"MR Electronics Ltd."s},
 			{0x081E, L"LOBO Electronic GmbH"s},
 			{0x0822, L"Hangzhou YD Illumination Co., Ltd"s},
@@ -693,6 +698,7 @@ namespace ESTA {
 			{0x0826, L"Easy Wireless Hire Limited t/a CORE Lighting"s},
 			{0x0827, L"PIXREAL"s},
 			{0x0829, L"CR-TEC Photoelectric"s},
+			{0x082A, L"Theatrically Jerry LLC"s},
 			{0x082B, L"Changsha ZMIOT Co., Ltd."s},
 			{0x082C, L"RIVA GmbH Engineering"s},
 			{0x082E, L"QubiCast GmbH"s},
