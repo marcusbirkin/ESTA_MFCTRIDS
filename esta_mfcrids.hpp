@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-06-21T02:55:37Z
+ * @date 2026-06-28T02:43:46Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -588,6 +588,7 @@ namespace ESTA {
 			{0x0766, L"MR-Space LLC"s},
 			{0x076A, L"BeamZ  (Tronios B.V.)"s},
 			{0x076E, L"DecoLed, LLC"s},
+			{0x0770, L"M-Live s.r.l."s},
 			{0x0772, L"SP-Quality"s},
 			{0x0773, L"Papouch s.r.o."s},
 			{0x0774, L"Guangzhou Hongcheng Stage Lighting Equipment Co., Ltd."s},
