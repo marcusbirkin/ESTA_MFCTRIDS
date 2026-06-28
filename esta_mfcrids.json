@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-06-21T02:56:04Z",
+  "lastUpdated": "2026-06-28T02:44:20Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3305,6 +3305,12 @@
       "manufacturerID": 1902,
       "organizationName": "",
       "company": "DecoLed, LLC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1904,
+      "organizationName": "",
+      "company": "M-Live s.r.l.",
       "registered": true
     },
     {
