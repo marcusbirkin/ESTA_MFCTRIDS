@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-06-28T02:43:46Z
+ * @date 2026-07-05T02:23:40Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -470,6 +470,7 @@ namespace ESTA {
 			{0x0638, L"ROLITECH LIMITED"s},
 			{0x063A, L"AVM Belgium BVBA"s},
 			{0x063C, L"LaserNet"s},
+			{0x0642, L"RavLight"s},
 			{0x0644, L"COLEDER DISPLAY CO., LTD."s},
 			{0x0645, L"MATSUMURA ELECTRIC MFG. CO. , LTD."s},
 			{0x064A, L"RZ LIGHTING CO., LTD"s},
@@ -931,6 +932,7 @@ namespace ESTA {
 			{0x0921, L"Guangzhou mengyi stage lighting equipment co., LTD."s},
 			{0x0922, L"von Gaisberg Engineering"s},
 			{0x0923, L"Hangzhou Roleds Lighting System Co., Ltd."s},
+			{0x0924, L"Guangzhou Crolighting CO., LTD"s},
 			{0x0925, L"Guangzhou Aiweidy Lighting Acoustics Equipment Co.,Ltd."s},
 			{0x0926, L"Elumeros Lighting Limited"s},
 			{0x0927, L"Guangzhou Mingying Electronic Technology Co., Ltd."s},
