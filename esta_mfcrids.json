@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-06-28T02:44:20Z",
+  "lastUpdated": "2026-07-05T02:24:06Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2597,6 +2597,12 @@
       "manufacturerID": 1596,
       "organizationName": "",
       "company": "LaserNet",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1602,
+      "organizationName": "",
+      "company": "RavLight",
       "registered": true
     },
     {
@@ -5363,6 +5369,12 @@
       "manufacturerID": 2339,
       "organizationName": "",
       "company": "Hangzhou Roleds Lighting System Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2340,
+      "organizationName": "",
+      "company": "Guangzhou Crolighting CO., LTD",
       "registered": true
     },
     {
