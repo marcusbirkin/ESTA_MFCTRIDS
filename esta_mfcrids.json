@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-07-05T02:24:06Z",
+  "lastUpdated": "2026-07-12T01:59:34Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2156,6 +2156,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1250,
+      "organizationName": "",
+      "company": "TOKI CORPORATION",
+      "registered": true
+    },
+    {
       "manufacturerID": 1254,
       "organizationName": "",
       "company": "Kelvix",
@@ -2531,6 +2537,12 @@
       "manufacturerID": 1551,
       "organizationName": "",
       "company": "ILLUMINATE",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1553,
+      "organizationName": "",
+      "company": "MODE China",
       "registered": true
     },
     {
@@ -3647,6 +3659,12 @@
       "manufacturerID": 2012,
       "organizationName": "",
       "company": "EVLight (Guangzhou) Co.,Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2016,
+      "organizationName": "",
+      "company": "Olivers Technology Inc.",
       "registered": true
     },
     {
@@ -8033,6 +8051,12 @@
       "manufacturerID": 17185,
       "organizationName": "",
       "company": "Design Partners of Canada",
+      "registered": true
+    },
+    {
+      "manufacturerID": 17194,
+      "organizationName": "",
+      "company": "432audio",
       "registered": true
     },
     {
