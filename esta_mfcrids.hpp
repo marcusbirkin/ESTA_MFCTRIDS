@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-07-05T02:23:40Z
+ * @date 2026-07-12T01:59:10Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -396,6 +396,7 @@ namespace ESTA {
 			{0x04D8, L"Guangzhou Hong Yuan Electronic Technology Co., LTD."s},
 			{0x04DC, L"Modern Stage Service Projects"s},
 			{0x04DD, L"Topstriving Photoelectricity Technology Co., Ltd."s},
+			{0x04E2, L"TOKI CORPORATION"s},
 			{0x04E6, L"Kelvix"s},
 			{0x04EE, L"Tivoli Lighting"s},
 			{0x04F0, L"SIGMA NET"s},
@@ -459,6 +460,7 @@ namespace ESTA {
 			{0x060B, L"Lighting Science Group (formerly LED Effects, Inc.)"s},
 			{0x060D, L"HANIL TNC  CO.,LTD"s},
 			{0x060F, L"ILLUMINATE"s},
+			{0x0611, L"MODE China"s},
 			{0x0614, L"Master FX"s},
 			{0x061C, L"LEDRAYS INC"s},
 			{0x0622, L"Lupo SRL"s},
@@ -645,6 +647,7 @@ namespace ESTA {
 			{0x07DA, L"Flytech s.r.l."s},
 			{0x07DB, L"Foshan Yihe Technology Co., Ltd"s},
 			{0x07DC, L"EVLight (Guangzhou) Co.,Ltd."s},
+			{0x07E0, L"Olivers Technology Inc."s},
 			{0x07E2, L"Lumi-Tru LTD"s},
 			{0x07E3, L"Lichtlogistik LED Support GmbH"s},
 			{0x07E4, L"Media Graph"s},
@@ -1376,6 +1379,7 @@ namespace ESTA {
 			{0x4253, L"Barco"s},
 			{0x42A2, L"Birket Engineering, Inc."s},
 			{0x4321, L"Design Partners of Canada"s},
+			{0x432A, L"432audio"s},
 			{0x4344, L"CDCA Ltd."s},
 			{0x4347, L"CAST Software"s},
 			{0x4349, L"C.I.Tronics Lighting Designers Ltda"s},
