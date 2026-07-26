@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-07-12T01:59:34Z",
+  "lastUpdated": "2026-07-26T02:02:25Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2030,6 +2030,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1150,
+      "organizationName": "",
+      "company": "TEK-LITE",
+      "registered": true
+    },
+    {
       "manufacturerID": 1152,
       "organizationName": "",
       "company": "ASUSTeK Computer Inc.",
@@ -2165,6 +2171,12 @@
       "manufacturerID": 1254,
       "organizationName": "",
       "company": "Kelvix",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1258,
+      "organizationName": "",
+      "company": "Promin",
       "registered": true
     },
     {
@@ -2399,6 +2411,12 @@
       "manufacturerID": 1472,
       "organizationName": "",
       "company": "Vertigo",
+      "registered": true
+    },
+    {
+      "manufacturerID": 92,
+      "organizationName": "",
+      "company": "SHADOW LLC",
       "registered": true
     },
     {
@@ -3104,6 +3122,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1803,
+      "organizationName": "",
+      "company": "F.&M. Vertrieb GmbH",
+      "registered": true
+    },
+    {
       "manufacturerID": 1804,
       "organizationName": "",
       "company": "Pixout SIA",
@@ -3446,6 +3470,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1950,
+      "organizationName": "",
+      "company": "Lexvision GmbH",
+      "registered": true
+    },
+    {
       "manufacturerID": 1951,
       "organizationName": "",
       "company": "VPS Group, LLC",
@@ -3593,6 +3623,12 @@
       "manufacturerID": 1990,
       "organizationName": "",
       "company": "BK Lighting",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1991,
+      "organizationName": "",
+      "company": "Logistic Lights GmbH",
       "registered": true
     },
     {
@@ -6464,6 +6500,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 4020,
+      "organizationName": "",
+      "company": "U-Tech Technology Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 4097,
       "organizationName": "",
       "company": "GENIO DA LAMPADA DE LED LTDA",
@@ -6587,6 +6629,12 @@
       "manufacturerID": 4660,
       "organizationName": "",
       "company": "ESTA",
+      "registered": true
+    },
+    {
+      "manufacturerID": 4712,
+      "organizationName": "",
+      "company": "Frontside Technology Services",
       "registered": true
     },
     {
