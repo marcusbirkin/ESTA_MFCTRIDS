@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-07-12T01:59:10Z
+ * @date 2026-07-26T02:01:56Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -375,6 +375,7 @@ namespace ESTA {
 			{0x044F, L"B2 Co., Ltd."s},
 			{0x0455, L"Lamp & Pencil"s},
 			{0x047C, L"LedsGo"s},
+			{0x047E, L"TEK-LITE"s},
 			{0x0480, L"ASUSTeK Computer Inc."s},
 			{0x0486, L"LANZ (CZ) Lighting Ltd"s},
 			{0x048E, L"Krisledz Pte. Ltd."s},
@@ -398,6 +399,7 @@ namespace ESTA {
 			{0x04DD, L"Topstriving Photoelectricity Technology Co., Ltd."s},
 			{0x04E2, L"TOKI CORPORATION"s},
 			{0x04E6, L"Kelvix"s},
+			{0x04EA, L"Promin"s},
 			{0x04EE, L"Tivoli Lighting"s},
 			{0x04F0, L"SIGMA NET"s},
 			{0x04F4, L"Zeraus"s},
@@ -437,6 +439,7 @@ namespace ESTA {
 			{0x05B5, L"Turkowski GmbH"s},
 			{0x05BC, L"CantoUSA"s},
 			{0x05C0, L"Vertigo"s},
+			{0x005C, L"SHADOW LLC"s},
 			{0x05CF, L"Brighten Technology Development Co., Ltd."s},
 			{0x05D0, L"DENSOKOGEI"s},
 			{0x05D3, L"D-LED Illumination Technologies Ltd."s},
@@ -554,6 +557,7 @@ namespace ESTA {
 			{0x0707, L"Conceptinetics Technologies and Consultancy Ltd."s},
 			{0x0708, L"AK-LIGHT"s},
 			{0x070A, L"NXT Lights"s},
+			{0x070B, L"F.&M. Vertrieb GmbH"s},
 			{0x070C, L"Pixout SIA"s},
 			{0x070D, L"Lumenwerx ULC"s},
 			{0x070E, L"PragmaLab"s},
@@ -611,6 +615,7 @@ namespace ESTA {
 			{0x0793, L"IMLTLED Technology Co., Ltd."s},
 			{0x0797, L"ARCPROLED Limited"s},
 			{0x079B, L"Pro Church Lights"s},
+			{0x079E, L"Lexvision GmbH"s},
 			{0x079F, L"VPS Group, LLC"s},
 			{0x07A1, L"Interface-Z"s},
 			{0x07A3, L"Guangzhou GBR PROLIGHT GROUP CO.,LTD (GBR PROLIGHT)"s},
@@ -636,6 +641,7 @@ namespace ESTA {
 			{0x07C2, L"BOOQlight BV"s},
 			{0x07C5, L"SBS Lighting LLC"s},
 			{0x07C6, L"BK Lighting"s},
+			{0x07C7, L"Logistic Lights GmbH"s},
 			{0x07C8, L"Sidus Link Ltd."s},
 			{0x07CB, L"ilLumenate Lighting"s},
 			{0x07CC, L"Griven S.r.l."s},
@@ -1114,6 +1120,7 @@ namespace ESTA {
 			{0x0AAA, L"AAA-LUX"s},
 			{0x0D0C, L"SmartDC Inc."s},
 			{0x0D0E, L"DMX Engineering LLC"s},
+			{0x0FB4, L"U-Tech Technology Co., Ltd."s},
 			{0x1001, L"GENIO DA LAMPADA DE LED LTDA"s},
 			{0x1112, L"Zhuhai Bincolor Electronic Technology Co., Ltd."s},
 			{0x1113, L"SiliconCore Technology, Inc."s},
@@ -1135,6 +1142,7 @@ namespace ESTA {
 			{0x1221, L"SAGITTER-SDJ-Proel"s},
 			{0x1222, L"SM International"s},
 			{0x1234, L"ESTA"s},
+			{0x1268, L"Frontside Technology Services"s},
 			{0x12DA, L"Newlab S.r.l."s},
 			{0x12E0, L"Luxlight Skandinavien AB"s},
 			{0x12EA, L"Kolberg Percussion GmbH"s},
