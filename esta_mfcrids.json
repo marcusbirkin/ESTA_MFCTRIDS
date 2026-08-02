@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-07-26T02:02:25Z",
+  "lastUpdated": "2026-08-02T02:02:39Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -6632,9 +6632,27 @@
       "registered": true
     },
     {
+      "manufacturerID": 4672,
+      "organizationName": "",
+      "company": "Canary Yellow Applications",
+      "registered": true
+    },
+    {
+      "manufacturerID": 4692,
+      "organizationName": "",
+      "company": "Griffin Lighting Solutions Inc.",
+      "registered": true
+    },
+    {
       "manufacturerID": 4712,
       "organizationName": "",
       "company": "Frontside Technology Services",
+      "registered": true
+    },
+    {
+      "manufacturerID": 4734,
+      "organizationName": "",
+      "company": "Symphony Interactive Inc",
       "registered": true
     },
     {
@@ -6713,6 +6731,12 @@
       "manufacturerID": 5220,
       "organizationName": "",
       "company": "HUMAL Elektroonika OU",
+      "registered": true
+    },
+    {
+      "manufacturerID": 5257,
+      "organizationName": "",
+      "company": "ORVIT Entertainment Inc.",
       "registered": true
     },
     {
@@ -6962,6 +6986,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 6567,
+      "organizationName": "",
+      "company": "Djip Co Industries",
+      "registered": true
+    },
+    {
       "manufacturerID": 6585,
       "organizationName": "",
       "company": "Duralamp S.p.A.",
@@ -7019,6 +7049,12 @@
       "manufacturerID": 6717,
       "organizationName": "",
       "company": "Red Lighting s.r.l.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 6744,
+      "organizationName": "",
+      "company": "Wuxi Seastar Lighting Co.,Ltd.",
       "registered": true
     },
     {
