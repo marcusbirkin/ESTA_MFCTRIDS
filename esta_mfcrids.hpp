@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-07-26T02:01:56Z
+ * @date 2026-08-02T02:01:51Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -1142,7 +1142,10 @@ namespace ESTA {
 			{0x1221, L"SAGITTER-SDJ-Proel"s},
 			{0x1222, L"SM International"s},
 			{0x1234, L"ESTA"s},
+			{0x1240, L"Canary Yellow Applications"s},
+			{0x1254, L"Griffin Lighting Solutions Inc."s},
 			{0x1268, L"Frontside Technology Services"s},
+			{0x127E, L"Symphony Interactive Inc"s},
 			{0x12DA, L"Newlab S.r.l."s},
 			{0x12E0, L"Luxlight Skandinavien AB"s},
 			{0x12EA, L"Kolberg Percussion GmbH"s},
@@ -1156,6 +1159,7 @@ namespace ESTA {
 			{0x13AE, L"Smartpark Creative Solutions"s},
 			{0x1460, L"SEIKO Epson Corporation"s},
 			{0x1464, L"HUMAL Elektroonika OU"s},
+			{0x1489, L"ORVIT Entertainment Inc."s},
 			{0x1490, L"Grid Show Systems Inc."s},
 			{0x14A0, L"Intense Lighting, LLC"s},
 			{0x14AC, L"Zaklad Elektroniczny AGAT s.c."s},
@@ -1197,6 +1201,7 @@ namespace ESTA {
 			{0x1901, L"Zhongshan Hiline Electronics Co., Ltd."s},
 			{0x1938, L"Solid State Luminaires"s},
 			{0x1998, L"PLS Electronics Ltd."s},
+			{0x19A7, L"Djip Co Industries"s},
 			{0x19B9, L"Duralamp S.p.A."s},
 			{0x19BA, L"Guangzhou Xinzhijie Photoelectric Co., Ltd."s},
 			{0x19BB, L"Panalux Ltd."s},
@@ -1207,6 +1212,7 @@ namespace ESTA {
 			{0x1A16, L"WADAK GmbH"s},
 			{0x1A1A, L"ValDim Waterfountains Ltd."s},
 			{0x1A3D, L"Red Lighting s.r.l."s},
+			{0x1A58, L"Wuxi Seastar Lighting Co.,Ltd."s},
 			{0x1AFA, L"TMB"s},
 			{0x1BB1, L"PH Lightning AB"s},
 			{0x1BC0, L"ALS Stanislaw Binkiewicz"s},
