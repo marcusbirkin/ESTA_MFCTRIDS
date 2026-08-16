@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-08-02T02:01:51Z
+ * @date 2026-08-16T00:50:25Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -359,6 +359,7 @@ namespace ESTA {
 			{0x03E8, L"Acson"s},
 			{0x03F0, L"jpbaye.de"s},
 			{0x03FA, L"ART-DMX"s},
+			{0x03FD, L"Guangzhou DWM Lighting Co.,Ltd"s},
 			{0x0402, L"Exato"s},
 			{0x0404, L"Luminxa"s},
 			{0x040E, L"Optoma Corporation"s},
@@ -648,6 +649,7 @@ namespace ESTA {
 			{0x07CF, L"MH-Sound"s},
 			{0x07D1, L"Made By Mouse LTD"s},
 			{0x07D2, L"Guangdong The One Studio Co., Limited"s},
+			{0x07D4, L"Sense Solutions"s},
 			{0x07D5, L"PHIDA Stage Equipment Co., Ltd"s},
 			{0x07D6, L"Lite Puter Enterprise Co., Ltd."s},
 			{0x07DA, L"Flytech s.r.l."s},
@@ -1206,6 +1208,7 @@ namespace ESTA {
 			{0x19BA, L"Guangzhou Xinzhijie Photoelectric Co., Ltd."s},
 			{0x19BB, L"Panalux Ltd."s},
 			{0x19BC, L"Newtone AS"s},
+			{0x19D7, L"TPK Optoelectronic Tech Co., Ltd."s},
 			{0x19F8, L"CEZOS Spolka z ograniczona odpowiedzialnoscia, sp.k."s},
 			{0x1A00, L"LIGEO GmbH"s},
 			{0x1A0D, L"Cineo Lighting"s},
@@ -1214,6 +1217,7 @@ namespace ESTA {
 			{0x1A3D, L"Red Lighting s.r.l."s},
 			{0x1A58, L"Wuxi Seastar Lighting Co.,Ltd."s},
 			{0x1AFA, L"TMB"s},
+			{0x1AFD, L"Shenzhen ZMO Information Technology Co., Ltd."s},
 			{0x1BB1, L"PH Lightning AB"s},
 			{0x1BC0, L"ALS Stanislaw Binkiewicz"s},
 			{0x1BC6, L"Studio S Music City"s},
@@ -1802,6 +1806,7 @@ namespace ESTA {
 			{0x7FFD, L"RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"s},
 			{0x7FFE, L"RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"s},
 			{0x7FFF, L"RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"s},
+			{0x890D, L"Guangzhou Shengyuan Electronic Technology Co., Ltd"s},
 			{0xFFFF, L"ESTA"s},
 
 		}; // std::map
