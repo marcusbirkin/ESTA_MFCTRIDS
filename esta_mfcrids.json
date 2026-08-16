@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-08-02T02:02:39Z",
+  "lastUpdated": "2026-08-16T00:50:58Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1934,6 +1934,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 1021,
+      "organizationName": "",
+      "company": "Guangzhou DWM Lighting Co.,Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 1026,
       "organizationName": "",
       "company": "Exato",
@@ -3665,6 +3671,12 @@
       "manufacturerID": 2002,
       "organizationName": "",
       "company": "Guangdong The One Studio Co., Limited",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2004,
+      "organizationName": "",
+      "company": "Sense Solutions",
       "registered": true
     },
     {
@@ -7016,6 +7028,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 6615,
+      "organizationName": "",
+      "company": "TPK Optoelectronic Tech Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 6648,
       "organizationName": "",
       "company": "CEZOS Spolka z ograniczona odpowiedzialnoscia, sp.k.",
@@ -7061,6 +7079,12 @@
       "manufacturerID": 6906,
       "organizationName": "",
       "company": "TMB",
+      "registered": true
+    },
+    {
+      "manufacturerID": 6909,
+      "organizationName": "",
+      "company": "Shenzhen ZMO Information Technology Co., Ltd.",
       "registered": true
     },
     {
@@ -10589,6 +10613,12 @@
       "manufacturerID": 32767,
       "organizationName": "",
       "company": "RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY",
+      "registered": true
+    },
+    {
+      "manufacturerID": 35085,
+      "organizationName": "",
+      "company": "Guangzhou Shengyuan Electronic Technology Co., Ltd",
       "registered": true
     },
     {
