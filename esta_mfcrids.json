@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-08-16T00:50:58Z",
+  "lastUpdated": "2026-08-23T00:51:58Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2615,6 +2615,12 @@
       "manufacturerID": 1579,
       "organizationName": "",
       "company": "CKC Lighting Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1585,
+      "organizationName": "",
+      "company": "AK PRO LIGHTING CO.,LTD.",
       "registered": true
     },
     {
@@ -6476,6 +6482,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2550,
+      "organizationName": "",
+      "company": "Veranstaltungstechnik L\u00f6we",
+      "registered": true
+    },
+    {
       "manufacturerID": 2552,
       "organizationName": "",
       "company": "UberDisplays",
@@ -6644,6 +6656,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 4664,
+      "organizationName": "",
+      "company": "Tirso Lighting",
+      "registered": true
+    },
+    {
       "manufacturerID": 4672,
       "organizationName": "",
       "company": "Canary Yellow Applications",
@@ -6656,9 +6674,21 @@
       "registered": true
     },
     {
+      "manufacturerID": 4698,
+      "organizationName": "",
+      "company": "Dongguan Xuancaixin Optoelectronic Technology Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 4712,
       "organizationName": "",
       "company": "Frontside Technology Services",
+      "registered": true
+    },
+    {
+      "manufacturerID": 4716,
+      "organizationName": "",
+      "company": "Pravdin Vitalii Fedotovych FOP",
       "registered": true
     },
     {
