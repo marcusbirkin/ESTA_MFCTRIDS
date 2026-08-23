@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-08-16T00:50:25Z
+ * @date 2026-08-23T00:51:30Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -473,6 +473,7 @@ namespace ESTA {
 			{0x0628, L"ERP Power"s},
 			{0x062A, L"LEDstructures"s},
 			{0x062B, L"CKC Lighting Co., Ltd."s},
+			{0x0631, L"AK PRO LIGHTING CO.,LTD."s},
 			{0x0638, L"ROLITECH LIMITED"s},
 			{0x063A, L"AVM Belgium BVBA"s},
 			{0x063C, L"LaserNet"s},
@@ -1116,6 +1117,7 @@ namespace ESTA {
 			{0x09E9, L"Starway"s},
 			{0x09EE, L"Suzhou Pinzong Electronic Technology, CO.,Ltd"s},
 			{0x09EF, L"Andrea Croce"s},
+			{0x09F6, L"Veranstaltungstechnik Löwe"s},
 			{0x09F8, L"UberDisplays"s},
 			{0x09FC, L"deskontrol electronics"s},
 			{0x0A01, L"Star-Reach Corporation"s},
@@ -1144,9 +1146,12 @@ namespace ESTA {
 			{0x1221, L"SAGITTER-SDJ-Proel"s},
 			{0x1222, L"SM International"s},
 			{0x1234, L"ESTA"s},
+			{0x1238, L"Tirso Lighting"s},
 			{0x1240, L"Canary Yellow Applications"s},
 			{0x1254, L"Griffin Lighting Solutions Inc."s},
+			{0x125A, L"Dongguan Xuancaixin Optoelectronic Technology Co., Ltd."s},
 			{0x1268, L"Frontside Technology Services"s},
+			{0x126C, L"Pravdin Vitalii Fedotovych FOP"s},
 			{0x127E, L"Symphony Interactive Inc"s},
 			{0x12DA, L"Newlab S.r.l."s},
 			{0x12E0, L"Luxlight Skandinavien AB"s},
