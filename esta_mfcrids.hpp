@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-08-23T00:51:30Z
+ * @date 2026-08-30T02:48:24Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -1209,6 +1209,7 @@ namespace ESTA {
 			{0x1938, L"Solid State Luminaires"s},
 			{0x1998, L"PLS Electronics Ltd."s},
 			{0x19A7, L"Djip Co Industries"s},
+			{0x19B3, L"Stage Audio Works"s},
 			{0x19B9, L"Duralamp S.p.A."s},
 			{0x19BA, L"Guangzhou Xinzhijie Photoelectric Co., Ltd."s},
 			{0x19BB, L"Panalux Ltd."s},
@@ -1223,6 +1224,7 @@ namespace ESTA {
 			{0x1A58, L"Wuxi Seastar Lighting Co.,Ltd."s},
 			{0x1AFA, L"TMB"s},
 			{0x1AFD, L"Shenzhen ZMO Information Technology Co., Ltd."s},
+			{0x1B7E, L"Kaltech Lighting Systems"s},
 			{0x1BB1, L"PH Lightning AB"s},
 			{0x1BC0, L"ALS Stanislaw Binkiewicz"s},
 			{0x1BC6, L"Studio S Music City"s},
@@ -1763,6 +1765,7 @@ namespace ESTA {
 			{0x7403, L"Yenrich Technology Corporation"s},
 			{0x7764, L"WET"s},
 			{0x7765, L"MKT engineering GmbH & Co. KG"s},
+			{0x7768, L"MD teknoloji"s},
 			{0x7777, L"DVT Light"s},
 			{0x7788, L"DigitaLicht AG"s},
 			{0x780E, L"Mole-Richardson Co."s},
