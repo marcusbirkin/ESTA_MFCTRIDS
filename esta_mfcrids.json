@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-08-23T00:51:58Z",
+  "lastUpdated": "2026-08-30T02:48:50Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -7034,6 +7034,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 6579,
+      "organizationName": "",
+      "company": "Stage Audio Works",
+      "registered": true
+    },
+    {
       "manufacturerID": 6585,
       "organizationName": "",
       "company": "Duralamp S.p.A.",
@@ -7115,6 +7121,12 @@
       "manufacturerID": 6909,
       "organizationName": "",
       "company": "Shenzhen ZMO Information Technology Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 7038,
+      "organizationName": "",
+      "company": "Kaltech Lighting Systems",
       "registered": true
     },
     {
@@ -10355,6 +10367,12 @@
       "manufacturerID": 30565,
       "organizationName": "",
       "company": "MKT engineering GmbH & Co. KG",
+      "registered": true
+    },
+    {
+      "manufacturerID": 30568,
+      "organizationName": "",
+      "company": "MD teknoloji",
       "registered": true
     },
     {
