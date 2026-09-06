@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-08-30T02:48:24Z
+ * @date 2026-09-06T02:12:32Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -348,6 +348,7 @@ namespace ESTA {
 			{0x039B, L"Lightforce Lasertechnik"s},
 			{0x03A1, L"INAREX INC."s},
 			{0x03A2, L"licht.team"s},
+			{0x03A3, L"MITKOM"s},
 			{0x03A8, L"ARTFOX"s},
 			{0x03AA, L"AIGA Electronic (GuangZhou) Co., Ltd."s},
 			{0x03AB, L"ABMICROLONDON"s},
@@ -647,6 +648,7 @@ namespace ESTA {
 			{0x07C8, L"Sidus Link Ltd."s},
 			{0x07CB, L"ilLumenate Lighting"s},
 			{0x07CC, L"Griven S.r.l."s},
+			{0x07CD, L"Fresh AV Labs"s},
 			{0x07CF, L"MH-Sound"s},
 			{0x07D1, L"Made By Mouse LTD"s},
 			{0x07D2, L"Guangdong The One Studio Co., Limited"s},
@@ -1145,6 +1147,7 @@ namespace ESTA {
 			{0x1212, L"HPL Light Company"s},
 			{0x1221, L"SAGITTER-SDJ-Proel"s},
 			{0x1222, L"SM International"s},
+			{0x122A, L"Guangzhou Magic Technology Co., Ltd."s},
 			{0x1234, L"ESTA"s},
 			{0x1238, L"Tirso Lighting"s},
 			{0x1240, L"Canary Yellow Applications"s},
@@ -1222,6 +1225,7 @@ namespace ESTA {
 			{0x1A1A, L"ValDim Waterfountains Ltd."s},
 			{0x1A3D, L"Red Lighting s.r.l."s},
 			{0x1A58, L"Wuxi Seastar Lighting Co.,Ltd."s},
+			{0x1AAF, L"Gigacolor  technology Co., Ltd."s},
 			{0x1AFA, L"TMB"s},
 			{0x1AFD, L"Shenzhen ZMO Information Technology Co., Ltd."s},
 			{0x1B7E, L"Kaltech Lighting Systems"s},
@@ -1763,6 +1767,7 @@ namespace ESTA {
 			{0x7401, L"Harvatek Corporation"s},
 			{0x7402, L"Chris Kallas"s},
 			{0x7403, L"Yenrich Technology Corporation"s},
+			{0x7471, L"JG Technical Services"s},
 			{0x7764, L"WET"s},
 			{0x7765, L"MKT engineering GmbH & Co. KG"s},
 			{0x7768, L"MD teknoloji"s},
