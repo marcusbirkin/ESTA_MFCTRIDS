@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-08-30T02:48:50Z",
+  "lastUpdated": "2026-09-06T02:12:57Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1868,6 +1868,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 931,
+      "organizationName": "",
+      "company": "MITKOM",
+      "registered": true
+    },
+    {
       "manufacturerID": 936,
       "organizationName": "",
       "company": "ARTFOX",
@@ -3659,6 +3665,12 @@
       "manufacturerID": 1996,
       "organizationName": "",
       "company": "Griven S.r.l.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1997,
+      "organizationName": "",
+      "company": "Fresh AV Labs",
       "registered": true
     },
     {
@@ -6650,6 +6662,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 4650,
+      "organizationName": "",
+      "company": "Guangzhou Magic Technology Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 4660,
       "organizationName": "",
       "company": "ESTA",
@@ -7109,6 +7127,12 @@
       "manufacturerID": 6744,
       "organizationName": "",
       "company": "Wuxi Seastar Lighting Co.,Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 6831,
+      "organizationName": "",
+      "company": "Gigacolor  technology Co., Ltd.",
       "registered": true
     },
     {
@@ -10356,6 +10380,12 @@
       "organizationName": "",
       "company": "Yenrich Technology Corporation",
       "registered": true
+    },
+    {
+      "manufacturerID": 29809,
+      "organizationName": "",
+      "company": "JG Technical Services",
+      "registered": false
     },
     {
       "manufacturerID": 30564,
