@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-09-06T02:12:32Z
+ * @date 2026-09-13T02:24:49Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -1160,6 +1160,7 @@ namespace ESTA {
 			{0x12E0, L"Luxlight Skandinavien AB"s},
 			{0x12EA, L"Kolberg Percussion GmbH"s},
 			{0x12F4, L"Stage Services Ltd."s},
+			{0x12F4, L"Optikinetics Limited"s},
 			{0x12FA, L"Hollywood Rentals LLC"s},
 			{0x12FE, L"City Design S.p.A."s},
 			{0x131E, L"Blossom Communications Corp."s},
@@ -1206,6 +1207,7 @@ namespace ESTA {
 			{0x1872, L"Super-Can Industry Growing Co. Ltd."s},
 			{0x1873, L"Zhongshan Wellmake Electronic Technology Co., Ltd."s},
 			{0x1888, L"GUANZHOU KAVON STAGE EQUIPMENT CO., LTD."s},
+			{0x1896, L"Triple E Ltd"s},
 			{0x18A6, L"Steadfast Technology"s},
 			{0x1900, L"ADJ Products LLC"s},
 			{0x1901, L"Zhongshan Hiline Electronics Co., Ltd."s},
