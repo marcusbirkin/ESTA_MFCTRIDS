@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-09-06T02:12:57Z",
+  "lastUpdated": "2026-09-13T02:25:21Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -6740,6 +6740,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 4852,
+      "organizationName": "",
+      "company": "Optikinetics Limited",
+      "registered": true
+    },
+    {
       "manufacturerID": 4858,
       "organizationName": "",
       "company": "Hollywood Rentals LLC",
@@ -7013,6 +7019,12 @@
       "manufacturerID": 6280,
       "organizationName": "",
       "company": "GUANZHOU KAVON STAGE EQUIPMENT CO., LTD.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 6294,
+      "organizationName": "",
+      "company": "Triple E Ltd",
       "registered": true
     },
     {
