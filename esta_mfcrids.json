@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-09-13T02:25:21Z",
+  "lastUpdated": "2026-09-20T02:41:35Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4091,6 +4091,12 @@
       "manufacturerID": 2096,
       "organizationName": "",
       "company": "PulseWorx",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2097,
+      "organizationName": "",
+      "company": "Jim Eischen Designs LLC",
       "registered": true
     },
     {
