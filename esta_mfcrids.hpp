@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-09-13T02:24:49Z
+ * @date 2026-09-20T02:41:12Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -719,6 +719,7 @@ namespace ESTA {
 			{0x082C, L"RIVA GmbH Engineering"s},
 			{0x082E, L"QubiCast GmbH"s},
 			{0x0830, L"PulseWorx"s},
+			{0x0831, L"Jim Eischen Designs LLC"s},
 			{0x0832, L"Shenzhen EXC-LED Technology Co.,Ltd"s},
 			{0x0835, L"Guangdong Fahold Electronics Co., Ltd."s},
 			{0x0836, L"Nyvoll Lys"s},
