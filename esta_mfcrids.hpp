@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-09-20T02:41:12Z
+ * @date 2026-09-27T02:51:46Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -1157,6 +1157,7 @@ namespace ESTA {
 			{0x1268, L"Frontside Technology Services"s},
 			{0x126C, L"Pravdin Vitalii Fedotovych FOP"s},
 			{0x127E, L"Symphony Interactive Inc"s},
+			{0x12B0, L"Novoshine Semiconductor Technology Co., Ltd."s},
 			{0x12DA, L"Newlab S.r.l."s},
 			{0x12E0, L"Luxlight Skandinavien AB"s},
 			{0x12EA, L"Kolberg Percussion GmbH"s},
@@ -1782,6 +1783,7 @@ namespace ESTA {
 			{0x7888, L"Tontron Photoelectric Co., Limited"s},
 			{0x78B4, L"LED Flex Limited"s},
 			{0x7900, L"Leprecon / CAE, Inc."s},
+			{0x790D, L"Guangzhou Shengyuan Electronic Technology Co., Ltd"s},
 			{0x79BC, L"DC Reactive"s},
 			{0x7A70, L"Open Lighting"s},
 			{0x7AA0, L"Anaren Inc."s},
@@ -1822,7 +1824,6 @@ namespace ESTA {
 			{0x7FFD, L"RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"s},
 			{0x7FFE, L"RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"s},
 			{0x7FFF, L"RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY"s},
-			{0x890D, L"Guangzhou Shengyuan Electronic Technology Co., Ltd"s},
 			{0xFFFF, L"ESTA"s},
 
 		}; // std::map
