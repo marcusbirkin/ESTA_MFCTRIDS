@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-09-20T02:41:35Z",
+  "lastUpdated": "2026-09-27T02:52:18Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -6722,6 +6722,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 4784,
+      "organizationName": "",
+      "company": "Novoshine Semiconductor Technology Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 4826,
       "organizationName": "",
       "company": "Newlab S.r.l.",
@@ -10472,6 +10478,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 30989,
+      "organizationName": "",
+      "company": "Guangzhou Shengyuan Electronic Technology Co., Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 31164,
       "organizationName": "",
       "company": "DC Reactive",
@@ -10709,12 +10721,6 @@
       "manufacturerID": 32767,
       "organizationName": "",
       "company": "RESERVED FOR PROTOTYPING/EXPERIMENTAL USE ONLY",
-      "registered": true
-    },
-    {
-      "manufacturerID": 35085,
-      "organizationName": "",
-      "company": "Guangzhou Shengyuan Electronic Technology Co., Ltd",
       "registered": true
     },
     {
