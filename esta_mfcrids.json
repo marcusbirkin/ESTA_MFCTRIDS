@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-09-27T02:52:18Z",
+  "lastUpdated": "2026-10-04T03:38:20Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -4958,6 +4958,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2253,
+      "organizationName": "",
+      "company": "RAVE.productions",
+      "registered": true
+    },
+    {
       "manufacturerID": 2254,
       "organizationName": "",
       "company": "Zhejiang DGX Electronic Technology Co.,Ltd",
@@ -6134,6 +6140,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2456,
+      "organizationName": "",
+      "company": "Spaker",
+      "registered": true
+    },
+    {
       "manufacturerID": 2457,
       "organizationName": "",
       "company": "Concept Smoke Systems Ltd.",
@@ -7145,6 +7157,12 @@
       "manufacturerID": 6717,
       "organizationName": "",
       "company": "Red Lighting s.r.l.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 6726,
+      "organizationName": "",
+      "company": "StageMatter",
       "registered": true
     },
     {
