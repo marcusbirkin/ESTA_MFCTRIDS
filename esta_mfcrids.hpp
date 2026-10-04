@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-09-27T02:51:46Z
+ * @date 2026-10-04T03:37:50Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -863,6 +863,7 @@ namespace ESTA {
 			{0x08CA, L"Foshan City Xuandao Optoelectronics Equipment Co., Ltd"s},
 			{0x08CB, L"Practical LEDs.com"s},
 			{0x08CC, L"Guangzhou Santu Stage Lighting Equipment Co.Ltd"s},
+			{0x08CD, L"RAVE.productions"s},
 			{0x08CE, L"Zhejiang DGX Electronic Technology Co.,Ltd"s},
 			{0x08CF, L"Nanjing Lopu Co., Ltd"s},
 			{0x08D0, L"Image Engineering"s},
@@ -1059,6 +1060,7 @@ namespace ESTA {
 			{0x0995, L"Rasha Professional"s},
 			{0x0996, L"CCI Power Supplies, LLC"s},
 			{0x0997, L"Star Iluminacao Computadorizada LTDA"s},
+			{0x0998, L"Spaker"s},
 			{0x0999, L"Concept Smoke Systems Ltd."s},
 			{0x099A, L"Aixz International (S)"s},
 			{0x099B, L"Luminoscape Lighting Limited"s},
@@ -1228,6 +1230,7 @@ namespace ESTA {
 			{0x1A16, L"WADAK GmbH"s},
 			{0x1A1A, L"ValDim Waterfountains Ltd."s},
 			{0x1A3D, L"Red Lighting s.r.l."s},
+			{0x1A46, L"StageMatter"s},
 			{0x1A58, L"Wuxi Seastar Lighting Co.,Ltd."s},
 			{0x1AAF, L"Gigacolor  technology Co., Ltd."s},
 			{0x1AFA, L"TMB"s},
