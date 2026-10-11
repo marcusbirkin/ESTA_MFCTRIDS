@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-10-04T03:38:20Z",
+  "lastUpdated": "2026-10-11T03:12:44Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2999,6 +2999,12 @@
       "manufacturerID": 1747,
       "organizationName": "",
       "company": "Boerner Distribution International GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1748,
+      "organizationName": "",
+      "company": "LED House Co., Ltd.",
       "registered": true
     },
     {
@@ -7058,6 +7064,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 6396,
+      "organizationName": "",
+      "company": "Cinema Balloons Kft.",
+      "registered": true
+    },
+    {
       "manufacturerID": 6400,
       "organizationName": "",
       "company": "ADJ Products LLC",
@@ -7178,6 +7190,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 6882,
+      "organizationName": "",
+      "company": "Jonas R\u00fcter",
+      "registered": true
+    },
+    {
       "manufacturerID": 6906,
       "organizationName": "",
       "company": "TMB",
@@ -7235,6 +7253,12 @@
       "manufacturerID": 7821,
       "organizationName": "",
       "company": "Moda Light",
+      "registered": true
+    },
+    {
+      "manufacturerID": 7830,
+      "organizationName": "",
+      "company": "Rekjnd\u00e4l Systems",
       "registered": true
     },
     {
