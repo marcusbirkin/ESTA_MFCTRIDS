@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-10-04T03:37:50Z
+ * @date 2026-10-11T03:12:16Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -537,6 +537,7 @@ namespace ESTA {
 			{0x06D1, L"BIRUN ELECTRONIC INDUSTRIAL CO., LTD"s},
 			{0x06D2, L"LIGHTSTAR (BEIJING) ELECTRONIC CORPORATION"s},
 			{0x06D3, L"Boerner Distribution International GmbH"s},
+			{0x06D4, L"LED House Co., Ltd."s},
 			{0x06D8, L"GUANGZHOU SUN-YUN TECHNOLOGY CO.,LTD"s},
 			{0x06D9, L"ELECTROCONCEPT SARL"s},
 			{0x06DC, L"SOMPI2.0 BV"s},
@@ -1213,6 +1214,7 @@ namespace ESTA {
 			{0x1888, L"GUANZHOU KAVON STAGE EQUIPMENT CO., LTD."s},
 			{0x1896, L"Triple E Ltd"s},
 			{0x18A6, L"Steadfast Technology"s},
+			{0x18FC, L"Cinema Balloons Kft."s},
 			{0x1900, L"ADJ Products LLC"s},
 			{0x1901, L"Zhongshan Hiline Electronics Co., Ltd."s},
 			{0x1938, L"Solid State Luminaires"s},
@@ -1233,6 +1235,7 @@ namespace ESTA {
 			{0x1A46, L"StageMatter"s},
 			{0x1A58, L"Wuxi Seastar Lighting Co.,Ltd."s},
 			{0x1AAF, L"Gigacolor  technology Co., Ltd."s},
+			{0x1AE2, L"Jonas Rüter"s},
 			{0x1AFA, L"TMB"s},
 			{0x1AFD, L"Shenzhen ZMO Information Technology Co., Ltd."s},
 			{0x1B7E, L"Kaltech Lighting Systems"s},
@@ -1243,6 +1246,7 @@ namespace ESTA {
 			{0x1CAB, L"LTT sp. z o.o."s},
 			{0x1E42, L"SSE GmbH"s},
 			{0x1E8D, L"Moda Light"s},
+			{0x1E96, L"Rekjndäl Systems"s},
 			{0x1ECF, L"Masiero s.r.l."s},
 			{0x1ED8, L"Antari Lighting And Effects Ltd."s},
 			{0x2009, L"Zboxes Intelligent Technology (Shanghai) Co., Ltd."s},
