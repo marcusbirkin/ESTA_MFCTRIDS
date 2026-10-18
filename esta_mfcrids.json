@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-10-11T03:12:44Z",
+  "lastUpdated": "2026-10-18T02:24:37Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -7883,6 +7883,12 @@
       "manufacturerID": 11488,
       "organizationName": "",
       "company": "Lighting Services Inc.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 11705,
+      "organizationName": "",
+      "company": "Guangzhou Yeguang Lingdong Technology Co., Ltd.",
       "registered": true
     },
     {
