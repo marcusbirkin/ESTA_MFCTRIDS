@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-10-11T03:12:16Z
+ * @date 2026-10-18T02:24:03Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -1351,6 +1351,7 @@ namespace ESTA {
 			{0x2C1A, L"DMX4ALL GmbH"s},
 			{0x2C2A, L"XTBA"s},
 			{0x2CE0, L"Lighting Services Inc."s},
+			{0x2DB9, L"Guangzhou Yeguang Lingdong Technology Co., Ltd."s},
 			{0x2DC8, L"Stellascapes"s},
 			{0x2DDD, L"Waylight"s},
 			{0x2DDE, L"Luminlite Electronics Co., Ltd."s},
