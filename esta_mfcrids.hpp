@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-10-18T02:24:03Z
+ * @date 2026-10-25T02:34:17Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -389,6 +389,7 @@ namespace ESTA {
 			{0x04B5, L"Major"s},
 			{0x04B6, L"IntiLED"s},
 			{0x04B8, L"Guangzhou Hongcai Stage Equipment Co., Ltd."s},
+			{0x04BE, L"NOLO SAS"s},
 			{0x04C4, L"Ephesus Lighting, Inc."s},
 			{0x04CA, L"RT-DMX"s},
 			{0x04CC, L"Yubang Ruiying (Zhongshan) Electronics Co., LTD"s},
@@ -1154,6 +1155,7 @@ namespace ESTA {
 			{0x122A, L"Guangzhou Magic Technology Co., Ltd."s},
 			{0x1234, L"ESTA"s},
 			{0x1238, L"Tirso Lighting"s},
+			{0x123C, L"Arman Nurzhanov"s},
 			{0x1240, L"Canary Yellow Applications"s},
 			{0x1254, L"Griffin Lighting Solutions Inc."s},
 			{0x125A, L"Dongguan Xuancaixin Optoelectronic Technology Co., Ltd."s},
@@ -1204,6 +1206,7 @@ namespace ESTA {
 			{0x170F, L"Kezun Stage Lighting Equipment Co., Ltd."s},
 			{0x174E, L"Nordgas SNe-lightingsystem"s},
 			{0x1750, L"Yuesheng International Limited"s},
+			{0x17FA, L"AXN Systems"s},
 			{0x1808, L"Guangzhou Jinye Electronic Technology Co., Ltd."s},
 			{0x1809, L"Rotolight"s},
 			{0x180A, L"Guangdong Longjoin Optoelectronics Technology Co. Ltd."s},
@@ -1212,11 +1215,13 @@ namespace ESTA {
 			{0x1872, L"Super-Can Industry Growing Co. Ltd."s},
 			{0x1873, L"Zhongshan Wellmake Electronic Technology Co., Ltd."s},
 			{0x1888, L"GUANZHOU KAVON STAGE EQUIPMENT CO., LTD."s},
+			{0x188A, L"Kim Min Seok"s},
 			{0x1896, L"Triple E Ltd"s},
 			{0x18A6, L"Steadfast Technology"s},
 			{0x18FC, L"Cinema Balloons Kft."s},
 			{0x1900, L"ADJ Products LLC"s},
 			{0x1901, L"Zhongshan Hiline Electronics Co., Ltd."s},
+			{0x1902, L"STAGEVision tech"s},
 			{0x1938, L"Solid State Luminaires"s},
 			{0x1998, L"PLS Electronics Ltd."s},
 			{0x19A7, L"Djip Co Industries"s},
@@ -1293,6 +1298,7 @@ namespace ESTA {
 			{0x2338, L"Humanlitech Co., Ltd."s},
 			{0x2339, L"Sky-Skan Europe GmbH"s},
 			{0x233A, L"4 Frames Lost UG"s},
+			{0x2394, L"Oriol Calabuig Alemany"s},
 			{0x23B2, L"Gekko Technology Ltd."s},
 			{0x2421, L"HB-Laserkomponenten GmbH"s},
 			{0x242A, L"Hungaroflash"s},
@@ -1351,7 +1357,7 @@ namespace ESTA {
 			{0x2C1A, L"DMX4ALL GmbH"s},
 			{0x2C2A, L"XTBA"s},
 			{0x2CE0, L"Lighting Services Inc."s},
-			{0x2DB9, L"Guangzhou Yeguang Lingdong Technology Co., Ltd."s},
+			{0x2DB9, L"Guangzhou Jiuhao Electronic Technology Co., Ltd."s},
 			{0x2DC8, L"Stellascapes"s},
 			{0x2DDD, L"Waylight"s},
 			{0x2DDE, L"Luminlite Electronics Co., Ltd."s},
