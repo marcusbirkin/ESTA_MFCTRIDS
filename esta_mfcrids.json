@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-10-18T02:24:37Z",
+  "lastUpdated": "2026-10-25T02:34:51Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2111,6 +2111,12 @@
       "manufacturerID": 1208,
       "organizationName": "",
       "company": "Guangzhou Hongcai Stage Equipment Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1214,
+      "organizationName": "",
+      "company": "NOLO SAS",
       "registered": true
     },
     {
@@ -6704,6 +6710,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 4668,
+      "organizationName": "",
+      "company": "Arman Nurzhanov",
+      "registered": true
+    },
+    {
       "manufacturerID": 4672,
       "organizationName": "",
       "company": "Canary Yellow Applications",
@@ -7004,6 +7016,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 6138,
+      "organizationName": "",
+      "company": "AXN Systems",
+      "registered": true
+    },
+    {
       "manufacturerID": 6152,
       "organizationName": "",
       "company": "Guangzhou Jinye Electronic Technology Co., Ltd.",
@@ -7052,6 +7070,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 6282,
+      "organizationName": "",
+      "company": "Kim Min Seok",
+      "registered": true
+    },
+    {
       "manufacturerID": 6294,
       "organizationName": "",
       "company": "Triple E Ltd",
@@ -7079,6 +7103,12 @@
       "manufacturerID": 6401,
       "organizationName": "",
       "company": "Zhongshan Hiline Electronics Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 6402,
+      "organizationName": "",
+      "company": "STAGEVision tech",
       "registered": true
     },
     {
@@ -7538,6 +7568,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 9108,
+      "organizationName": "",
+      "company": "Oriol Calabuig Alemany",
+      "registered": true
+    },
+    {
       "manufacturerID": 9138,
       "organizationName": "",
       "company": "Gekko Technology Ltd.",
@@ -7888,7 +7924,7 @@
     {
       "manufacturerID": 11705,
       "organizationName": "",
-      "company": "Guangzhou Yeguang Lingdong Technology Co., Ltd.",
+      "company": "Guangzhou Jiuhao Electronic Technology Co., Ltd.",
       "registered": true
     },
     {
