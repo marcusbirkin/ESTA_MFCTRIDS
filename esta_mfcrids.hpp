@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-10-25T02:34:17Z
+ * @date 2026-11-01T03:36:59Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -534,7 +534,9 @@ namespace ESTA {
 			{0x006C, L"PIXELERR TECHNOLOGIES PRIVATE LIMITED"s},
 			{0x06CA, L"Leding"s},
 			{0x06CC, L"RGB Lights"s},
+			{0x06CD, L"CODEXA SOFTWARE (Pty) Ltd"s},
 			{0x06CE, L"American-Pro International"s},
+			{0x06CF, L"AMIMOR sp. z o.o."s},
 			{0x06D1, L"BIRUN ELECTRONIC INDUSTRIAL CO., LTD"s},
 			{0x06D2, L"LIGHTSTAR (BEIJING) ELECTRONIC CORPORATION"s},
 			{0x06D3, L"Boerner Distribution International GmbH"s},
@@ -608,6 +610,7 @@ namespace ESTA {
 			{0x0777, L"Antalya Elektronik Mühendislik Sanayi ve Tic Ltd Şti."s},
 			{0x077A, L"Oblique Systems"s},
 			{0x077B, L"GENLED Brands"s},
+			{0x077C, L"Julien Raulot EI"s},
 			{0x0780, L"Zedfy GmbH"s},
 			{0x0781, L"Profoto AB"s},
 			{0x0782, L"R9 Lighting"s},
@@ -1188,6 +1191,7 @@ namespace ESTA {
 			{0x150C, L"ACASS SYSTEMS LLC"s},
 			{0x152A, L"SHOWTACLE Ltd."s},
 			{0x154E, L"Fire & Magic"s},
+			{0x158D, L"Shenzhen Dazhi Optoelectronic Display Technology Co., Ltd."s},
 			{0x15A0, L"GuangZhou MCSWE Technologies, INC"s},
 			{0x15A2, L"FEIMEX"s},
 			{0x15D0, L"Music & Lights S.r.l."s},
@@ -1231,6 +1235,7 @@ namespace ESTA {
 			{0x19BB, L"Panalux Ltd."s},
 			{0x19BC, L"Newtone AS"s},
 			{0x19D7, L"TPK Optoelectronic Tech Co., Ltd."s},
+			{0x19E0, L"Illusion Universe Co. Ltd."s},
 			{0x19F8, L"CEZOS Spolka z ograniczona odpowiedzialnoscia, sp.k."s},
 			{0x1A00, L"LIGEO GmbH"s},
 			{0x1A0D, L"Cineo Lighting"s},
@@ -1244,6 +1249,7 @@ namespace ESTA {
 			{0x1AFA, L"TMB"s},
 			{0x1AFD, L"Shenzhen ZMO Information Technology Co., Ltd."s},
 			{0x1B7E, L"Kaltech Lighting Systems"s},
+			{0x1B9C, L"Vossloh-Schwabe Deutschland GmbH"s},
 			{0x1BB1, L"PH Lightning AB"s},
 			{0x1BC0, L"ALS Stanislaw Binkiewicz"s},
 			{0x1BC6, L"Studio S Music City"s},
