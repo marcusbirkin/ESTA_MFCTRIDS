@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-10-25T02:34:51Z",
+  "lastUpdated": "2026-11-01T03:37:30Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -2984,9 +2984,21 @@
       "registered": true
     },
     {
+      "manufacturerID": 1741,
+      "organizationName": "",
+      "company": "CODEXA SOFTWARE (Pty) Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 1742,
       "organizationName": "",
       "company": "American-Pro International",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1743,
+      "organizationName": "",
+      "company": "AMIMOR sp. z o.o.",
       "registered": true
     },
     {
@@ -3425,6 +3437,12 @@
       "manufacturerID": 1915,
       "organizationName": "",
       "company": "GENLED Brands",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1916,
+      "organizationName": "",
+      "company": "Julien Raulot EI",
       "registered": true
     },
     {
@@ -6908,6 +6926,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 5517,
+      "organizationName": "",
+      "company": "Shenzhen Dazhi Optoelectronic Display Technology Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 5536,
       "organizationName": "MCSWE",
       "company": "GuangZhou MCSWE Technologies, INC",
@@ -7166,6 +7190,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 6624,
+      "organizationName": "",
+      "company": "Illusion Universe Co. Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 6648,
       "organizationName": "",
       "company": "CEZOS Spolka z ograniczona odpowiedzialnoscia, sp.k.",
@@ -7241,6 +7271,12 @@
       "manufacturerID": 7038,
       "organizationName": "",
       "company": "Kaltech Lighting Systems",
+      "registered": true
+    },
+    {
+      "manufacturerID": 7068,
+      "organizationName": "",
+      "company": "Vossloh-Schwabe Deutschland GmbH",
       "registered": true
     },
     {
