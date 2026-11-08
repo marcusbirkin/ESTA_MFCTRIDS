@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-11-01T03:36:59Z
+ * @date 2026-11-08T03:41:32Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -352,6 +352,7 @@ namespace ESTA {
 			{0x03A8, L"ARTFOX"s},
 			{0x03AA, L"AIGA Electronic (GuangZhou) Co., Ltd."s},
 			{0x03AB, L"ABMICROLONDON"s},
+			{0x03AE, L"VLITES"s},
 			{0x03C6, L"NYSOFT"s},
 			{0x03CE, L"MVI LLC"s},
 			{0x03D5, L"eX Systems"s},
@@ -541,6 +542,7 @@ namespace ESTA {
 			{0x06D2, L"LIGHTSTAR (BEIJING) ELECTRONIC CORPORATION"s},
 			{0x06D3, L"Boerner Distribution International GmbH"s},
 			{0x06D4, L"LED House Co., Ltd."s},
+			{0x06D6, L"Kinora SAS"s},
 			{0x06D8, L"GUANGZHOU SUN-YUN TECHNOLOGY CO.,LTD"s},
 			{0x06D9, L"ELECTROCONCEPT SARL"s},
 			{0x06DC, L"SOMPI2.0 BV"s},
@@ -750,6 +752,7 @@ namespace ESTA {
 			{0x084F, L"Mantic Lighting Co.,Ltd"s},
 			{0x0850, L"Proland Group, LLC"s},
 			{0x0851, L"Junction Inc. Ltd"s},
+			{0x0852, L"SHD Systems Ltd"s},
 			{0x0853, L"Royal Ballet and Opera"s},
 			{0x0854, L"NEC Display Solutions, Ltd."s},
 			{0x0854, L"Sharp NEC Display Solutions, Ltd."s},
@@ -794,6 +797,7 @@ namespace ESTA {
 			{0x087F, L"Premier Sports Lighting, LLC"s},
 			{0x0880, L"GuangZhou LiDang Technology Inc."s},
 			{0x0881, L"Shenzhen Genesis-Systech Co., Ltd."s},
+			{0x0882, L"Beamtec Limited Co."s},
 			{0x0883, L"CEE Lighting Equipment Co.Ltd"s},
 			{0x0884, L"Bright Group"s},
 			{0x0885, L"SIRS-E"s},
@@ -1164,7 +1168,9 @@ namespace ESTA {
 			{0x125A, L"Dongguan Xuancaixin Optoelectronic Technology Co., Ltd."s},
 			{0x1268, L"Frontside Technology Services"s},
 			{0x126C, L"Pravdin Vitalii Fedotovych FOP"s},
+			{0x1272, L"Meros Inc"s},
 			{0x127E, L"Symphony Interactive Inc"s},
+			{0x128E, L"Simplyworks GmbH Bühnen- & Medientechnik"s},
 			{0x12B0, L"Novoshine Semiconductor Technology Co., Ltd."s},
 			{0x12DA, L"Newlab S.r.l."s},
 			{0x12E0, L"Luxlight Skandinavien AB"s},
@@ -1178,6 +1184,7 @@ namespace ESTA {
 			{0x134D, L"VT-Control"s},
 			{0x1370, L"Ingenieurbuero Stahlkopf"s},
 			{0x13AE, L"Smartpark Creative Solutions"s},
+			{0x145E, L"ASTEL d.o.o."s},
 			{0x1460, L"SEIKO Epson Corporation"s},
 			{0x1464, L"HUMAL Elektroonika OU"s},
 			{0x1489, L"ORVIT Entertainment Inc."s},
@@ -1226,7 +1233,10 @@ namespace ESTA {
 			{0x1900, L"ADJ Products LLC"s},
 			{0x1901, L"Zhongshan Hiline Electronics Co., Ltd."s},
 			{0x1902, L"STAGEVision tech"s},
+			{0x190E, L"Creetiv Technology Co., Ltd."s},
 			{0x1938, L"Solid State Luminaires"s},
+			{0x1941, L"Ikan International, LLC"s},
+			{0x1956, L"Caligri GmbH"s},
 			{0x1998, L"PLS Electronics Ltd."s},
 			{0x19A7, L"Djip Co Industries"s},
 			{0x19B3, L"Stage Audio Works"s},
@@ -1251,6 +1261,7 @@ namespace ESTA {
 			{0x1B7E, L"Kaltech Lighting Systems"s},
 			{0x1B9C, L"Vossloh-Schwabe Deutschland GmbH"s},
 			{0x1BB1, L"PH Lightning AB"s},
+			{0x1BBD, L"Electroniques et Spectacle"s},
 			{0x1BC0, L"ALS Stanislaw Binkiewicz"s},
 			{0x1BC6, L"Studio S Music City"s},
 			{0x1C80, L"Vehtec Tecnologia Ltda"s},
@@ -1517,6 +1528,7 @@ namespace ESTA {
 			{0x4A31, L"Joshua 1 Systems Inc."s},
 			{0x4A41, L"JANUS srl"s},
 			{0x4A42, L"JB-lighting GmbH"s},
+			{0x4A43, L"JCNet Co.,Ltd."s},
 			{0x4A48, L"James Harris"s},
 			{0x4A4C, L"Johnsson Lighting Technologies AB"s},
 			{0x4A53, L"JSC 'MFG'"s},
@@ -1532,6 +1544,7 @@ namespace ESTA {
 			{0x4B55, L"kuwatec, Inc."s},
 			{0x4C20, L"LAM32 srl"s},
 			{0x4C41, L"LaserAnimation Sollinger GmbH"s},
+			{0x4C43, L"LC Formation"s},
 			{0x4C44, L"LVDIAN PHOTOELECTRIC SCIENCE TECHNOLOGY LIMITED"s},
 			{0x4C45, L"Leviton Manufacturing Co., Inc."s},
 			{0x4C47, L"LightGeist Ltd."s},
@@ -1805,6 +1818,7 @@ namespace ESTA {
 			{0x7900, L"Leprecon / CAE, Inc."s},
 			{0x790D, L"Guangzhou Shengyuan Electronic Technology Co., Ltd"s},
 			{0x79BC, L"DC Reactive"s},
+			{0x7A1E, L"WEAREONE.world BV"s},
 			{0x7A70, L"Open Lighting"s},
 			{0x7AA0, L"Anaren Inc."s},
 			{0x7AAA, L"WEAD (Wagner Electronic and Design)"s},
