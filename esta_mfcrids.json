@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-11-01T03:37:30Z",
+  "lastUpdated": "2026-11-08T03:42:02Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -1892,6 +1892,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 942,
+      "organizationName": "",
+      "company": "VLITES",
+      "registered": true
+    },
+    {
       "manufacturerID": 966,
       "organizationName": "",
       "company": "NYSOFT",
@@ -3023,6 +3029,12 @@
       "manufacturerID": 1748,
       "organizationName": "",
       "company": "LED House Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1750,
+      "organizationName": "",
+      "company": "Kinora SAS",
       "registered": true
     },
     {
@@ -4280,6 +4292,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 2130,
+      "organizationName": "",
+      "company": "SHD Systems Ltd",
+      "registered": true
+    },
+    {
       "manufacturerID": 2131,
       "organizationName": "",
       "company": "Royal Ballet and Opera",
@@ -4541,6 +4559,12 @@
       "manufacturerID": 2177,
       "organizationName": "",
       "company": "Shenzhen Genesis-Systech Co., Ltd.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 2178,
+      "organizationName": "",
+      "company": "Beamtec Limited Co.",
       "registered": true
     },
     {
@@ -6764,9 +6788,21 @@
       "registered": true
     },
     {
+      "manufacturerID": 4722,
+      "organizationName": "",
+      "company": "Meros Inc",
+      "registered": true
+    },
+    {
       "manufacturerID": 4734,
       "organizationName": "",
       "company": "Symphony Interactive Inc",
+      "registered": true
+    },
+    {
+      "manufacturerID": 4750,
+      "organizationName": "",
+      "company": "Simplyworks GmbH B\u00fchnen- & Medientechnik",
       "registered": true
     },
     {
@@ -6845,6 +6881,12 @@
       "manufacturerID": 5038,
       "organizationName": "",
       "company": "Smartpark Creative Solutions",
+      "registered": true
+    },
+    {
+      "manufacturerID": 5214,
+      "organizationName": "",
+      "company": "ASTEL d.o.o.",
       "registered": true
     },
     {
@@ -7136,9 +7178,27 @@
       "registered": true
     },
     {
+      "manufacturerID": 6414,
+      "organizationName": "",
+      "company": "Creetiv Technology Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 6456,
       "organizationName": "",
       "company": "Solid State Luminaires",
+      "registered": true
+    },
+    {
+      "manufacturerID": 6465,
+      "organizationName": "",
+      "company": "Ikan International, LLC",
+      "registered": true
+    },
+    {
+      "manufacturerID": 6486,
+      "organizationName": "",
+      "company": "Caligri GmbH",
       "registered": true
     },
     {
@@ -7283,6 +7343,12 @@
       "manufacturerID": 7089,
       "organizationName": "",
       "company": "PH Lightning AB",
+      "registered": true
+    },
+    {
+      "manufacturerID": 7101,
+      "organizationName": "",
+      "company": "Electroniques et Spectacle",
       "registered": true
     },
     {
@@ -8882,6 +8948,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 19011,
+      "organizationName": "",
+      "company": "JCNet Co.,Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 19016,
       "organizationName": "",
       "company": "James Harris",
@@ -8969,6 +9041,12 @@
       "manufacturerID": 19521,
       "organizationName": "",
       "company": "LaserAnimation Sollinger GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 19523,
+      "organizationName": "",
+      "company": "LC Formation",
       "registered": true
     },
     {
@@ -10607,6 +10685,12 @@
       "manufacturerID": 31164,
       "organizationName": "",
       "company": "DC Reactive",
+      "registered": true
+    },
+    {
+      "manufacturerID": 31262,
+      "organizationName": "WeAreOne.World",
+      "company": "WEAREONE.world BV",
       "registered": true
     },
     {
