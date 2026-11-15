@@ -2,7 +2,7 @@
  * @file esta_mfcrids.hpp
  * @brief ESTA ManufacturerIDs
  * @details Auto generated from https://tsp.esta.org/tsp/working_groups/CP/mfctrIDs.php
- * @date 2026-11-08T03:41:32Z
+ * @date 2026-11-15T04:04:57Z
  */
 
 #ifndef ESTA_MFCTRIDS_HPP
@@ -581,6 +581,7 @@ namespace ESTA {
 			{0x071F, L"Moss LED Inc"s},
 			{0x0720, L"Twoloox GmbH"s},
 			{0x0724, L"PHC Lighting & BMS Sp. z o.o."s},
+			{0x0729, L"S.C. Electro Max SRL"s},
 			{0x072B, L"NEWSUBSTANCE Ltd."s},
 			{0x072C, L"SGM A/S"s},
 			{0x072D, L"Sting Alleman"s},
@@ -1248,18 +1249,22 @@ namespace ESTA {
 			{0x19E0, L"Illusion Universe Co. Ltd."s},
 			{0x19F8, L"CEZOS Spolka z ograniczona odpowiedzialnoscia, sp.k."s},
 			{0x1A00, L"LIGEO GmbH"s},
+			{0x1A01, L"Del Innovation Design Inc."s},
 			{0x1A0D, L"Cineo Lighting"s},
 			{0x1A16, L"WADAK GmbH"s},
 			{0x1A1A, L"ValDim Waterfountains Ltd."s},
 			{0x1A3D, L"Red Lighting s.r.l."s},
 			{0x1A46, L"StageMatter"s},
+			{0x1A55, L"Hangzhou Shixu Digital Technology Co., Ltd."s},
 			{0x1A58, L"Wuxi Seastar Lighting Co.,Ltd."s},
 			{0x1AAF, L"Gigacolor  technology Co., Ltd."s},
 			{0x1AE2, L"Jonas Rüter"s},
 			{0x1AFA, L"TMB"s},
 			{0x1AFD, L"Shenzhen ZMO Information Technology Co., Ltd."s},
+			{0x1B6F, L"Guangzhou Bojiang Optoelectronics Co., Ltd."s},
 			{0x1B7E, L"Kaltech Lighting Systems"s},
 			{0x1B9C, L"Vossloh-Schwabe Deutschland GmbH"s},
+			{0x1BAB, L"Guangzhou Weiyuan Electron Technology Co., Ltd."s},
 			{0x1BB1, L"PH Lightning AB"s},
 			{0x1BBD, L"Electroniques et Spectacle"s},
 			{0x1BC0, L"ALS Stanislaw Binkiewicz"s},
@@ -1566,7 +1571,7 @@ namespace ESTA {
 			{0x4C65, L"Legargeant and Associates"s},
 			{0x4C69, L"LIGHTOLIER"s},
 			{0x4C6C, L"Lampo Lighting Designers"s},
-			{0x4C73, L"LSC Lighting Systems (Aust) Pty. Ltd."s},
+			{0x4C73, L""s},
 			{0x4CDC, L"acdc LED Ltd."s},
 			{0x4CE5, L"LED Company s.r.o."s},
 			{0x4D41, L"MA Lighting Technology GmbH"s},
