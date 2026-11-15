@@ -1,5 +1,5 @@
 ﻿{
-  "lastUpdated": "2026-11-08T03:42:02Z",
+  "lastUpdated": "2026-11-15T04:05:35Z",
   "manufacturers": [
     {
       "manufacturerID": 0,
@@ -3263,6 +3263,12 @@
       "manufacturerID": 1828,
       "organizationName": "",
       "company": "PHC Lighting & BMS Sp. z o.o.",
+      "registered": true
+    },
+    {
+      "manufacturerID": 1833,
+      "organizationName": "",
+      "company": "S.C. Electro Max SRL",
       "registered": true
     },
     {
@@ -7268,6 +7274,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 6657,
+      "organizationName": "",
+      "company": "Del Innovation Design Inc.",
+      "registered": true
+    },
+    {
       "manufacturerID": 6669,
       "organizationName": "",
       "company": "Cineo Lighting",
@@ -7295,6 +7307,12 @@
       "manufacturerID": 6726,
       "organizationName": "",
       "company": "StageMatter",
+      "registered": true
+    },
+    {
+      "manufacturerID": 6741,
+      "organizationName": "",
+      "company": "Hangzhou Shixu Digital Technology Co., Ltd.",
       "registered": true
     },
     {
@@ -7328,6 +7346,12 @@
       "registered": true
     },
     {
+      "manufacturerID": 7023,
+      "organizationName": "",
+      "company": "Guangzhou Bojiang Optoelectronics Co., Ltd.",
+      "registered": true
+    },
+    {
       "manufacturerID": 7038,
       "organizationName": "",
       "company": "Kaltech Lighting Systems",
@@ -7337,6 +7361,12 @@
       "manufacturerID": 7068,
       "organizationName": "",
       "company": "Vossloh-Schwabe Deutschland GmbH",
+      "registered": true
+    },
+    {
+      "manufacturerID": 7083,
+      "organizationName": "",
+      "company": "Guangzhou Weiyuan Electron Technology Co., Ltd.",
       "registered": true
     },
     {
@@ -9177,8 +9207,8 @@
     },
     {
       "manufacturerID": 19571,
-      "organizationName": "",
-      "company": "LSC Lighting Systems (Aust) Pty. Ltd.",
+      "organizationName": "LSC Control Systems Pty Ltd",
+      "company": "",
       "registered": true
     },
     {
